@@ -1,5 +1,4 @@
 import pandas as pd
-from datetime import datetime
 
 class NotinoTransformation:
     def __init__(self, country: str, retailer: str):
@@ -21,7 +20,6 @@ class NotinoTransformation:
         
         transformed_df['country'] = self.country
         transformed_df['currency'] = 'gbp/£'
-        transformed_df['scraped_at'] = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
         # Price stuff
         transformed_df['price'] = transformed_df['price'].astype(float)

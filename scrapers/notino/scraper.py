@@ -1,6 +1,7 @@
 # import any libraries you want
 import pandas as pd
 import json
+from datetime import datetime
 from bs4 import BeautifulSoup
 
 from abstract.abstract_scraper import AbstractScraper
@@ -63,11 +64,17 @@ class NotinoScraper(AbstractScraper):
 
         # Pagination
         json_data = self.notino_req(0, headers)
+        if not json_data:
+            return None
+        
         last_page = json_data.get('fragmentContextData', {}).get('DataContextProvider', {}).get('listing', {}).get('numberOfPages', 0)
 
         # I eventually found that all the items in a category can be 
         # found by accessing the last page of the list directly
         json_data = self.notino_req(last_page + 1, headers)
+        if not json_data:
+            return None
+        
         products = json_data.get('fragmentContextData', {}).get('DataContextProvider', {}).get('listing', {}).get('products', [])
             
         print(f'Products in total: {len(products)}')
@@ -84,7 +91,8 @@ class NotinoScraper(AbstractScraper):
                 'promocode': item.get('promotionData', {}).get('voucherCode', ''),
                 'discount_value': item.get('promotionData', {}).get('discountValue', 0.0),
                 'url': item.get('url', ''),
-                'img': item.get('imageUrl', '')
+                'img': item.get('imageUrl', ''),
+                'scraped_at': datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             }
             essential_data.append(item_data)
 
@@ -97,5 +105,8 @@ def main(retailer: str, country: str) -> pd.DataFrame:
     return products_df
 
 if __name__ == "__main__":
-    df_raw = main(retailer="notino", country="cz")
-    df_raw.to_csv("notino_raw.csv", index=False)
+    df_raw = main(retailer="notino", country="uk")
+    if df_raw is None:
+        print("Failed to scrape data")
+    else:
+        df_raw.to_csv("notino_raw.csv", index=False)

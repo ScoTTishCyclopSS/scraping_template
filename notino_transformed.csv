@@ -1,512 +1,514 @@
-id,name,brand,price,currency,has_discount,promocode,discount_value,price_after_sale,discount_amount,url,img,country,scraped_at
-523108,Whitening,Opalescence,3.5,gbp/£,True,teeth,15,2.98,0.52,/opalescence/original-formula-whitening-toothpaste-with-fluoride/,/opalescence/883205029492_01-o__160127.jpg,uk,2024-05-07 22:08:41
-565563,Expert Black Whitening,Ecodenta,4.8,gbp/£,True,teeth,15,4.08,0.72,/ecodenta/expert-extra-black-whitening-toothpaste/,/ecodenta/4770001336991_01-o__160825.jpg,uk,2024-05-07 22:08:41
-612486,Extra Fresh,Parodontax,3.7,gbp/£,True,teeth,15,3.14,0.56,/parodontax/extra-fresh-toothpaste-for-bleeding-gums/,/parodontax/3830029294626_01__140428.jpg,uk,2024-05-07 22:08:41
-16197078,Triple Action Original Mint,Colgate,1.5,gbp/£,False,,0,1.5,0.0,/colgate/triple-action-duopack-toothpaste/,/colgate/6920354835971_01-o__230810.jpg,uk,2024-05-07 22:08:41
-15909154,The Mints Cinnamon,Marvis,2.9,gbp/£,True,teeth,15,2.46,0.44,/marvis/cinnamon-mint-toothpaste/,/marvis/8004395110414_01-o__150112.jpg,uk,2024-05-07 22:08:41
-503548,Caries Protection,Elmex,5.0,gbp/£,True,teeth,15,4.25,0.75,/elmex/caries-protection-anti-decay-toothpaste-with-fluoride/,/elmex/4007965560002_11-o__140311.jpg,uk,2024-05-07 22:08:41
-16109068,Whitening Mint,Marvis,3.9,gbp/£,True,teeth,15,3.32,0.58,/marvis/whitening-mint-toothpaste-with-whitening-effect/,/marvis/8004395111312_01-o__211122.jpg,uk,2024-05-07 22:08:41
-499436,Classic,Parodontax,3.8,gbp/£,False,,0,3.8,0.0,/parodontax/classic-anti-bleeding-toothpaste-without-fluoride/,/parodontax/4047400392041_01-o__140428.jpg,uk,2024-05-07 22:08:41
-543893,Opti-namel Seal & Strengthen,Elmex,6.5,gbp/£,False,,0,6.5,0.0,/elmex/opti-namel-seal-strengthen-toothpaste-dental-enamel-protection/,/elmex/7610108054824_01-o__230215.jpg,uk,2024-05-07 22:08:41
-450436,The Mints Classic Strong,Marvis,3.4,gbp/£,True,teeth,15,2.89,0.51,/marvis/classic-strong-mint-toothpaste/,/marvis/8004395110063_01-o__141111.jpg,uk,2024-05-07 22:08:41
-15965109,Sensitive Whitening,Elmex,8.3,gbp/£,True,teeth,15,7.06,1.24,/elmex/sensitive-whitening-toothpaste-for-naturally-white-teeth-73519/,/elmex/8590232000210_11-o__190716.jpg,uk,2024-05-07 22:08:41
-467339,Max White Luminous,Colgate,4.5,gbp/£,True,teeth,15,3.82,0.68,/colgate/max-white-luminous-toothpaste-for-pearly-white-teeth/,/colgate/8714789867274_01-o__221128.jpg,uk,2024-05-07 22:08:41
-16212393,Total Protective Repair,Biorepair,2.4,gbp/£,False,,0,2.4,0.0,/biorepair/total-protective-repair-reinforcing-toothpaste/,/biorepair/8017331069691_01-o__230906.jpg,uk,2024-05-07 22:08:41
-11616317,Intensive Stain Removal,BlanX,5.2,gbp/£,True,teeth,15,4.42,0.78,/blanx/intensive-stain-removal-whitening-toothpaste/,/blanx/8006320054763_01-o__180221.jpg,uk,2024-05-07 22:08:41
-539381,Fluoride,Parodontax,5.0,gbp/£,False,,0,5.0,0.0,/parodontax/fluoride-anti-bleeding-toothpaste/,/parodontax/4047400393048_01-o__221027.jpg,uk,2024-05-07 22:08:41
-16068251,Whitening,BlanX,3.4,gbp/£,True,teeth,15,2.89,0.51,/blanx/whitening-whitening-toothpaste/,/blanx/8017331051474_01-o__210205.jpg,uk,2024-05-07 22:08:41
-632686,Junior 6-12,Biorepair,3.1,gbp/£,False,,0,3.1,0.0,/biorepair/junior-toothpaste-for-children-without-fluoride/,/biorepair/8017331054093_01-o__220310.jpg,uk,2024-05-07 22:08:41
-625033,Plus Total Protection,Biorepair,4.2,gbp/£,True,teeth,15,3.57,0.63,/biorepair/plus-protect-tooth-enamel-fortifying-toothpaste/,/biorepair/brpprow_ktps45_01__170616.jpg,uk,2024-05-07 22:08:41
-16052614,Gum Protection,Meridol,5.6,gbp/£,False,,0,5.6,0.0,/meridol/meridol-anti-bleeding-toothpaste/,/meridol/8590232000470_01-o__230807.jpg,uk,2024-05-07 22:08:41
-408337,Pro White,Biorepair,4.0,gbp/£,False,,0,4.0,0.0,/biorepair/whitening-whitening-toothpaste/,/biorepair/brpwhiw_ktps45__130828.jpg,uk,2024-05-07 22:08:41
-16068223,Fast Sensitive Repair,Biorepair,3.6,gbp/£,True,teeth,15,3.06,0.54,/biorepair/fast-sensitive-repair-toothpaste/,/biorepair/8017331048443_01-o__220811.jpg,uk,2024-05-07 22:08:41
-495166,Sensitive,Elmex,4.5,gbp/£,True,teeth,15,3.82,0.68,/elmex/sensitive-paste-for-sensitive-teeth/,/elmex/7610108059249_11-o__150518.jpg,uk,2024-05-07 22:08:41
-408336,Advanced Intensive Night,Biorepair,4.7,gbp/£,False,,0,4.7,0.0,/biorepair/intensive-night-repair-night-care/,/biorepair/8017331064092_01-o__130724.jpg,uk,2024-05-07 22:08:41
-16016247,Extra Whitening,Sensodyne,8.0,gbp/£,True,teeth,15,6.8,1.2,/sensodyne/extra-whitening-whitening-toothpaste-with-fluoride-for-sensitive-teeth-394207/,/sensodyne/5054563078025_01-o__210908.jpg,uk,2024-05-07 22:08:41
-455884,Enzycal 1450,Curaprox,5.9,gbp/£,True,teeth,15,5.02,0.88,/curaprox/enzycal-1450-toothpaste/,/curaprox/7612412070002_01-o__141218.jpg,uk,2024-05-07 22:08:41
-617752,Junior 6-12 Years,Elmex,6.6,gbp/£,False,,0,6.6,0.0,/elmex/junior-6-12-years-toothpaste-for-children-73188/,/elmex/8714789973142_01-o__230215.jpg,uk,2024-05-07 22:08:41
-422826,Whitening,Parodontax,5.0,gbp/£,True,teeth,15,4.25,0.75,/parodontax/whitening-whitening-toothpaste-for-bleeding-gums/,/parodontax/5999518582175_01-o__140428.jpg,uk,2024-05-07 22:08:41
-16052011,Caries Protection Kids,Elmex,6.6,gbp/£,False,,0,6.6,0.0,/elmex/caries-protection-kids-toothpaste-for-children/,/elmex/8590232000401_01-o__220203.jpg,uk,2024-05-07 22:08:41
-408346,Kids 0-6,Biorepair,2.6,gbp/£,False,,0,2.6,0.0,/biorepair/junior-toothpaste-for-kids/,/biorepair/8017331035634_01-o__130828.jpg,uk,2024-05-07 22:08:41
-614788,Plus Sensitive Teeth,Biorepair,4.6,gbp/£,True,teeth,15,3.91,0.69,/biorepair/plus-sensitive-tooth-enamel-restoring-toothpaste-for-sensitive-teeth/,/biorepair/brpdsbw_ktps10_01__170410.jpg,uk,2024-05-07 22:08:41
-15661153,Natural Extracts Ultimate Fresh,Colgate,3.4,gbp/£,True,teeth,15,2.89,0.51,/colgate/natural-extract-ultimate-fresh-toothpaste/,/colgate/8718951131644_01-o__221128.jpg,uk,2024-05-07 22:08:41
-16003593,Perio Plus+ Support 0.09 CHX,Curaprox,7.3,gbp/£,True,teeth,15,6.2,1.1,/curaprox/perio-plus-support-009-chx-toothpaste-against-gum-bleeding-and-periodontal-disease/,/curaprox/7612412427288_01-o__191204.jpg,uk,2024-05-07 22:08:41
-16128371,Peribioma Pro,Biorepair,4.7,gbp/£,False,,0,4.7,0.0,/biorepair/peribioma-pro-toothpaste-for-sensitive-teeth/,/biorepair/8017331064115_01-o__220530.jpg,uk,2024-05-07 22:08:41
-658004,The Mints Jasmin,Marvis,3.0,gbp/£,True,teeth,15,2.55,0.45,/marvis/jasmin-mint-toothpaste/,/marvis/8004395111756_01-o__171120.jpg,uk,2024-05-07 22:08:41
-15716861,The Mints Aquatic,Marvis,3.9,gbp/£,True,teeth,15,3.32,0.58,/marvis/aquatic-mint-toothpaste/,/marvis/8004395111725_01-o__171120.jpg,uk,2024-05-07 22:08:41
-16119909,Caries Abrasion & Erosion,Curasept,7.8,gbp/£,False,,0,7.8,0.0,/curasept/caries-abrasion-erosion-anti-decay-toothpaste/,/curasept/8056746072445_01-o__220203.jpg,uk,2024-05-07 22:08:41
-15924549,Sensitive,Elmex,6.4,gbp/£,False,,0,6.4,0.0,/elmex/sensitive-plus-cosmetic-set-i/,/elmex/8714789994208_01-o__240223.jpg,uk,2024-05-07 22:08:41
-16132907,Toothpaste 1-5 years,Chicco,4.2,gbp/£,False,,0,4.2,0.0,/chicco/toothpaste-1-5-years-toothpaste-for-children/,/chicco/8003670743651_01-o__231113.jpg,uk,2024-05-07 22:08:41
-15672077,Complete Protection Extra Fresh,Parodontax,5.9,gbp/£,True,teeth,15,5.02,0.88,/parodontax/complete-protection-extra-fresh-fluoride-toothpaste-for-healthy-teeth-and-gums/,/parodontax/5054563040596_01-o__180504.jpg,uk,2024-05-07 22:08:41
-16088833,Gum Protection Toothpaste,Biorepair,4.0,gbp/£,True,teeth,15,3.4,0.6,/biorepair/oral-care-gum-protection-gum-protection-toothpaste/,/biorepair/8017331054192_01-o__210825.jpg,uk,2024-05-07 22:08:41
-16069866,Plus Pro White,Biorepair,4.7,gbp/£,True,teeth,15,4.0,0.7,/biorepair/plus-pro-white-whitening-toothpaste/,/biorepair/8017331055380_01-o__210301.jpg,uk,2024-05-07 22:08:41
-614613,Plus Parodontgel,Biorepair,4.6,gbp/£,True,teeth,15,3.91,0.69,/biorepair/plus-parodontal-tooth-enamel-fortifying-toothpaste-to-treat-periodontitis/,/biorepair/brpprgw_ktps15_01__170410.jpg,uk,2024-05-07 22:08:41
-16125801,Biosmalto Sensitive Teeth,Curasept,7.8,gbp/£,False,,0,7.8,0.0,/curasept/biosmalto-sensitive-teeth-sensitive-toothpaste/,/curasept/8056746072506_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16124203,Nordic White,BlanX,3.4,gbp/£,False,,0,3.4,0.0,/blanx/nordic-white-whitening-toothpaste/,/blanx/8017331077825_01-o__220401.jpg,uk,2024-05-07 22:08:41
-16115585,Kids 2+,Curaprox,5.4,gbp/£,False,,0,5.4,0.0,/curaprox/kids-2-strawberry-toothpaste-for-children/,/curaprox/7612412429473_01-o__220225.jpg,uk,2024-05-07 22:08:41
-16145059,Biomed Sensitive,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-sensitive-bioactive-toothpaste-for-healthy-gums-and-teeth-sensitivity-reduction/,/splat/2800015078371_01-o__220908.jpg,uk,2024-05-07 22:08:41
-15850581,Natural Extracts Charcoal + White,Colgate,2.7,gbp/£,False,,0,2.7,0.0,/colgate/natural-extracts-charcoal-white-whitening-toothpaste-with-activated-charcoal/,/colgate/6920354822421_01-o__220801.jpg,uk,2024-05-07 22:08:41
-16139594,Protect 7 Extra Fresh,Blend-a-med,1.3,gbp/£,False,,0,1.3,0.0,/blend-a-med/protect-7-extra-fresh-toothpaste-for-fresh-breath/,/blend-a-med/8001090717757_01-o__230221.jpg,uk,2024-05-07 22:08:41
-470838,Enzycal 950,Curaprox,5.9,gbp/£,True,teeth,15,5.02,0.88,/curaprox/enzycal-950-toothpaste/,/curaprox/7612412422436_01-o__150224.jpg,uk,2024-05-07 22:08:41
-479419,Daily White,Signal,1.7,gbp/£,True,teeth,15,1.44,0.26,/signal/daily-white-toothpaste-with-whitening-effect/,/signal/sigdlwu_ktps20__150511.jpg,uk,2024-05-07 22:08:41
-15970146,Orange Blossom Bloom,Marvis,5.6,gbp/£,True,teeth,15,4.76,0.84,/marvis/marvis-orange-blossom-bloom-toothpaste/,/marvis/8004395111626_01-o__190911.jpg,uk,2024-05-07 22:08:41
-16068220,Kids 0-6,Biorepair,2.7,gbp/£,False,,0,2.7,0.0,/biorepair/junior-toothpaste-for-children/,/biorepair/8017331069202_01-o__210205.jpg,uk,2024-05-07 22:08:41
-543970,Whitening Sensitivity Relief,Opalescence,3.5,gbp/£,True,teeth,15,2.98,0.52,/opalescence/sensitivity-relief-whitening-toothpaste-for-sensitive-teeth/,/opalescence/883205029430_01-o__160513.jpg,uk,2024-05-07 22:08:41
-16157771,Healthy Gums,MEDIBLANC,11.7,gbp/£,True,20promo,20,9.36,2.34,/mediblanc/healthy-gums-gum-protection-toothpaste/,/mediblanc/8059300530559-o__221027.jpg,uk,2024-05-07 22:08:41
-16068222,Advanced Active Shield,Biorepair,4.7,gbp/£,True,teeth,15,4.0,0.7,/biorepair/advanced-active-shield-toothpaste/,/biorepair/8017331064078_01-o__210205.jpg,uk,2024-05-07 22:08:41
-15969177,Flavour Collection,Marvis,17.6,gbp/£,True,teeth,15,14.96,2.64,/marvis/marvis-flavour-collection-cosmetic-set-iii/,/marvis/8004395111008_01-o__190904.jpg,uk,2024-05-07 22:08:41
-418781,Repair & Protect,Sensodyne,4.9,gbp/£,False,,0,4.9,0.0,/sensodyne/repair-protect-toothpaste-for-sensitive-teeth-73385/,/sensodyne/5054563103567_01-o__210908.jpg,uk,2024-05-07 22:08:41
-479410,Micro-Granules,Signal,2.4,gbp/£,False,,0,2.4,0.0,/signal/micro-granules-toothpaste/,/signal/sigmrcu_ktps10__150511.jpg,uk,2024-05-07 22:08:41
-16188820,Propolis Healthy Gums,Colgate,1.4,gbp/£,False,,0,1.4,0.0,/colgate/propolis-healthy-gums-sensitive-toothpaste/,/colgate/6920354836039_01-o__230510.jpg,uk,2024-05-07 22:08:41
-16145060,Biomed Superwhite,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-superwhite-reinforcing-toothpaste-with-coconut-oil/,/splat/2800015078357_01-o__220908.jpg,uk,2024-05-07 22:08:41
-16143787,Ewa Chodakowska Extra Strong Lemon & Mint,beBIO,3.4,gbp/£,True,teeth,15,2.89,0.51,/bebio/ewa-chodakowska-extra-strong-lemon-mint-natural-paste-for-teeth/,/bebio/5908233661362_01-o__220824.jpg,uk,2024-05-07 22:08:41
-16068250,White Detox Coconut,BlanX,3.4,gbp/£,False,,0,3.4,0.0,/blanx/white-detox-coconut-whitening-toothpaste/,/blanx/8017331071540_01-o__210205.jpg,uk,2024-05-07 22:08:41
-15672078,Complete Protection Whitening,Parodontax,6.0,gbp/£,False,,0,6.0,0.0,/parodontax/complete-protection-whitening-whitening-toothpaste-with-fluoride/,/parodontax/5054563039095_01-o__180504.jpg,uk,2024-05-07 22:08:41
-16145057,Biomed Gum Health,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-gum-health-organic-toothpaste/,/splat/2800015078395_01-o__220908.jpg,uk,2024-05-07 22:08:41
-534205,Herbal Fresh,Signal,1.7,gbp/£,True,teeth,15,1.44,0.26,/signal/herbal-fresh-toothpaste/,/signal/sighrfu_ktps05__150511.jpg,uk,2024-05-07 22:08:41
-16139602,3D White Arctic Fresh,Blend-a-med,1.7,gbp/£,True,teeth,15,1.44,0.26,/blend-a-med/3d-white-arctic-fresh-whitening-toothpaste/,/blend-a-med/8006540793039_01-o__230221.jpg,uk,2024-05-07 22:08:41
-16156107,Natural Toothpaste White Fluoride,BEN&ANNA,6.4,gbp/£,True,teeth,15,5.44,0.96,/benanna/natural-toothpaste-white-fluoride-whitening-toothpaste-with-fluoride/,/benanna/4260491220943_01.-o__221101.jpg,uk,2024-05-07 22:08:41
-473373,Desensitizing Enamel-Repair Shock Treatment,Biorepair,8.1,gbp/£,True,teeth,15,6.88,1.22,/biorepair/desensibility-and-enamel-repair-treatment-cosmetic-set-i/,/biorepair/brpderw_kset10__150318.jpg,uk,2024-05-07 22:08:41
-16156106,Natural Toothpaste White,BEN&ANNA,6.4,gbp/£,True,teeth,15,5.44,0.96,/benanna/natural-toothpaste-white-whitening-toothpaste/,/benanna/4260491220516_01-o__221101.jpg,uk,2024-05-07 22:08:41
-16152208,Integral 8 Natural Elements,Signal,2.3,gbp/£,True,teeth,15,1.95,0.35,/signal/integral-8-natural-elements-toothpaste/,/signal/8710447328095_01-o__221019.jpg,uk,2024-05-07 22:08:41
-15830416,Sensitivity & Gum,Sensodyne,4.1,gbp/£,True,teeth,15,3.48,0.62,/sensodyne/sensitivity-gum-sensitive-toothpaste-577854/,/sensodyne/5054563050847_01-o__210908.jpg,uk,2024-05-07 22:08:41
-16212209,Glo Professional White,White Glo,5.4,gbp/£,True,teeth,15,4.59,0.81,/white-glo/charcoal-whitening-toothpaste/,/white-glo/9319871002152_01-o__231109.jpg,uk,2024-05-07 22:08:41
-16145056,Biomed Citrus Fresh,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-citrus-fresh-gum-protection-toothpaste/,/splat/2800015078364_01-o__220908.jpg,uk,2024-05-07 22:08:41
-15830417,Sensitivity & Gum Whitening,Sensodyne,3.7,gbp/£,True,teeth,15,3.14,0.56,/sensodyne/sensitivity-gum-whitening-whitening-toothpaste-for-protection-of-teeth-and-gums-577855/,/sensodyne/5054563050816_01-o__210908.jpg,uk,2024-05-07 22:08:41
-601023,3D White,Blend-a-med,1.4,gbp/£,False,,0,1.4,0.0,/blend-a-med/3d-white-toothpaste-with-whitening-effect/,/blend-a-med/ble3dww_ktps05_01__170130.jpg,uk,2024-05-07 22:08:41
-530306,Herbal White,Colgate,1.5,gbp/£,False,,0,1.5,0.0,/colgate/herbal-white-herbal-toothpaste-with-whitening-effect/,/colgate/8714789098838_01-o__240229.jpg,uk,2024-05-07 22:08:41
-501887,Max White Expert Original,Colgate,4.4,gbp/£,False,,0,4.4,0.0,/colgate/max-white-expert-white-whitening-toothpaste/,/colgate/7509546064857_01-o__221125.jpg,uk,2024-05-07 22:08:41
-658003,The Mints Ginger,Marvis,2.7,gbp/£,True,teeth,15,2.3,0.4,/marvis/ginger-mint-toothpaste/,/marvis/8004395111732_01-o__171120.jpg,uk,2024-05-07 22:08:41
-15924541,Caries Protection,Elmex,8.6,gbp/£,True,teeth,15,7.31,1.29,/elmex/caries-protection-cosmetic-set-i/,/elmex/8714789994185_01-o__230109.jpg,uk,2024-05-07 22:08:41
-15963106,Anti-Caries Professional,Elmex,6.5,gbp/£,True,teeth,15,5.52,0.98,/elmex/anti-caries-professional-anti-decay-toothpaste/,/elmex/8718951279551_01-o__220203.jpg,uk,2024-05-07 22:08:41
-15970145,The Mints Anise,Marvis,2.8,gbp/£,True,teeth,15,2.38,0.42,/marvis/marvis-anise-mint-toothpaste/,/marvis/8004395111879_01-o__190911.jpg,uk,2024-05-07 22:08:41
-87044,Dental Care,Weleda,5.0,gbp/£,True,teeth,15,4.25,0.75,/weleda/dental-care-toothpaste-with-sea-salt/,/weleda/4001638098090_01-o__230809.jpg,uk,2024-05-07 22:08:41
-16145055,Biomed Charcoal,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-charcoal-whitening-toothpaste-with-activated-charcoal/,/splat/2800015078388_01-o__220908.jpg,uk,2024-05-07 22:08:41
-16077195,Charcoal,White Glo,5.4,gbp/£,False,,0,5.4,0.0,/white-glo/charcoal-dental-care-set/,/white-glo/9319871001070_01-o__210524.jpg,uk,2024-05-07 22:08:41
-16185632,White Now Gold,Signal,4.1,gbp/£,True,teeth,15,3.48,0.62,/signal/white-now-gold-toothpaste/,/signal/8720181327155_01-o__230411.jpg,uk,2024-05-07 22:08:41
-542988,White Now,Signal,3.9,gbp/£,True,teeth,15,3.32,0.58,/signal/white-now-toothpaste-with-whitening-effect/,/signal/8717644461068_01-o__230106.jpg,uk,2024-05-07 22:08:41
-16226343,Sensitive Gums Mint,Marvis,7.8,gbp/£,True,teeth,15,6.63,1.17,/marvis/sensitive-gums-mint-sensitive-toothpaste/,/marvis/8004395112425_01-o__240305.jpg,uk,2024-05-07 22:08:41
-16069924,Advanced White,Colgate,3.1,gbp/£,True,teeth,15,2.64,0.46,/colgate/advanced-white-charcoal-toothpaste-with-activated-charcoal/,/colgate/8590232000760_01-o__240229.jpg,uk,2024-05-07 22:08:41
-15959155,Flavour Collection Classic,Marvis,9.6,gbp/£,True,teeth,15,8.16,1.44,/marvis/marvis-flavour-collection-cosmetic-set-ii/,/marvis/8004395110490_01-o__190716.jpg,uk,2024-05-07 22:08:41
-16199756,Pro Expert Healthy Whitening,Oral B,3.2,gbp/£,True,teeth,15,2.72,0.48,/oral-b/pro-expert-healthy-whitening-whitening-toothpaste/,/oral-b/8700216106788_01-o__230904.jpg,uk,2024-05-07 22:08:41
-612614,Activital Q10,G.U.M,7.4,gbp/£,True,teeth,15,6.29,1.11,/gum/activital-q10-complex-protection-toothpaste-against-bad-breath/,/gum/gumacqw_ktps10_01__170328.jpg,uk,2024-05-07 22:08:41
-541637,Perfect White Black,Beverly Hills Formula,6.7,gbp/£,True,teeth,15,5.7,1.0,/beverly-hills-formula/perfect-white-black-whitening-toothpaste-with-activated-charcoal-for-fresh-breath/,/beverly-hills-formula/5020105002681_01-o__210917.jpg,uk,2024-05-07 22:08:41
-16212047,Professional Active,Splat,3.4,gbp/£,False,,0,3.4,0.0,/splat/professional-active-refreshing-toothpaste/,/splat/7640168930011_01-o__231101.jpg,uk,2024-05-07 22:08:41
-16088537,Teeth,NUK,5.9,gbp/£,True,20promo,20,4.72,1.18,/nuk/teeth-dental-care-setfor-kids/,/nuk/4008600215769_01__210818.jpg,uk,2024-05-07 22:08:41
-15863346,Sensitive Professional Repair & Prevent,Elmex,6.9,gbp/£,False,,0,6.9,0.0,/elmex/sensitive-professional-repair-prevent-sensitive-toothpaste-525836/,/elmex/8718951193765_01-o__190409.jpg,uk,2024-05-07 22:08:41
-16143794,Ewa Chodakowska Sensitive Papaya & Mint,beBIO,3.4,gbp/£,False,,0,3.4,0.0,/bebio/ewa-chodakowska-sensitive-papaya-natural-paste-for-sensitive-teeth/,/bebio/5908233661348_01-o__220824.jpg,uk,2024-05-07 22:08:41
-16133562,Professional Sensitivity & Gum Calm Gentle Whitening,Oral B,3.8,gbp/£,True,teeth,15,3.23,0.57,/oral-b/professional-sensitivity-gum-calm-gentle-whitening-whitening-toothpaste/,/oral-b/8001841520285_01-o__220701.jpg,uk,2024-05-07 22:08:41
-16136940,Optima,Apis Natural Cosmetics,3.9,gbp/£,False,,0,3.9,0.0,/apis-natural-cosmetics/optima-toothpaste-with-dead-sea-minerals/,/apis_natural_cosmetics/5901810041113_01-o__230906.jpg,uk,2024-05-07 22:08:41
-405731,SensiVital,G.U.M,6.6,gbp/£,True,teeth,15,5.61,0.99,/gum/sensivital-toothpaste-for-sensitive-teeth/,/gum/gumsevu_ktps10__131107.jpg,uk,2024-05-07 22:08:41
-16134108,White+ Toothpaste,WOOM,5.7,gbp/£,True,teeth,15,4.85,0.85,/woom/white-toothpaste-whitening-toothpaste/,/woom/8420075180315_01-o__220629.jpg,uk,2024-05-07 22:08:41
-16116131,Kids 6+,Curaprox,5.4,gbp/£,False,,0,5.4,0.0,/curaprox/kids-6-watermelon-toothpaste-for-children/,/curaprox/7612412429480_01-o__211122.jpg,uk,2024-05-07 22:08:41
-16144267,Travel Kit,Minions,3.3,gbp/£,False,,0,3.3,0.0,/minions/travel-kit-dental-care-set-3yfor-kids/,/minions/8032979437992_01-o__220902.jpg,uk,2024-05-07 22:08:41
-426305,Caries Protection,Elmex,5.9,gbp/£,True,teeth,15,5.02,0.88,/elmex/caries-protection-toothpaste-without-menthol/,/elmex/4007965015557_01-o__221128.jpg,uk,2024-05-07 22:08:41
-16114712,Be You,Curaprox,9.9,gbp/£,True,teeth,15,8.42,1.48,/curaprox/be-you-rising-star-regenerative-toothpaste-with-whitening-effect/,/curaprox/7612412429503_01-o__220225.jpg,uk,2024-05-07 22:08:41
-565577,Expert Triple Force,Ecodenta,4.4,gbp/£,True,teeth,15,3.74,0.66,/ecodenta/extra-toothpaste-with-triple-effect/,/ecodenta/4770001331903_01-o__160825.jpg,uk,2024-05-07 22:08:41
-16145062,Professional White Plus,Splat,4.8,gbp/£,True,teeth,15,4.08,0.72,/splat/professional-white-plus-bio-active-toothpaste-for-gentle-teeth-whitening-and-enamel-protection/,/splat/7640168930134_01-o__220908.jpg,uk,2024-05-07 22:08:41
-16186853,Daycare Protection Booster Frozen Mint,Curasept,6.2,gbp/£,False,,0,6.2,0.0,/curasept/daycare-protection-booster-frozen-mint-gel-toothpaste/,/curasept/8056746073282_01-o__230511.jpg,uk,2024-05-07 22:08:41
-16052612,Parodont Expert,Meridol,14.9,gbp/£,True,teeth,15,12.66,2.24,/meridol/parodont-expert-toothpaste-against-gum-bleeding-and-periodontal-disease-297934/,/meridol/8590232000494_01-o__230807.jpg,uk,2024-05-07 22:08:41
-541634,Perfect White Gold,Beverly Hills Formula,9.3,gbp/£,True,teeth,15,7.91,1.39,/beverly-hills-formula/perfect-white-gold/,/beverly-hills-formula/bevpwgw_ktps10_01__160503.jpg,uk,2024-05-07 22:08:41
-16068616,Black,BlanX,3.4,gbp/£,False,,0,3.4,0.0,/blanx/black-whitening-toothpaste-with-activated-charcoal/,/blanx/8017331053386_01-o__210211.jpg,uk,2024-05-07 22:08:41
-15989744,Kids,Lavera,5.5,gbp/£,False,,0,5.5,0.0,/lavera/volume-strength-toothpaste-for-children/,/lavera/4021457629220_01-o__191002.jpg,uk,2024-05-07 22:08:41
-16110147,Organic Kids Certified Organic Juicy Fruit,Ecodenta,4.5,gbp/£,False,,0,4.5,0.0,/ecodenta/organic-kids-certified-organic-juicy-fruit-toothpaste-for-children/,/ecodenta/4770001001400_01-o__211110.jpg,uk,2024-05-07 22:08:41
-15971310,O3X Toothpaste,BlanX,5.7,gbp/£,False,,0,5.7,0.0,/blanx/o3x-oxygen-power-whitening-toothpaste/,/blanx/8017331065891_01-o__190919.jpg,uk,2024-05-07 22:08:41
-16145061,Professional Ultracomplex,Splat,4.8,gbp/£,True,teeth,15,4.08,0.72,/splat/professional-ultracomplex-bio-active-toothpaste-for-complex-care-and-whitening-of-sensitive-teeth/,/splat/7640168930172_01-o__220909.jpg,uk,2024-05-07 22:08:41
-16127738,Travel Set,Curaprox,9.8,gbp/£,True,teeth,15,8.33,1.47,/curaprox/travel-set-travel-kitfor-teeth-tongue-and-gums/,/curaprox/7612412429879_01-o__220520.jpg,uk,2024-05-07 22:08:41
-16087892,Certified Organic Charcoal whitening,Ecodenta,4.2,gbp/£,False,,0,4.2,0.0,/ecodenta/certified-organic-anti-plaque-whitening-toothpaste-with-activated-charcoal/,/ecodenta/4770001004333_01-o__210809.jpg,uk,2024-05-07 22:08:41
-16212208,Glo Express White,White Glo,4.7,gbp/£,False,,0,4.7,0.0,/white-glo/charcoal/,/white-glo/9319871002770_01-o__231109.jpg,uk,2024-05-07 22:08:41
-16132904,Toothpaste 6-24 months,Chicco,4.2,gbp/£,False,,0,4.2,0.0,/chicco/toothpaste-6-24-months-toothpaste-for-children/,/chicco/8003670743637_01-o__220624.jpg,uk,2024-05-07 22:08:41
-420123,Pronamel Junior,Sensodyne,3.1,gbp/£,False,,0,3.1,0.0,/sensodyne/pro-namel-toothpaste-junior/,/sensodyne/8590335006812_01-o__140401.jpg,uk,2024-05-07 22:08:41
-16195979,Gum Protection Whitening,Meridol,5.0,gbp/£,True,teeth,15,4.25,0.75,/meridol/dental-care-whitening-toothpaste/,/meridol/8718951560352_01-o__230807.jpg,uk,2024-05-07 22:08:41
-418253,Repair & Protect Extra Fresh,Sensodyne,5.4,gbp/£,True,teeth,15,4.59,0.81,/sensodyne/repair-protect-extra-fresh-toothpaste-for-protection-of-teeth-and-gums/,/sensodyne/5054563103482_01-o__210908.jpg,uk,2024-05-07 22:08:41
-86801,Dental Care,Weleda,5.1,gbp/£,True,teeth,15,4.34,0.76,/weleda/dental-care-toothpaste/,/weleda/4001638098014_01-o__211012.jpg,uk,2024-05-07 22:08:41
-16125899,Biosmalto Baby-Kid,Curasept,6.3,gbp/£,False,,0,6.3,0.0,/curasept/biosmalto-baby-kid-toothpaste-for-children-with-fluoride/,/curasept/8056746071202_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16033538,Max Clean Mineral Scrub,Colgate,2.8,gbp/£,True,teeth,15,2.38,0.42,/colgate/max-clean-mineral-scrub-gel-toothpaste-for-fresh-breath/,/colgate/8718951327085_01-o__200602.jpg,uk,2024-05-07 22:08:41
-560749,Sensitive Professional Gentle Whitening,Elmex,6.5,gbp/£,False,,0,6.5,0.0,/elmex/sensitive-professional-gentle-whitening-whitening-toothpaste-for-sensitive-teeth/,/elmex/8718951070905_11-o__160804.jpg,uk,2024-05-07 22:08:41
-16189606,Applemint,Brush Baby,3.2,gbp/£,False,,0,3.2,0.0,/brush-baby/applemint-toothpaste-for-children/,/brush_baby/5060178100587_01-o__230613.jpg,uk,2024-05-07 22:08:41
-610178,Dental Care,Weleda,4.4,gbp/£,False,,0,4.4,0.0,/weleda/dental-care/,/weleda/4001638081863_01-o__121109.jpg,uk,2024-05-07 22:08:41
-15864677,Caries Protection Whitening,Elmex,5.9,gbp/£,True,teeth,15,5.02,0.88,/elmex/caries-protection-whitening-whitening-toothpaste-with-fluoride/,/elmex/8718951240858_11-o__190416.jpg,uk,2024-05-07 22:08:41
-16145058,Professional Medical Herbs,Splat,4.6,gbp/£,True,teeth,15,3.91,0.69,/splat/professional-medical-herbs-bio-active-toothpaste-for-protection-of-teeth-and-gums/,/splat/7640168930097_01-o__220908.jpg,uk,2024-05-07 22:08:41
-600376,Black is White,Curaprox,19.1,gbp/£,True,teeth,15,16.24,2.86,/curaprox/black-is-white/,/curaprox/7612412423822_01-o__170127.jpg,uk,2024-05-07 22:08:41
-16139595,3D White Cool Water,Blend-a-med,1.7,gbp/£,True,teeth,15,1.44,0.26,/blend-a-med/3d-white-cool-water-whitening-toothpaste/,/blend-a-med/8006540793138_01-o__230221.jpg,uk,2024-05-07 22:08:41
-16007016,Herbal Fresh,Parodontax,3.7,gbp/£,True,teeth,15,3.14,0.56,/parodontax/herbal-fresh-anti-bleeding-toothpaste-764934/,/parodontax/5054563066138_01-o__200109.jpg,uk,2024-05-07 22:08:41
-86972,Dental Care,Weleda,5.1,gbp/£,True,teeth,15,4.34,0.76,/weleda/dental-care-toothpaste-to-treat-bleeding-gums/,/weleda/4001638098083_01-o__211012.jpg,uk,2024-05-07 22:08:41
-511107,Sensitive Professional,Elmex,6.5,gbp/£,False,,0,6.5,0.0,/elmex/sensitive-professional-toothpaste-for-sensitive-teeth-73517/,/elmex/7610108047536_01-o__140526.jpg,uk,2024-05-07 22:08:41
-16153990,Enamel Regeneration,Oral B,4.8,gbp/£,True,teeth,15,4.08,0.72,/oral-b/professional-regenerate-enamel-daily-protection-toothpaste-for-tooth-enamel-reinforcement/,/oral-b/8001090247544_01-o__221031.jpg,uk,2024-05-07 22:08:41
-16196474,Natural Extracts Aloe Vera,Colgate,3.4,gbp/£,False,,0,3.4,0.0,/colgate/natural-extracts-aloe-vera-herbal-toothpaste/,/colgate/6920354835834_01-o__230630.jpg,uk,2024-05-07 22:08:41
-16080303,Max White Expert Micellar,Colgate,6.5,gbp/£,False,,0,6.5,0.0,/colgate/max-white-expert-micellar-whitening-toothpaste/,/colgate/8718951411043_01-o__221125.jpg,uk,2024-05-07 22:08:41
-598843,Junior 6+,G.U.M,3.4,gbp/£,False,,0,3.4,0.0,/gum/junior-tooth-gel-for-kids/,/gum/070942304160_01-o__220905.jpg,uk,2024-05-07 22:08:41
-472994,Kids,Signal,2.5,gbp/£,False,,0,2.5,0.0,/signal/kids-toothpaste-for-kids/,/signal/8712561103077_01-o__221115.jpg,uk,2024-05-07 22:08:41
-16195996,Max White Ultra Multi Protect,Colgate,6.5,gbp/£,True,teeth,15,5.52,0.98,/colgate/max-white-ultra-multi-protect-whitening-toothpaste/,/colgate/8718951563544_01-o__230630.jpg,uk,2024-05-07 22:08:41
-16148563,Gingival Set,Vitis,11.8,gbp/£,False,,0,11.8,0.0,/vitis/gingival-gift-set/,/vitis/2800010517943_01-o__220926.jpg,uk,2024-05-07 22:08:41
-16012428,White Now Detox Coconut,Signal,4.5,gbp/£,True,teeth,15,3.82,0.68,/signal/white-now-detox-coconut-whitening-toothpaste/,/signal/8710604754248_01-o__200217.jpg,uk,2024-05-07 22:08:41
-448685,White Now Men Super Pure,Signal,3.6,gbp/£,True,teeth,15,3.06,0.54,/signal/white-now-men-super-pure-toothpaste-for-men-with-whitening-effect/,/signal/8710908135835_01-o__230216.jpg,uk,2024-05-07 22:08:41
-479551,Deep Fresh,Signal,2.5,gbp/£,False,,0,2.5,0.0,/signal/deep-fresh-toothpaste-for-fresh-breath/,/signal/8717163093481_01-o__230306.jpg,uk,2024-05-07 22:08:41
-16156104,Natural Toothpaste Black,BEN&ANNA,5.5,gbp/£,True,teeth,15,4.68,0.82,/benanna/natural-toothpaste-black-toothpaste-with-activated-charcoal/,/benanna/4260491220509_01-o__221101.jpg,uk,2024-05-07 22:08:41
-531182,Pronamel Daily Protection,Sensodyne,4.4,gbp/£,True,teeth,15,3.74,0.66,/sensodyne/pro-namel-toothpaste-dental-enamel-protecting/,/sensodyne/5999518572138_01-o__221027.jpg,uk,2024-05-07 22:08:41
-16179225,Whitening Herbal,MEDIBLANC,11.5,gbp/£,True,20promo,20,9.2,2.3,/mediblanc/whitening-herbal-herbal-toothpaste-with-whitening-effect/,/mediblanc/8059300538166-o__221027.jpg,uk,2024-05-07 22:08:41
-16157765,Sensi-Relief,MEDIBLANC,1.8,gbp/£,False,,0,1.8,0.0,/mediblanc/sensi-relief-toothpaste-for-sensitive-teeth/,/mediblanc/3760275382412-o__221027.jpg,uk,2024-05-07 22:08:41
-499839,Natural,Jack N’ Jill,4.9,gbp/£,False,,0,4.9,0.0,/jack-n-jill/natural-natural-toothpaste-for-kids-with-strawberry-flavour/,/jack-n-jill/9312657009017_01-o__230602.jpg,uk,2024-05-07 22:08:41
-16145052,Professional Biocalcium,Splat,4.8,gbp/£,True,teeth,15,4.08,0.72,/splat/professional-biocalcium-bio-active-toothpaste-for-enamel-regeneration-and-gentle-whitening/,/splat/7640168930059_01-o__220908.jpg,uk,2024-05-07 22:08:41
-16214399,Baby Shark,Corsair,2.0,gbp/£,False,,0,2.0,0.0,/corsair/baby-shark-toothpaste-for-children/,/corsair/5013692251235_01__231002.jpg,uk,2024-05-07 22:08:41
-16122232,ADS Soothing,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ads-soothing-soothing-toothpaste-with-gel-texture/,/curasept/8056746070236_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16187460,Prevent,Curasept,6.4,gbp/£,False,,0,6.4,0.0,/curasept/prevent-toothpaste/,/curasept/8056746071899_01-o__230606.jpg,uk,2024-05-07 22:08:41
-16131389,Certified Organic Sensitivity Relief,Ecodenta,4.0,gbp/£,False,,0,4.0,0.0,/ecodenta/certified-organic-sensitivity-relief-organic-toothpaste/,/ecodenta/4770001002179_01__220606.jpg,uk,2024-05-07 22:08:41
-16214777,Kids Mild Mint,Truthpaste,7.4,gbp/£,False,,0,7.4,0.0,/truthpaste/kids-mild-mint-natural-toothpaste-for-kids-mint/,/truthpaste/5060655080067_01-o__231127.jpg,uk,2024-05-07 22:08:41
-478627,Pharma B5,Yotuel,10.1,gbp/£,False,,0,10.1,0.0,/yotuel/pharma-b5-whitening-toothpaste/,/yotuel/yotpb5w_ktps10__150428.jpg,uk,2024-05-07 22:08:41
-16066151,Expert Black Orange Whitening,Ecodenta,4.1,gbp/£,True,teeth,15,3.48,0.62,/ecodenta/expert-black-orange-whitening-black-whitening-toothpaste-without-fluoride/,/ecodenta/4770001003367_01-o__210105.jpg,uk,2024-05-07 22:08:41
-16227446,The Mints Jasmin,Marvis,10.1,gbp/£,False,,0,10.1,0.0,/marvis/the-mints-jasmin-set-for-teeth/,/marvis/8004395112258_01-o__240318.jpg,uk,2024-05-07 22:08:41
-16077180,Professional Choice,White Glo,0.7,gbp/£,True,teeth,15,0.6,0.1,/white-glo/professional-choice-whitening-toothpaste-for-travelling/,/white-glo/9319871000189_01-o__210524.jpg,uk,2024-05-07 22:08:41
-16146137,Complete Protection Whitening,Sensodyne,6.0,gbp/£,False,,0,6.0,0.0,/sensodyne/complete-protection-whitening-whitening-toothpaste-5023271/,/sensodyne/5054563119698_01-o__220920.jpg,uk,2024-05-07 22:08:41
-16009628,Gum & Enamel Repair Fresh White,Oral B,2.9,gbp/£,True,teeth,15,2.46,0.44,/oral-b/gum-enamel-repair-extra-fresh-toothpaste-for-fresh-breath/,/oral-b/8001090794413_01-o__240304.jpg,uk,2024-05-07 22:08:41
-539371,Ultra Clean,Parodontax,4.0,gbp/£,True,teeth,15,3.4,0.6,/parodontax/ultra-clean-toothpaste-against-gum-bleeding-and-periodontal-disease/,/parodontax/5054563011251_01-o__160422.jpg,uk,2024-05-07 22:08:41
-16154799,Whitening,MEDIBLANC,6.8,gbp/£,True,20promo,20,5.44,1.36,/mediblanc/whitening-toothpaste-with-whitening-effect/,/mediblanc/3760275386502-o__221107.jpg,uk,2024-05-07 22:08:41
-16188199,Toothpaste Spearmint,BEN&ANNA,3.7,gbp/£,False,,0,3.7,0.0,/benanna/toothpaste-spearmint-natural-toothpaste-with-fluoride/,/benanna/4260491223050_01-o__230331.jpg,uk,2024-05-07 22:08:41
-16139587,Lasting Freshness,Blend-a-med,1.7,gbp/£,False,,0,1.7,0.0,/blend-a-med/lasting-freshness-refreshing-toothpaste/,/blend-a-med/8006540391365_01-o__220816.jpg,uk,2024-05-07 22:08:41
-16121175,ADS Protective,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ads-protective-anti-plaque-toothpaste-for-healthy-gums/,/curasept/8056746070250_01-o__220203.jpg,uk,2024-05-07 22:08:41
-622022,Royal Tooth Serum,Soaphoria,7.3,gbp/£,False,,0,7.3,0.0,/soaphoria/royal-tooth-serum-dental-serum-with-activated-charcoal/,/soaphoria/8586017854178_01-o__240415.jpg,uk,2024-05-07 22:08:41
-16148486,Biomed Biocomplex Trio,Splat,12.2,gbp/£,True,teeth,15,10.37,1.83,/splat/set-trio-setfor-teeth/,/splat/7640168937133_01__220927.jpg,uk,2024-05-07 22:08:41
-16147443,Caries Protection Complete Care,Elmex,5.9,gbp/£,True,teeth,15,5.02,0.88,/elmex/caries-protection-complete-care-refreshing-toothpaste-for-complete-protection-of-teeth-6652865/,/elmex/8718951516014_02-o__220929.jpg,uk,2024-05-07 22:08:41
-478662,All In One,Yotuel,15.3,gbp/£,True,teeth,15,13.0,2.3,/yotuel/all-in-one-dental-whitening-cream/,/yotuel/yotaiow_ktps10__150428.jpg,uk,2024-05-07 22:08:41
-16238814,Daily,TePe,3.9,gbp/£,False,,0,3.9,0.0,/tepe/daily-toothpaste/,/tepe/7350121253391_01-o__240419.jpg,uk,2024-05-07 22:08:41
-16115806,Complete Care,Meridol,6.5,gbp/£,False,,0,6.5,0.0,/meridol/complete-care-sensitive-toothpaste/,/meridol/8718951478527_01-o__230807.jpg,uk,2024-05-07 22:08:41
-16134102,Junior Bubblegum,WOOM,4.1,gbp/£,False,,0,4.1,0.0,/woom/junior-bubblegum-toothpaste-for-children/,/woom/4751033920112_01-o__220629.jpg,uk,2024-05-07 22:08:41
-15970161,Sweet & Sour Rhubarb,Marvis,6.5,gbp/£,True,teeth,15,5.52,0.98,/marvis/marvis-sweet-sour-rhubarb-toothpaste/,/marvis/8004395111640_01-o__190911.jpg,uk,2024-05-07 22:08:41
-16136178,Sensitive Plus Complete Protection,Elmex,6.5,gbp/£,True,teeth,15,5.52,0.98,/elmex/sensitive-plus-complete-protection-reinforcing-toothpaste-6058209/,/elmex/8718951501904_01-o__220627.jpg,uk,2024-05-07 22:08:41
-16142490,Smokers,DentYucral,3.6,gbp/£,False,,0,3.6,0.0,/dentyucral/smokers-whitening-tooth-powder/,/dentyucral/8470002079106_01-o__220818.jpg,uk,2024-05-07 22:08:41
-418779,Repair & Protect Whitening,Sensodyne,5.5,gbp/£,False,,0,5.5,0.0,/sensodyne/repair-protect-whitening-whitening-toothpaste-for-sensitive-teeth/,/sensodyne/5054563103680_01-o__210908.jpg,uk,2024-05-07 22:08:41
-16131390,Extra Fresh and Remineralising,Ecodenta,2.5,gbp/£,False,,0,2.5,0.0,/ecodenta/extra-fresh-and-remineralising-remineralising-toothpaste/,/ecodenta/4770001004913_01__220606.jpg,uk,2024-05-07 22:08:41
-16214576,Toothpaste Fruit Mix,Chicco,3.0,gbp/£,False,,0,3.0,0.0,/chicco/toothpaste-fruit-mix-toothpaste-for-children-with-fluoride/,/chicco/8058664138715_01__231124.jpg,uk,2024-05-07 22:08:41
-16124326,Kids,Masha & The Bear,2.9,gbp/£,False,,0,2.9,0.0,/masha-the-bear/kids-toothpaste-for-children-with-strawberry-flavour/,/masha_the_bear/8029241134000_01__220428.jpg,uk,2024-05-07 22:08:41
-434534,Dental Care,Sea of Spa,15.4,gbp/£,False,,0,15.4,0.0,/sea-of-spa/dental-care-toothpaste-with-minerals-from-the-dead-sea/,/sea-of-spa/sosdcau_ktps10_01__140724.jpg,uk,2024-05-07 22:08:41
-16214868,Charcoal,Truthpaste,7.4,gbp/£,False,,0,7.4,0.0,/truthpaste/charcoal-natural-toothpaste/,/truthpaste/5060655080128_01-o__231127.jpg,uk,2024-05-07 22:08:41
-16141122,Crystal Combo Pack,Swissdent,15.1,gbp/£,True,teeth,15,12.84,2.26,/swissdent/crystal-dental-care-set/,/swissdent/7640126890050_01-o__220829.jpg,uk,2024-05-07 22:08:41
-647251,3D White Luxe Perfection,Blend-a-med,4.1,gbp/£,True,teeth,15,3.48,0.62,/blend-a-med/3d-white-luxe-perfection-whitening-toothpaste-against-stains-on-tooth-enamel/,/blend-a-med/4084500743847_01-o__240426.jpg,uk,2024-05-07 22:08:41
-16125893,ADS 350,Curasept,9.4,gbp/£,False,,0,9.4,0.0,/curasept/ads-350-dental-gel-to-treat-periodontitis/,/curasept/8056746070274_01-o__220218.jpg,uk,2024-05-07 22:08:41
-16173097,Junior Caries Protection,Elmex,4.6,gbp/£,False,,0,4.6,0.0,/elmex/junior-caries-protection-toothpaste-for-children/,/elmex/4007965505904_01-o__230302.jpg,uk,2024-05-07 22:08:41
-16102024,Girls,Pink Elephant,1.0,gbp/£,False,,0,1.0,0.0,/pink-elephant/girls-toothpaste-for-kids/,/pink_elephant/8588006040913_01__230116.jpg,uk,2024-05-07 22:08:41
-16087859,Colour Surprise,Ecodenta,5.9,gbp/£,False,,0,5.9,0.0,/ecodenta/expert-black-whitening-toothpaste-for-children-against-dental-caries/,/ecodenta/4770001002490_01-o__210809.jpg,uk,2024-05-07 22:08:41
-16197076,Cavity Protection Fresh Mint,Colgate,1.7,gbp/£,False,,0,1.7,0.0,/colgate/cavity-protection-toothpaste-with-fluoride/,/colgate/6920354836176_01-o__230811.jpg,uk,2024-05-07 22:08:41
-16107194,The Mints Amarelli Licorice,Marvis,3.6,gbp/£,True,teeth,15,3.06,0.54,/marvis/amarelli-licorice-toothpaste/,/marvis/8004395111343_01-o__211122.jpg,uk,2024-05-07 22:08:41
-16012425,White Now Detox Charcoal,Signal,4.1,gbp/£,True,teeth,15,3.48,0.62,/signal/white-now-detox-charcoal-whitening-toothpaste-with-activated-charcoal/,/signal/8710604754200_01-o__200217.jpg,uk,2024-05-07 22:08:41
-16093180,Toothpaste,Jack N’ Jill,5.7,gbp/£,False,,0,5.7,0.0,/jack-n-jill/toothpaste-natural-toothpaste-for-kids/,/jack-n-jill/9312657011096_01__210924.jpg,uk,2024-05-07 22:08:41
-470750,Enzycal Zero,Curaprox,5.9,gbp/£,True,teeth,15,5.02,0.88,/curaprox/enzycal-zero-toothpaste/,/curaprox/7612412422849_01-o__150224.jpg,uk,2024-05-07 22:08:41
-534474,Advanced White,Colgate,2.1,gbp/£,False,,0,2.1,0.0,/colgate/advanced-white-whitening-toothpaste-against-stains-on-tooth-enamel/,/colgate/8718951312173_01-o__240229.jpg,uk,2024-05-07 22:08:41
-16022008,Max White Sparkle Diamonds,Colgate,2.0,gbp/£,False,,0,2.0,0.0,/colgate/max-white-sparkle-diamonds-whitening-toothpaste-with-fluoride/,/colgate/8718951314795_01-o__200402.jpg,uk,2024-05-07 22:08:41
-16189710,Rocket,Brush Baby,4.9,gbp/£,False,,0,4.9,0.0,/brush-baby/rocket-toothpaste-for-children-blueberry/,/brush_baby/5060178102437_01-o__230613.jpg,uk,2024-05-07 22:08:41
-16087871,Certified Organic Anti-plaque,Ecodenta,7.1,gbp/£,True,teeth,15,6.04,1.06,/ecodenta/expert-black-whitening-anti-plaque-toothpaste-for-healthy-gums-with-coconut-oil/,/ecodenta/4770001002155_01-o__210809.jpg,uk,2024-05-07 22:08:41
-16129199,Natural White,Sensodyne,5.0,gbp/£,True,teeth,15,4.25,0.75,/sensodyne/natural-white-natural-toothpaste-with-fluoride/,/sensodyne/5054563121226_01-o__220601.jpg,uk,2024-05-07 22:08:41
-15963118,Max White Charcoal,Colgate,4.1,gbp/£,True,teeth,15,3.48,0.62,/colgate/max-white-charcoal-whitening-toothpaste/,/colgate/8718951250017_01-o__221125.jpg,uk,2024-05-07 22:08:41
-16077132,Diamond Series,White Glo,16.0,gbp/£,True,teeth,15,13.6,2.4,/white-glo/diamond-series-teeth-whitening-kit/,/white-glo/9319871000790_01-o__210524.jpg,uk,2024-05-07 22:08:41
-405566,Original White,G.U.M,5.6,gbp/£,True,teeth,15,4.76,0.84,/gum/original-white-whitening-toothpaste/,/gum/gumorwu_ktps10__131106.jpg,uk,2024-05-07 22:08:41
-16189735,Natural Strawberry,Brush Baby,4.5,gbp/£,False,,0,4.5,0.0,/brush-baby/natural-strawberry-toothpaste-for-children-with-strawberry-flavour/,/brush_baby/5060178102918_01-o__230613.jpg,uk,2024-05-07 22:08:41
-15964935,Mint & Green Tea,Urtekram,4.1,gbp/£,True,teeth,15,3.48,0.62,/urtekram/urtekram-mint-green-tea-mint-toothpaste-with-green-tea/,/urtekram/5765228837832_01-o__190813.jpg,uk,2024-05-07 22:08:41
-16129193,Gum And Sens Original,Parodontax,6.0,gbp/£,True,teeth,15,5.1,0.9,/parodontax/gum-and-sens-original-complex-protection-toothpaste-for-fresh-breath/,/parodontax/5054563120410_01-o__220427.jpg,uk,2024-05-07 22:08:41
-16188202,Toothpaste Black,BEN&ANNA,3.8,gbp/£,False,,0,3.8,0.0,/benanna/toothpaste-black-natural-toothpaste-with-activated-charcoal/,/benanna/4260491223012_01-o__230331.jpg,uk,2024-05-07 22:08:41
-16148927,Unicorn Sparkle 7+,Beverly Hills Formula,6.5,gbp/£,False,,0,6.5,0.0,/beverly-hills-formula/unicorn-sparkle-7-toothpaste-for-children/,/beverly-hills-formula/5020105004098_01-o__220912.jpg,uk,2024-05-07 22:08:41
-16139591,Extra White & Fresh,Blend-a-med,2.1,gbp/£,False,,0,2.1,0.0,/blend-a-med/extra-white-fresh-refreshing-toothpaste/,/blend-a-med/8006540391525_01-o__220816.jpg,uk,2024-05-07 22:08:41
-16122283,Black Lux,Curasept,13.0,gbp/£,False,,0,13.0,0.0,/curasept/black-lux-black-whitening-toothpaste-with-whitening-effect/,/curasept/8056746071998_01-o__220218.jpg,uk,2024-05-07 22:08:41
-16119806,EcoBio Dentifricio,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ecobio-dentifricio-organic-toothpaste-without-fluoride/,/curasept/8056746071547_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16073220,Toothpaste,L.O.L. Surprise,2.3,gbp/£,False,,0,2.3,0.0,/ep-line/lol-toothpaste-for-children-with-strawberry-flavour/,/ep-line/8412428014040_01-o__210413.jpg,uk,2024-05-07 22:08:41
-472351,Hydral,G.U.M,7.5,gbp/£,False,,0,7.5,0.0,/gum/hydral-toothpaste/,/gum/gumhydu_ktps20__150309.jpg,uk,2024-05-07 22:08:41
-418774,Emergency Kit Red,Swissdent,20.2,gbp/£,False,,0,20.2,0.0,/swissdent/emergency-kit-red-cosmetic-set-i/,/swissdent/7640126190181_01-o__121112.jpg,uk,2024-05-07 22:08:41
-16214776,Kids Sweet Orange,Truthpaste,7.4,gbp/£,False,,0,7.4,0.0,/truthpaste/kids-sweet-orange-natural-toothpaste-for-kids/,/truthpaste/5060655080043_01-o__231127.jpg,uk,2024-05-07 22:08:41
-16090803,Supreme,iWhite,8.3,gbp/£,True,teeth,15,7.06,1.24,/iwhite/supreme-whitening-toothpaste/,/iwhite/5425012534674_01-o__210823.jpg,uk,2024-05-07 22:08:41
-16111308,White Now Sensitive,Signal,4.1,gbp/£,True,teeth,15,3.48,0.62,/signal/white-now-sensitive-whitening-toothpaste-for-sensitive-teeth/,/signal/8720181196157_01-o__220128.jpg,uk,2024-05-07 22:08:41
-496010,Max White One,Colgate,4.5,gbp/£,True,teeth,15,3.82,0.68,/colgate/max-white-one-whitening-toothpaste/,/colgate/8714789881188_01-o__221128.jpg,uk,2024-05-07 22:08:41
-474133,Cannadent Alkaline toothpaste,Cannaderm,8.5,gbp/£,False,,0,8.5,0.0,/cannaderm/cannadent/,/cannaderm/cndcanw_ktps10_01__150325.jpg,uk,2024-05-07 22:08:41
-16186864,Daycare Protection Booster Herbal,Curasept,6.2,gbp/£,False,,0,6.2,0.0,/curasept/daycare-protection-booster-herbal-gel-toothpaste/,/curasept/8056746073299_01-o__230511.jpg,uk,2024-05-07 22:08:41
-16073224,Paw Patrol Toothpaste,Nickelodeon,2.6,gbp/£,False,,0,2.6,0.0,/ep-line/paw-patrol-toothpaste-for-children-with-strawberry-flavour/,/ep-line/8412428011124_01-o__210413.jpg,uk,2024-05-07 22:08:41
-15656849,Rapid,Sensodyne,5.7,gbp/£,True,teeth,15,4.85,0.85,/sensodyne/rapid-fluoride-toothpastes-for-sensitive-teeth/,/sensodyne/8596149002385_01-o__180406.jpg,uk,2024-05-07 22:08:41
-16145063,Special Extreme White,Splat,8.2,gbp/£,True,teeth,15,6.97,1.23,/splat/special-extreme-white-whitening-toothpaste/,/splat/7640168930271_01-o__220908.jpg,uk,2024-05-07 22:08:41
-16142712,Instant White,White Glo,5.4,gbp/£,False,,0,5.4,0.0,/white-glo/instant-white-dental-care-set/,/white-glo/93198714001407_01-o__220818.jpg,uk,2024-05-07 22:08:41
-15970160,Black Forest,Marvis,5.2,gbp/£,True,teeth,15,4.42,0.78,/marvis/marvis-black-forest-toothpaste/,/marvis/8004395111633_01-o__190911.jpg,uk,2024-05-07 22:08:41
-16145053,Special Blackwood,Splat,8.2,gbp/£,True,teeth,15,6.97,1.23,/splat/special-blackwood-whitening-toothpaste/,/splat/7640168930288_01-o__220908.jpg,uk,2024-05-07 22:08:41
-15744649,Be You Express Yourself,Curaprox,14.4,gbp/£,True,teeth,15,12.24,2.16,/curaprox/be-you-express-yourself-cosmetic-set-i/,/curaprox/7612412425673_02-o__180918.jpg,uk,2024-05-07 22:08:41
-16172501,Total Original,Colgate,2.3,gbp/£,False,,0,2.3,0.0,/colgate/total-original-toothpaste/,/colgate/8590232001149_01-o__230301.jpg,uk,2024-05-07 22:08:41
-15947267,Green Wild Strawberry Flavoured,Ecodenta,3.0,gbp/£,False,,0,3.0,0.0,/ecodenta/green-wild-strawberry-flavoured-kids-toothpaste-with-wild-strawberry-flavour-and-carrot-extract/,/ecodenta/4770001331743_01-o__160825.jpg,uk,2024-05-07 22:08:41
-86898,Dental Care,Weleda,4.3,gbp/£,True,teeth,15,3.66,0.64,/weleda/dental-care-dental-gel/,/weleda/4001638086554_01-o__230809.jpg,uk,2024-05-07 22:08:41
-16132520,Max White White Crystals,Colgate,2.1,gbp/£,True,teeth,15,1.78,0.32,/colgate/max-white-white-crystals-whitening-toothpaste/,/colgate/8718951313835_01-o__240229.jpg,uk,2024-05-07 22:08:41
-499537,Fluoride,Sensodyne,4.5,gbp/£,False,,0,4.5,0.0,/sensodyne/fluoride-toothpaste-for-sensitive-teeth/,/sensodyne/4047400470350_01-o__140401.jpg,uk,2024-05-07 22:08:41
-16129195,Gum And Sens Whitening,Parodontax,6.0,gbp/£,False,,0,6.0,0.0,/parodontax/gum-and-sens-whitening-whitening-toothpaste-for-teeth-5023272/,/parodontax/5054563120434_01-o__220427.jpg,uk,2024-05-07 22:08:41
-16087872,Sensitive Whitening,Ecodenta,4.0,gbp/£,True,teeth,15,3.4,0.6,/ecodenta/expert-black-whitening-whitening-toothpaste-for-sensitive-teeth/,/ecodenta/4770001003206_01-o__210809.jpg,uk,2024-05-07 22:08:41
-16139593,Protect 7 Crystal White,Blend-a-med,1.5,gbp/£,False,,0,1.5,0.0,/blend-a-med/protect-7-crystal-white-toothpaste-for-complete-protection-of-teeth/,/blend-a-med/8006540390917_01-o__220816.jpg,uk,2024-05-07 22:08:41
-513271,Black is White,Curaprox,22.1,gbp/£,True,teeth,15,18.78,3.32,/curaprox/black-is-white-cosmetic-set-i/,/curaprox/7612412423686_01-o__151208.jpg,uk,2024-05-07 22:08:41
-610705,Black is White,Curaprox,6.9,gbp/£,True,teeth,15,5.86,1.04,/curaprox/black-is-white-cosmetic-set-ii/,/curaprox/7612412424614_01-o__170314.jpg,uk,2024-05-07 22:08:41
-16188203,Toothpaste White,BEN&ANNA,3.8,gbp/£,False,,0,3.8,0.0,/benanna/toothpaste-white-natural-toothpaste-with-fluoride/,/benanna/4260491223029_01-o__230331.jpg,uk,2024-05-07 22:08:41
-16133044,Oral Care Set,Barbie,4.0,gbp/£,False,,0,4.0,0.0,/barbie/oral-care-set-dental-care-setfor-kids/,/barbie/8029241131450_01__220627.jpg,uk,2024-05-07 22:08:41
-16139600,Charcoal,Blend-a-med,2.5,gbp/£,False,,0,2.5,0.0,/blend-a-med/charcoal-toothpaste-with-activated-charcoal/,/blend-a-med/8001841825519_01-o__220816.jpg,uk,2024-05-07 22:08:41
-16135415,Always Smiling 12m+,Chicco,11.9,gbp/£,False,,0,11.9,0.0,/chicco/always-smiling-12m-dental-care-set-bluefor-kids/,/chicco/8058664022663_01__220712.jpg,uk,2024-05-07 22:08:41
-491099,Oral Care,Chicco,3.0,gbp/£,False,,0,3.0,0.0,/chicco/oral-care-gum-massage-gel-for-babies-4m/,/chicco/8003670913771_01__210623.jpg,uk,2024-05-07 22:08:41
-16210720,Mickey Toothpaste,Disney,2.6,gbp/£,False,,0,2.6,0.0,/disney/mickey-toothpaste-toothpaste-for-children/,/disney/8056234640361_01-o__231108.jpg,uk,2024-05-07 22:08:41
-16212437,Brush Teeth Tablets Kids with Fluoride,Denttabs,5.4,gbp/£,False,,0,5.4,0.0,/denttabs/brush-teeth-tablets-kids-with-fluoride-fluoride-toothpaste-in-tablets/,/denttabs/4260066813365_01-o__231115.jpg,uk,2024-05-07 22:08:41
-15947271,Green Sensitivity Relief,Ecodenta,3.1,gbp/£,False,,0,3.1,0.0,/ecodenta/green-sensitivity-relief-sensitive-toothpaste/,/ecodenta/4770001333884_01-o__170112.jpg,uk,2024-05-07 22:08:41
-16184441,Toothpaste Hyvä Meinink,HAAN,6.5,gbp/£,False,,0,6.5,0.0,/haan/toothpaste-hyva-meinink-whitening-toothpaste-with-fluoride-with-peppermint/,/haan/5060669781042_01-o__230515.jpg,uk,2024-05-07 22:08:41
-16088638,Natural Toothpaste Fresh Mint,The Humble Co.,9.3,gbp/£,False,,0,9.3,0.0,/humble/natural-toothpaste-organic-toothpaste/,/humble/7350075693205_01-o__210816.jpg,uk,2024-05-07 22:08:41
-16132524,Total Detox,Colgate,3.1,gbp/£,True,teeth,15,2.64,0.46,/colgate/total-detox-toothpaste/,/colgate/8718951480070_01-o__220524.jpg,uk,2024-05-07 22:08:41
-16190616,Gift Sets Great Joyful,HAAN,26.2,gbp/£,True,15promo,15,22.27,3.93,/haan/gift-sets-great-aquamarine-gift-set-hyva-meininki/,/haan/5060917123549_01-o__230619.jpg,uk,2024-05-07 22:08:41
-16137919,Eco Toothpaste,Woobamboo,2.2,gbp/£,False,,0,2.2,0.0,/woobamboo/eco-toothpaste-toothpaste/,/woobamboo/860364000791_01-o__220727.jpg,uk,2024-05-07 22:08:41
-16194255,CBD Charcoal Whitening,White Pearl,7.1,gbp/£,False,,0,7.1,0.0,/white-pearl/cbd-charcoal-whitening-whitening-toothpaste-with-activated-charcoal-with-cbd/,/white-pearl/8594069333336_01-o__230725.jpg,uk,2024-05-07 22:08:41
-16206264,Carbon+ Set,WOOM,14.8,gbp/£,False,,0,14.8,0.0,/woom/carbon-set-gift-setfor-teeth/,/woom/4751033921102_01__221118.jpg,uk,2024-05-07 22:08:41
-16230823,Up White Supreme Whitening,Perl Weiss,5.0,gbp/£,True,15promo,15,4.25,0.75,/perl-weiss/up-white-supreme-whitening-whitening-toothpaste/,/perl_weiss/4008890009482_01__240304.jpg,uk,2024-05-07 22:08:41
-16208482,Toothpaste Coconut Whip,My White Secret,6.7,gbp/£,True,teeth,15,5.7,1.0,/my-white-secret/toothpaste-coconut-whip-toothpaste/,/my-white-secret/5060548390556_01-o__230913.jpg,uk,2024-05-07 22:08:41
-16115403,Santoin s účinkem při paradontóze,Walmark,5.7,gbp/£,True,15promo,15,4.85,0.85,/walmark/santoin-s-ucinkem-pri-paradontoze-toothpaste/,/walmark/8596024018081_01-o__220304.jpg,uk,2024-05-07 22:08:41
-16188836,Gingival Pro,WOOM,6.0,gbp/£,True,teeth,15,5.1,0.9,/woom/gingival-pro-reinforcing-toothpaste/,/woom/4751033921089_01-o__230504.jpg,uk,2024-05-07 22:08:41
-16134106,Sensitive+ Toothpaste,WOOM,5.7,gbp/£,True,teeth,15,4.85,0.85,/woom/sensitive-toothpaste-sensitive-toothpaste/,/woom/4751033920235_01-o__220629.jpg,uk,2024-05-07 22:08:41
-16184294,Toothpaste Good On Ya,HAAN,5.8,gbp/£,False,,0,5.8,0.0,/haan/toothpaste-good-on-ya-fluoride-toothpaste-refillable/,/haan/5060669781066_01-o__230515.jpg,uk,2024-05-07 22:08:41
-16188197,Toothpaste Cinnamon Orange,BEN&ANNA,3.7,gbp/£,False,,0,3.7,0.0,/benanna/toothpaste-cinnamon-orange-natural-toothpaste/,/benanna/4260491223067_01-o__230331.jpg,uk,2024-05-07 22:08:41
-16237692,Aligner,Curaprox,19.2,gbp/£,False,,0,19.2,0.0,/curaprox/aligner-nourishing-protective-foam/,/curaprox/7612412431353_01-o__240411.jpg,uk,2024-05-07 22:08:41
-16186856,Daycare Protection Booster Fruit Sensation,Curasept,6.2,gbp/£,False,,0,6.2,0.0,/curasept/daycare-protection-booster-fruit-sensation-gel-toothpaste/,/curasept/8056746073305_01-o__230511.jpg,uk,2024-05-07 22:08:41
-16197047,Naturals Mix,Colgate,8.1,gbp/£,True,teeth,15,6.88,1.22,/colgate/naturals-mix-natural-toothpaste/,/colgate/8590232001217_01-o__230814.jpg,uk,2024-05-07 22:08:41
-16153839,Crystal Travel Tube,Swissdent,3.2,gbp/£,False,,0,3.2,0.0,/swissdent/crystal-travel-tube-remineralising-toothpaste-with-whitening-effect/,/swissdent/7640126190716_01-o__221027.jpg,uk,2024-05-07 22:08:41
-16115801,Total Junior,Colgate,2.5,gbp/£,False,,0,2.5,0.0,/colgate/total-junior-toothpaste-for-deep-teeth-and-mouth-cleaning-for-kids/,/colgate/8718951433120_01-o__221125.jpg,uk,2024-05-07 22:08:41
-16226460,Perfect White Sensitive,Beverly Hills Formula,5.6,gbp/£,False,,0,5.6,0.0,/beverly-hills-formula/perfect-white-sensitive-whitening-toothpaste/,/beverly-hills-formula/5020105004340_01-o__240423.jpg,uk,2024-05-07 22:08:41
-577245,Natural,Jack N’ Jill,4.9,gbp/£,False,,0,4.9,0.0,/jack-n-jill/natural/,/jack-n-jill/9312657008027_01-o__230602.jpg,uk,2024-05-07 22:08:41
-15863296,Total Whitening,Colgate,3.4,gbp/£,False,,0,3.4,0.0,/colgate/total-whitening-whitening-toothpaste-584257/,/colgate/8718951226807_01-o__221125.jpg,uk,2024-05-07 22:08:41
-16199573,Pro Expert Advanced,Oral B,4.1,gbp/£,True,teeth,15,3.48,0.62,/oral-b/pro-expert-advanced-toothpaste-against-tooth-decay/,/oral-b/8700216106702_01-o__230904.jpg,uk,2024-05-07 22:08:41
-418818,Extreme Promo Kit,Swissdent,21.1,gbp/£,True,teeth,15,17.94,3.16,/swissdent/extreme-promo-kit-cosmetic-set-v/,/swissdent/7640126190150_01-o__200123.jpg,uk,2024-05-07 22:08:41
-16134101,Junior Cola,WOOM,4.3,gbp/£,False,,0,4.3,0.0,/woom/junior-cola-toothpaste-for-children/,/woom/4751033920150_01-o__220629.jpg,uk,2024-05-07 22:08:41
-16071710,Complete Care,Lavera,4.8,gbp/£,False,,0,4.8,0.0,/lavera/complete-care-mint-toothpaste/,/lavera/4021457629183_01-o__210325.jpg,uk,2024-05-07 22:08:41
-16216315,Limited Edition Black is White,Curaprox,14.5,gbp/£,True,teeth,15,12.32,2.18,/curaprox/limited-edition-black-is-white-travel-setfor-teeth-tongue-and-gums/,/curaprox/7612412430332_01__231211.jpg,uk,2024-05-07 22:08:41
-16144265,Travel Dental Set,Minions,5.8,gbp/£,False,,0,5.8,0.0,/minions/travel-dental-set-dental-care-set-3yfor-kids/,/minions/8032979437633_01-o__220902.jpg,uk,2024-05-07 22:08:41
-16189655,Tutti Frutti,Brush Baby,4.6,gbp/£,False,,0,4.6,0.0,/brush-baby/tutti-frutti-toothpaste-for-children-from-36-months/,/brush_baby/5060178100143_01-o__230613.jpg,uk,2024-05-07 22:08:41
-16238817,Pure,TePe,4.9,gbp/£,False,,0,4.9,0.0,/tepe/pure-toothpaste-mint/,/tepe/7350121253933_01-o__240419.jpg,uk,2024-05-07 22:08:41
-505999,Ortho,G.U.M,5.5,gbp/£,True,teeth,15,4.68,0.82,/gum/ortho-toothpaste-user-fixed-braces/,/gum/gumortw_ktps40_01__151102.jpg,uk,2024-05-07 22:08:41
-16133833,Herbal Fresh Trio,Sensodyne,10.4,gbp/£,True,teeth,15,8.84,1.56,/sensodyne/herbal-fresh-trio-fluoride-toothpastes-3-pcs/,/sensodyne/2000028905279_01-o__221004.jpg,uk,2024-05-07 22:08:41
-16166906,Max White Purple Reveal,Colgate,3.4,gbp/£,False,,0,3.4,0.0,/colgate/max-white-purple-reveal-refreshing-toothpaste-6843139/,/colgate/8718951540033_01-o__230130.jpg,uk,2024-05-07 22:08:41
-483972,Smile Aloe Vera,White Pearl,3.0,gbp/£,False,,0,3.0,0.0,/white-pearl/smile-aloe-vera-toothpaste-for-healthy-teeth-and-gums/,/white-pearl/whpalow_ktps10_01__150611.jpg,uk,2024-05-07 22:08:41
-16142462,Professional Enamel Regeneration,Oral B,4.1,gbp/£,True,teeth,15,3.48,0.62,/oral-b/professional-regenerate-enamel-gentle-whitening-whitening-toothpaste/,/oral-b/8001090247582_01-o__220817.jpg,uk,2024-05-07 22:08:41
-16133569,Professional Gum Intensive Care & Bacteria Guard,Oral B,4.2,gbp/£,True,teeth,15,3.57,0.63,/oral-b/professional-gum-intensive-care-bacteria-guard-herbal-toothpaste/,/oral-b/8001841182674_01-o__220701.jpg,uk,2024-05-07 22:08:41
-16148485,Set Splat Duo,Splat,10.7,gbp/£,False,,0,10.7,0.0,/splat/set-duo-setfor-teeth/,/splat/7640168937140_01__220927.jpg,uk,2024-05-07 22:08:41
-16132517,Max Fresh Cooling Crystals,Colgate,2.5,gbp/£,True,teeth,15,2.12,0.38,/colgate/max-fresh-cooling-crystals-whitening-toothpaste/,/colgate/8718951313255_01-o__220524.jpg,uk,2024-05-07 22:08:41
-16199575,Pro Expert Deep Clean,Oral B,3.1,gbp/£,False,,0,3.1,0.0,/oral-b/pro-expert-deep-clean-refreshing-toothpaste/,/oral-b/8700216106733_01-o__230904.jpg,uk,2024-05-07 22:08:41
-16129203,Nourish Healthy White,Sensodyne,6.0,gbp/£,False,,0,6.0,0.0,/sensodyne/nourish-healthy-white-bioactive-toothpaste-with-fluoride/,/sensodyne/5054563120175_01-o__220601.jpg,uk,2024-05-07 22:08:41
-16134105,Natural+ Toothpaste,WOOM,4.5,gbp/£,False,,0,4.5,0.0,/woom/natural-toothpaste-toothpaste-with-peppermint/,/woom/8420075180339_01-o__220629.jpg,uk,2024-05-07 22:08:41
-16199763,Pro Expert Professional Protection,Oral B,4.7,gbp/£,True,teeth,15,4.0,0.7,/oral-b/pro-expert-professional-protection-gum-protection-toothpaste/,/oral-b/8700216106863_01-o__230904.jpg,uk,2024-05-07 22:08:41
-16188195,Toothpaste Coco Mania,BEN&ANNA,3.8,gbp/£,False,,0,3.8,0.0,/benanna/toothpaste-coco-mania-natural-toothpaste/,/benanna/4260491223043_01-o__230331.jpg,uk,2024-05-07 22:08:41
-16226450,Glitter Gold&Black,Beverly Hills Formula,5.6,gbp/£,False,,0,5.6,0.0,/beverly-hills-formula/glitter-goldblack-whitening-toothpaste-vegan/,/beverly-hills-formula/5020105004326_01-o__240423.jpg,uk,2024-05-07 22:08:41
-11633504,Professional White Range,Beverly Hills Formula,12.2,gbp/£,False,,0,12.2,0.0,/beverly-hills-formula/professional-white-range-whitening-toothpaste-with-fluoride/,/beverly-hills-formula/5020105003138_01-o__180326.jpg,uk,2024-05-07 22:08:41
-16184190,Naturaverde Oral Care Set,Be a Unicorn,14.1,gbp/£,False,,0,14.1,0.0,/be-a-unicorn/naturaverde-oral-care-set-gift-setfor-kids/,/be_a_unicorn/8029241134130_01-o__230517.jpg,uk,2024-05-07 22:08:41
-16214628,Always Smiling Blue,Chicco,12.4,gbp/£,False,,0,12.4,0.0,/chicco/always-smiling-blue-dental-care-set-12-mfor-children/,/chicco/8058664047383_01__231124.jpg,uk,2024-05-07 22:08:41
-16214577,Toothpaste Mild Mint,Chicco,3.5,gbp/£,False,,0,3.5,0.0,/chicco/toothpaste-mild-mint-toothpaste-for-children-with-fluoride/,/chicco/8058664138708_01__231124.jpg,uk,2024-05-07 22:08:41
-16214578,Travel Set,Chicco,10.6,gbp/£,False,,0,10.6,0.0,/chicco/travel-set-dental-care-set/,/chicco/8058664121229_01__231124.jpg,uk,2024-05-07 22:08:41
-15850566,Total Active Fresh,Colgate,3.1,gbp/£,False,,0,3.1,0.0,/colgate/total-active-fresh-toothpaste-for-complete-protection-of-teeth/,/colgate/8718951226838_01-o__220801.jpg,uk,2024-05-07 22:08:41
-16080292,Total Charcoal,Colgate,2.7,gbp/£,False,,0,2.7,0.0,/colgate/total-charcoal-whitening-toothpaste-with-activated-charcoal/,/colgate/6920354829406_01-o__221125.jpg,uk,2024-05-07 22:08:41
-16231100,Max White Bye Bye Stains,Colgate,3.5,gbp/£,False,,0,3.5,0.0,/colgate/max-white-bye-bye-stains-toothpaste/,/colgate/8718951610521_01-o__240404.jpg,uk,2024-05-07 22:08:41
-16237101,Total Active Fresh XL,Colgate,4.4,gbp/£,False,,0,4.4,0.0,/colgate/total-active-fresh-xl-toothpaste-for-fresh-breath/,/colgate/8714789710624_01-o__240404.jpg,uk,2024-05-07 22:08:41
-16237092,Total Original XL,Colgate,4.4,gbp/£,False,,0,4.4,0.0,/colgate/total-original-xl-toothpaste-for-complete-tooth-protection/,/colgate/8714789710020_01-o__240404.jpg,uk,2024-05-07 22:08:41
-16237093,Total Whitening XL,Colgate,4.4,gbp/£,False,,0,4.4,0.0,/colgate/total-whitening-xl-whitening-toothpaste/,/colgate/8714789710358_01-o__240404.jpg,uk,2024-05-07 22:08:41
-16011684,Triple Action Xtra White,Colgate,2.2,gbp/£,False,,0,2.2,0.0,/colgate/triple-action-xtra-white-whitening-toothpaste-with-fluoride/,/colgate/8718951294721_01-o__200212.jpg,uk,2024-05-07 22:08:41
-16181193,Advanced White Volcanic Ash and Baking Soda,Colgate,2.8,gbp/£,False,,0,2.8,0.0,/colgate/advanced-white-volcanic-ash-and-baking-soda-organic-toothpaste/,/colgate/8718951555488_01-o__230426.jpg,uk,2024-05-07 22:08:41
-16125905,Black Lux Set,Curasept,15.0,gbp/£,False,,0,15.0,0.0,/curasept/black-lux-set-whitening-kit-for-teeth/,/curasept/8056746071486_01-o__220218.jpg,uk,2024-05-07 22:08:41
-16115011,White Lux Toothpaste,Curasept,13.0,gbp/£,False,,0,13.0,0.0,/curasept/white-lux-whitening-toothpaste-with-activated-charcoal/,/curasept/8056746072001_01-o__220218.jpg,uk,2024-05-07 22:08:41
-16102531,GTS2066+WT3500 Exclusive Set,Dr. Mayer,84.1,gbp/£,False,,0,84.1,0.0,/dr-mayer/bundle-gift-set/,/dr_mayer/8591205717791_01__211124.jpg,uk,2024-05-07 22:08:41
-16212438,Brush Teeth Tablets Kids without Fluoride,Denttabs,5.4,gbp/£,False,,0,5.4,0.0,/denttabs/brush-teeth-tablets-kids-without-fluoride-fluoride-free-toothpaste-in-tablets/,/denttabs/4260066813433_01-o__231115.jpg,uk,2024-05-07 22:08:41
-16098315,Juventus,EP Line,14.4,gbp/£,False,,0,14.4,0.0,/ep-line/juventus-gift-set/,/ep-line/8029241128917_01-o__211014.jpg,uk,2024-05-07 22:08:41
-16120166,Toothpaste Apple a Day,HAAN,6.1,gbp/£,False,,0,6.1,0.0,/haan/toothpaste-apple-a-day-fluoride-free-toothpaste-refillable/,/haan/5060917120067_01-o__220405.jpg,uk,2024-05-07 22:08:41
-16191073,Gift Sets Great Aquamarine,HAAN,19.8,gbp/£,False,,0,19.8,0.0,/haan/gift-sets-great-aquamarine-gift-set-6877842/,/haan/5060917123525_01-o__230619.jpg,uk,2024-05-07 22:08:41
-16142642,Gift Sets Great Aquamarine,HAAN,33.5,gbp/£,False,,0,33.5,0.0,/haan/gift-sets-great-aquamarine-gift-set/,/haan/5060669780908_01-o__220819.jpg,uk,2024-05-07 22:08:41
-16120168,Toothpaste Good On Ya,HAAN,6.1,gbp/£,False,,0,6.1,0.0,/haan/toothpaste-good-on-ya-fluoride-free-toothpaste-refillable/,/haan/5060917120074_01-o__220405.jpg,uk,2024-05-07 22:08:41
-16120170,Toothpaste Life's a Beach,HAAN,5.4,gbp/£,False,,0,5.4,0.0,/haan/toothpaste-lifes-a-beach-fluoride-free-toothpaste-refillable/,/haan/5060917120081_01-o__220405.jpg,uk,2024-05-07 22:08:41
-16184719,Toothpaste Dolce Vita,HAAN,5.8,gbp/£,False,,0,5.8,0.0,/haan/toothpaste-dolce-vita-fluoride-toothpastes-with-prebiotics/,/haan/5060669781349_01-o__230515.jpg,uk,2024-05-07 22:08:41
-16090057,Natural Toothpaste Tablets,The Humble Co.,6.9,gbp/£,False,,0,6.9,0.0,/the-humble-co/pastilles/,/humble/7350075691904_01-o__210816.jpg,uk,2024-05-07 22:08:41
-16088635,Natural Toothpaste Kids,The Humble Co.,9.5,gbp/£,False,,0,9.5,0.0,/humble/natural-toothpaste-kids-natural-toothpaste-for-kids-with-strawberry-flavour/,/humble/7350075693229_01-o__210816.jpg,uk,2024-05-07 22:08:41
-16137200,Spiderman Travel Kit,Marvel,3.5,gbp/£,False,,0,3.5,0.0,/marvel/spiderman-travel-kit-dental-care-set-for-kids/,/marvel/8032979436902_01__220725.jpg,uk,2024-05-07 22:08:41
-16144266,Toothpaste,Minions,2.3,gbp/£,False,,0,2.3,0.0,/minions/toothpaste-toothpaste-for-children/,/minions/8032979437657_01-o__220902.jpg,uk,2024-05-07 22:08:41
-16223830,Bava Di Lumaca,Naturaverde,3.4,gbp/£,False,,0,3.4,0.0,/naturaverde/bava-di-lumaca-sensitive-toothpaste/,/naturaverde/8029241123813_01-o__240130.jpg,uk,2024-05-07 22:08:41
-16223806,Dentifricio,Naturaverde,3.4,gbp/£,False,,0,3.4,0.0,/naturaverde/dentifricio-whitening-toothpaste/,/naturaverde/8029241123820_01-o__240125.jpg,uk,2024-05-07 22:08:41
-16223651,Dentifricio,Naturaverde,3.4,gbp/£,False,,0,3.4,0.0,/naturaverde/dentifricio-refreshing-toothpaste/,/naturaverde/8029241122533_01-o__240130.jpg,uk,2024-05-07 22:08:41
-16170972,Organic Baby 0-3 years,Pure Beginnings,8.0,gbp/£,False,,0,8.0,0.0,/pure-beginnings/organic-baby-0-3-years-toothpaste-for-babies-and-kids/,/pure_beginnings/6009824780154_01-o__230216.jpg,uk,2024-05-07 22:08:41
-16241400,Teething,Brush Baby,3.5,gbp/£,False,,0,3.5,0.0,/brush-baby/teething-toothpaste/,/brush_baby/5060178100679_01-o__240326.jpg,uk,2024-05-07 22:08:41
-16115804,Gum Protection Fresh Breath,Meridol,4.1,gbp/£,False,,0,4.1,0.0,/meridol/dental-care-toothpaste-for-fresh-breath/,/meridol/8718951455528_01-o__230807.jpg,uk,2024-05-07 22:08:41
-16053813,Smile Beauty Care Gift Pack,My White Secret,34.9,gbp/£,False,,0,34.9,0.0,/my-white-secret/smile-beauty-care-dental-care-setfor-radiant-smile/,/my-white-secret/5060548390082_07__200903.jpg,uk,2024-05-07 22:08:41
-16208484,Toothpaste Smooth Mint,My White Secret,7.0,gbp/£,False,,0,7.0,0.0,/my-white-secret/toothpaste-smooth-mint-toothpaste/,/my-white-secret/5060548390549_01-o__230913.jpg,uk,2024-05-07 22:08:41
-16143773,Toothpaste Powder,My White Secret,9.0,gbp/£,False,,0,9.0,0.0,/my-white-secret/toothpaste-powder-toothpaste-powder/,/my-white-secret/5060548390457_01-o__220829.jpg,uk,2024-05-07 22:08:41
-16151693,Herbal Toothpaste,NANOO,8.3,gbp/£,False,,0,8.3,0.0,/nanoo/herbal-toothpaste-herbal-toothpaste-with-sea-salt/,/nanoo/08594211010207_01-o__221013.jpg,uk,2024-05-07 22:08:41
-16142868,Biocare Combo Pack,Swissdent,10.5,gbp/£,False,,0,10.5,0.0,/swissdent/biocare-combo-pack-dental-care-set/,/swissdent/7640126890067_01-o__220829.jpg,uk,2024-05-07 22:08:41
-16137555,Max White Ultra Freshness Pearls,Colgate,6.5,gbp/£,True,teeth,15,5.52,0.98,/colgate/max-white-ultra-freshness-pearls-whitening-toothpaste/,/colgate/8718951505100_01-o__240229.jpg,uk,2024-05-07 22:08:41
-542935,Clove,Eva,4.0,gbp/£,True,teeth,15,3.4,0.6,/eva/cloves-whitening-tooth-powder-3-in-1/,/eva/6223001385349_01-o__211115.jpg,uk,2024-05-07 22:08:41
-16159033,Gift Sets Great Coral,HAAN,34.2,gbp/£,True,15promo,15,29.07,5.13,/haan/gift-sets-great-coral-gift-set/,/haan/5060669781004_01-o__221122.jpg,uk,2024-05-07 22:08:41
-16190607,Gift Sets The core four - Serenity,HAAN,26.2,gbp/£,True,15promo,15,22.27,3.93,/haan/gift-sets-the-core-four-serenity-gift-set/,/haan/5060917123532_01-o__230619.jpg,uk,2024-05-07 22:08:41
-16212207,Glo Charcoal,White Glo,4.5,gbp/£,False,,0,4.5,0.0,/white-glo/charcoal-deep-stain-remover-whitening-toothpaste-with-activated-charcoal/,/white-glo/9319871002169_01-o__231109.jpg,uk,2024-05-07 22:08:41
-502965,Night & Day,White Glo,5.5,gbp/£,False,,0,5.5,0.0,/white-glo/night-day-cosmetic-set-i/,/white-glo/9319871000226_01-o__220624.jpg,uk,2024-05-07 22:08:41
-16187453,Probiotic,White Glo,5.1,gbp/£,False,,0,5.1,0.0,/white-glo/probiotic-dental-care-set/,/white-glo/9319871001506_00-o__230606.jpg,uk,2024-05-07 22:08:41
-15960493,NanoCare Kids,White Pearl,4.7,gbp/£,False,,0,4.7,0.0,/white-pearl/white-pearl-nanocare-kids-toothpaste-for-children/,/white-pearl/8594069332964_01-o__190710.jpg,uk,2024-05-07 22:08:41
-16194259,CBD Aloe Vera,White Pearl,7.2,gbp/£,False,,0,7.2,0.0,/white-pearl/cbd-aloe-vera-toothpaste/,/white-pearl/8594069333312_01-o__230725.jpg,uk,2024-05-07 22:08:41
-16143190,Family Complex,WOOM,3.1,gbp/£,False,,0,3.1,0.0,/woom/family-complex-toothpaste/,/woom/8420075180360_01-o__220830.jpg,uk,2024-05-07 22:08:41
-16143193,Family Whitening,WOOM,3.3,gbp/£,False,,0,3.3,0.0,/woom/family-whitening-whitening-toothpaste/,/woom/8420075180346_01-o__220830.jpg,uk,2024-05-07 22:08:41
-16134103,Kids Peach,WOOM,3.6,gbp/£,False,,0,3.6,0.0,/woom/kids-peach-toothpaste-for-children/,/woom/4751033920105_01-o__220629.jpg,uk,2024-05-07 22:08:41
-16134104,Herbal+ Toothpaste,WOOM,4.9,gbp/£,False,,0,4.9,0.0,/woom/herbal-toothbrush-herbal-toothpaste/,/woom/4751033920228_01-o__220629.jpg,uk,2024-05-07 22:08:41
-16134107,Total+ Toothpaste,WOOM,5.7,gbp/£,False,,0,5.7,0.0,/woom/total-toothpaste-reinforcing-toothpaste/,/woom/8420075180308_01-o__220629.jpg,uk,2024-05-07 22:08:41
-16221588,White & Charcoal,Perl Weiss,5.9,gbp/£,True,teeth,15,5.02,0.88,/perl-weiss/white-charcoal-whitening-toothpaste/,/perl_weiss/4008890009154_01__240111.jpg,uk,2024-05-07 22:08:41
-16103885,Coconut Oil Shine,White Glo,5.6,gbp/£,True,teeth,15,4.76,0.84,/white-glo/coconut-oil-shine-whitening-toothpaste-with-brush/,/white-glo/9319871001131_01-o__211129.jpg,uk,2024-05-07 22:08:41
-16102548,Hemp Seed Oil,White Glo,5.4,gbp/£,True,teeth,15,4.59,0.81,/white-glo/hemp-seed-oil-whitening-toothpaste-with-brush/,/white-glo/9319871001711_01-o__211129.jpg,uk,2024-05-07 22:08:41
-16077189,Total Mouth Detox,White Glo,5.8,gbp/£,True,teeth,15,4.93,0.87,/white-glo/total-mouth-detox-teeth-whitening-kit/,/white-glo/9319871001025_01-o__210524.jpg,uk,2024-05-07 22:08:41
-16194256,PAP Carbon Whitening,White Pearl,7.2,gbp/£,True,teeth,15,6.12,1.08,/white-pearl/pap-carbon-whitening-whitening-toothpaste/,/white-pearl/8594069333275_01-o__230725.jpg,uk,2024-05-07 22:08:41
-16194257,PAP Coconut Whitening,White Pearl,7.2,gbp/£,True,teeth,15,6.12,1.08,/white-pearl/pap-coconut-whitening-whitening-toothpaste/,/white-pearl/8594069333299_01-o__230725.jpg,uk,2024-05-07 22:08:41
-16141123,Extreme Travel Set,Swissdent,9.8,gbp/£,True,teeth,15,8.33,1.47,/swissdent/extreme-travel-set-dental-care-set/,/swissdent/7640126190334_01-o__220830.jpg,uk,2024-05-07 22:08:41
-16162535,Dental Care White Time Set,MEDIBLANC,19.9,gbp/£,True,20promo,20,15.92,3.98,/mediblanc/dental-care-white-time-set-dental-care-setfor-pearly-white-teeth/,/mediblanc/3760275382894_01__221220.jpg,uk,2024-05-07 22:08:41
-472307,Hydral,G.U.M,8.8,gbp/£,True,teeth,15,7.48,1.32,/gum/hydral-moisturizing-gel-on-the-teeth-tongue-and-gums/,/gum/gumhydu_ktps10__150309.jpg,uk,2024-05-07 22:08:41
-16230822,Up White Advanced Whitening,Perl Weiss,5.0,gbp/£,True,15promo,15,4.25,0.75,/perl-weiss/up-white-advanced-whitening-whitening-toothpaste/,/perl_weiss/4008890009512_01__240304.jpg,uk,2024-05-07 22:08:41
-16009360,Whitening,Lavera,5.8,gbp/£,False,,0,5.8,0.0,/lavera/whitening-whitening-toothpaste/,/lavera/4021457629213_01-o__200129.jpg,uk,2024-05-07 22:08:41
-530302,Herbal Original,Colgate,1.7,gbp/£,False,,0,1.7,0.0,/colgate/herbal-original-herbal-toothpaste/,/colgate/clghrow_ktps10_01__160306.jpg,uk,2024-05-07 22:08:41
-15947269,Green Multifunctional,Ecodenta,3.2,gbp/£,False,,0,3.2,0.0,/ecodenta/green-multifunctional-toothpaste-for-complete-protection-of-teeth/,/ecodenta/4770001335314_01-o__170112.jpg,uk,2024-05-07 22:08:41
-16213096,AC Milan Oral Hygiene Gift Set,EP Line,9.5,gbp/£,False,,0,9.5,0.0,/ep-line/ac-milan-oral-hygiene-gift-set-gift-setfor-children/,/ep-line/8029241131962_01__231120.jpg,uk,2024-05-07 22:08:41
-16077171,Professional Choice,White Glo,5.7,gbp/£,True,teeth,15,4.85,0.85,/white-glo/professional-choice-dental-care-set/,/white-glo/9319871000615_01-o__210524.jpg,uk,2024-05-07 22:08:41
-491158,Oral Care Toothpaste,Chicco,3.5,gbp/£,False,,0,3.5,0.0,/chicco/oral-care-toothpaste-for-children-12m/,/chicco/cicorad_ktps10_01__150803.jpg,uk,2024-05-07 22:08:41
-16140714,3D White Delicate White,Blend-a-med,1.7,gbp/£,False,,0,1.7,0.0,/blend-a-med/3d-white-delicate-white-whitening-toothpaste/,/blend-a-med/8006540793183_01-o__230221.jpg,uk,2024-05-07 22:08:41
-16087878,Certified Organic Whitening,Ecodenta,4.7,gbp/£,False,,0,4.7,0.0,/ecodenta/certified-organic-anti-plaque-whitening-toothpaste/,/ecodenta/4770001002162_01-o__210809.jpg,uk,2024-05-07 22:08:41
-499486,Complete 7 + White,Blend-a-med,3.4,gbp/£,False,,0,3.4,0.0,/blend-a-med/complete-7-white-toothpaste-for-complete-protection-of-teeth/,/blend-a-med/blecpww_ktps10_01__150925.jpg,uk,2024-05-07 22:08:41
-542995,Fluor,Eva,3.9,gbp/£,False,,0,3.9,0.0,/eva/fluor-whitening-tooth-powder-3-in-1/,/eva/6223001385363_01-o__211115.jpg,uk,2024-05-07 22:08:41
-16072515,Max White Clay,Colgate,3.4,gbp/£,False,,0,3.4,0.0,/colgate/max-white-clay-whitening-toothpaste/,/colgate/8718951380103_01-o__221125.jpg,uk,2024-05-07 22:08:41
-16166905,Max White Limited Edition,Colgate,2.8,gbp/£,False,,0,2.8,0.0,/colgate/max-white-limited-edition-refreshing-toothpaste-limited-edition/,/colgate/8718951372498_01-o__230130.jpg,uk,2024-05-07 22:08:41
-16212431,Natural Toothpaste Tablets without Fluoride,Denttabs,5.4,gbp/£,False,,0,5.4,0.0,/denttabs/natural-toothpaste-tablets-without-fluoride-fluoride-free-toothpaste-in-tablets/,/denttabs/4260066813105_01-o__231115.jpg,uk,2024-05-07 22:08:41
-16221593,White & Gloss,Perl Weiss,5.2,gbp/£,True,15promo,15,4.42,0.78,/perl-weiss/white-gloss-whitening-toothpaste/,/perl_weiss/4008890009314_01__240111.jpg,uk,2024-05-07 22:08:41
-16097860,Boys,Pink Elephant,5.2,gbp/£,False,,0,5.2,0.0,/pink-elephant/boys-gift-set-for-kids-green/,/pink_elephant/8588006040418_01__211015.jpg,uk,2024-05-07 22:08:41
-16141120,Gentle Combo Pack,Swissdent,8.9,gbp/£,False,,0,8.9,0.0,/swissdent/gentle-combo-pack-set-for-perfectly-clean-teeth-mint/,/swissdent/7640126890043_01-o__220829.jpg,uk,2024-05-07 22:08:41
-16109368,KIDS Orange,MEDIBLANC,6.6,gbp/£,True,20promo,20,5.28,1.32,/mediblanc/kids-orange-toothpaste-for-children-2186097/,/mediblanc/8059300533130_01-o__220114.jpg,uk,2024-05-07 22:08:41
-16077186,Advantage Cavity Protection,White Glo,3.4,gbp/£,False,,0,3.4,0.0,/white-glo/advantage-whitening-toothpaste/,/white-glo/9319871001117_01-o__210524.jpg,uk,2024-05-07 22:08:41
-16151046,System PAP Whitening,White Pearl,54.0,gbp/£,True,teeth,15,45.9,8.1,/white-pearl/system-pap-whitening-whitening-gel/,/white-pearl/8594069333213_01-o__221116.jpg,uk,2024-05-07 22:08:41
-15726086,Toothpaste Classic Mint,My White Secret,10.4,gbp/£,True,teeth,15,8.84,1.56,/my-white-secret/toothpaste-cosmetic-set-i/,/my-white-secret/5060548390020_01-ox__180821.jpg,uk,2024-05-07 22:08:41
-16088621,Natural Toothpaste Charcoal,The Humble Co.,7.6,gbp/£,False,,0,7.6,0.0,/humble/natural-toothpaste-charcoal-organic-toothpaste/,/humble/7350075693212_01-o__210816.jpg,uk,2024-05-07 22:08:41
-16139599,Complete Protect 7 Original,Blend-a-med,1.5,gbp/£,False,,0,1.5,0.0,/blend-a-med/complete-protect-7-original-toothpaste-for-complete-protection-of-teeth/,/blend-a-med/8006540391488_01-o__220816.jpg,uk,2024-05-07 22:08:41
-16189648,Dinosaur,Brush Baby,3.2,gbp/£,False,,0,3.2,0.0,/brush-baby/dinosaur-toothpaste-for-children-from-36-months/,/brush_baby/5060178100464_01-o__230613.jpg,uk,2024-05-07 22:08:41
-16077980,Launcher Set,Toothy®,56.6,gbp/£,True,teeth,15,48.11,8.49,/toothy/launcher-set-teeth-whitening-kit/,/toothy/726667490779_01-o__210528.jpg,uk,2024-05-07 22:08:41
-15947272,Green Tartar Eliminating,Ecodenta,2.4,gbp/£,False,,0,2.4,0.0,/ecodenta/green-tartar-eliminating-refreshing-toothpaste-against-plaque/,/ecodenta/4770001333815_01-o__170112.jpg,uk,2024-05-07 22:08:41
-16069001,Anti Caries Anti Carries,Sensodyne,3.8,gbp/£,True,teeth,15,3.23,0.57,/sensodyne/anti-caries-toothpaste-against-dental-caries/,/sensodyne/5054563096029_01-o__221027.jpg,uk,2024-05-07 22:08:41
-16109367,JUNIOR Mint fresh,MEDIBLANC,6.6,gbp/£,True,20promo,20,5.28,1.32,/mediblanc/junior-mint-fresh-toothpaste-for-children/,/mediblanc/8059300533147_01-o__220114.jpg,uk,2024-05-07 22:08:41
-16077178,Charcoal,White Glo,1.0,gbp/£,False,,0,1.0,0.0,/white-glo/charcoal-whitening-toothpaste-with-activated-charcoal-for-travelling/,/white-glo/9319871000974_01-o__210524.jpg,uk,2024-05-07 22:08:41
-16213105,Inter Oral Hygiene Gift Set,EP Line,9.9,gbp/£,False,,0,9.9,0.0,/ep-line/inter-oral-hygiene-gift-set-gift-setfor-children/,/ep-line/8029241132006_01__231120.jpg,uk,2024-05-07 22:08:41
-16131391,Super +,Ecodenta,2.2,gbp/£,False,,0,2.2,0.0,/ecodenta/super-natural-toothpaste-for-kids/,/ecodenta/4770001334591_01__220606.jpg,uk,2024-05-07 22:08:41
-16079855,Integral 8 Actions,Signal,1.9,gbp/£,False,,0,1.9,0.0,/signal/integral-8-toothpaste/,/signal/8720181117640_01-o__210611.jpg,uk,2024-05-07 22:08:41
-16173759,Medium,Vitis,9.3,gbp/£,False,,0,9.3,0.0,/vitis/medium-toothbrush-mini-toothpaste/,/vitis/8427426006591_01-o__230202.jpg,uk,2024-05-07 22:08:41
-542877,Menthol,Eva,3.4,gbp/£,False,,0,3.4,0.0,/eva/menthol-whitening-tooth-powder-3-in-1/,/eva/6223001385356_01-o__211115.jpg,uk,2024-05-07 22:08:41
-542989,Meswak,Eva,3.7,gbp/£,True,teeth,15,3.14,0.56,/eva/meswak-whitening-tooth-powder-3-in-1/,/eva/6223001385370_01-o__211115.jpg,uk,2024-05-07 22:08:41
-16221587,Expert,Perl Weiss,5.2,gbp/£,True,15promo,15,4.42,0.78,/perl-weiss/expert-whitening-toothpaste/,/perl_weiss/4008890009437_01__240111.jpg,uk,2024-05-07 22:08:41
-16156105,Natural Toothpaste Sensitive,BEN&ANNA,6.4,gbp/£,True,teeth,15,5.44,0.96,/benanna/natural-toothpaste-sensitive-sensitive-toothpaste/,/benanna/4260491220523_01-o__221101.jpg,uk,2024-05-07 22:08:41
-503050,Smokers Formula,White Glo,5.5,gbp/£,True,teeth,15,4.68,0.82,/white-glo/smokers-formula-cosmetic-set-i/,/white-glo/whgsmow_kset10_01__151016.jpg,uk,2024-05-07 22:08:41
-15947266,Green Brilliant Whitening,Ecodenta,3.6,gbp/£,True,teeth,15,3.06,0.54,/ecodenta/green-brilliant-whitening-whitening-toothpaste-for-fresh-breath/,/ecodenta/4770001333808_01-o__170112.jpg,uk,2024-05-07 22:08:41
-596289,Advanced Clean,Sensodyne,4.8,gbp/£,False,,0,4.8,0.0,/sensodyne/advanced-clean-fluoride-toothpastes-for-complete-protection-of-teeth/,/sensodyne/5054563014757_01-o__170106.jpg,uk,2024-05-07 22:08:41
-478595,Classic,Yotuel,8.7,gbp/£,True,teeth,15,7.4,1.3,/yotuel/classic-whitening-toothpaste/,/yotuel/yotclsw_ktps10__150428.jpg,uk,2024-05-07 22:08:41
-16215117,Teeth Whitening Foam,My White Secret,10.6,gbp/£,True,teeth,15,9.01,1.59,/my-white-secret/teeth-whitening-foam-foam-corrector-for-whitening-teeth/,/my-white-secret/5060548390563_01-o__231128.jpg,uk,2024-05-07 22:08:41
-16077153,Travel Kit,White Glo,2.4,gbp/£,False,,0,2.4,0.0,/white-glo/travel-kit-travel-set-bluefor-teeth/,/white-glo/9319871000356_01-o__220624.jpg,uk,2024-05-07 22:08:41
-16103884,Whitening & Tartar Control,White Glo,5.3,gbp/£,True,teeth,15,4.5,0.8,/white-glo/whitening-tartar-control-whitening-toothpaste-with-brush/,/white-glo/9319871001452_01-o__211129.jpg,uk,2024-05-07 22:08:41
-16187465,Micellar,White Glo,6.0,gbp/£,False,,0,6.0,0.0,/white-glo/micellar-dental-care-set/,/white-glo/9319871001391_01-o__230606.jpg,uk,2024-05-07 22:08:41
-16213106,Oral Care Set,Peppa Pig,13.5,gbp/£,False,,0,13.5,0.0,/peppa-pig/oral-care-set-gift-setfor-children/,/peppa_pig/8029241136820_01__231120.jpg,uk,2024-05-07 22:08:41
-16087854,Exceptional Whitening,Ecodenta,10.9,gbp/£,True,teeth,15,9.26,1.64,/ecodenta/exceptional-whitening-whitening-toothpaste/,/ecodenta/4770001337103_01-o__210809.jpg,uk,2024-05-07 22:08:41
-16163734,Sensitive CBD,Ecodenta,3.2,gbp/£,False,,0,3.2,0.0,/ecodenta/sensitive-cbd-bioactive-toothpaste-with-cbd/,/ecodenta/4770001005811_01-o__230105.jpg,uk,2024-05-07 22:08:41
-16143192,Family Sensitive,WOOM,3.2,gbp/£,False,,0,3.2,0.0,/woom/family-sensitive-sensitive-toothpaste/,/woom/8420075180377_01-o__220830.jpg,uk,2024-05-07 22:08:41
-16142487,Antiplaca,DentYucral,3.7,gbp/£,True,teeth,15,3.14,0.56,/dentyucral/antiplaca-whitening-tooth-powder/,/dentyucral/8470002079021_01-o__220818.jpg,uk,2024-05-07 22:08:41
-16160459,Paw Patrol Travel Kit,Nickelodeon,3.4,gbp/£,False,,0,3.4,0.0,/nickelodeon/paw-patrol-travel-kit-dental-care-set-for-kids/,/nickelodeon/8032979439019_01-o__221206.jpg,uk,2024-05-07 22:08:41
-16221592,Beauty,Perl Weiss,4.2,gbp/£,True,teeth,15,3.57,0.63,/perl-weiss/beauty-whitening-toothpaste/,/perl_weiss/4008890009413_01__240111.jpg,uk,2024-05-07 22:08:41
-16109369,KIDS Raspberry,MEDIBLANC,6.6,gbp/£,True,20promo,20,5.28,1.32,/mediblanc/kids-rapsberry-toothpaste-for-children/,/mediblanc/8059300533123_01-o__220114.jpg,uk,2024-05-07 22:08:41
-16188201,Toothpaste Wild Berry,BEN&ANNA,3.9,gbp/£,False,,0,3.9,0.0,/benanna/toothpaste-wild-berry-natural-toothpaste/,/benanna/4260491223036_01-o__230331.jpg,uk,2024-05-07 22:08:41
-16011679,Kids 3+ Years,Colgate,2.0,gbp/£,False,,0,2.0,0.0,/colgate/kids-3-years-toothpaste-for-children-aged-3-6-years-with-fluoride/,/colgate/8718951321434_01-o__200212.jpg,uk,2024-05-07 22:08:41
-16137904,Eco Toothpaste,Woobamboo,4.0,gbp/£,False,,0,4.0,0.0,/woobamboo/eco-toothpaste-toothpaste-for-children/,/woobamboo/860002270500_01-o__220727.jpg,uk,2024-05-07 22:08:41
-16102973,Natural,Jack N’ Jill,6.7,gbp/£,False,,0,6.7,0.0,/jack-n-jill/natural-dental-care-setfor-kids/,/jack-n-jill/9312657011027_01-o__230602.jpg,uk,2024-05-07 22:08:41
-16140856,Natural Elements Integral 8 Camomile,Signal,2.8,gbp/£,False,,0,2.8,0.0,/signal/natural-elements-integral-8-camomile-toothpaste/,/signal/8720181230585_01-o__220812.jpg,uk,2024-05-07 22:08:41
-16186665,White Now Time Correct,Signal,4.1,gbp/£,True,teeth,15,3.48,0.62,/signal/white-now-time-correct-toothpaste/,/signal/8720181327186_01-o__230503.jpg,uk,2024-05-07 22:08:41
-16016239,Rapid Whitening,Sensodyne,5.7,gbp/£,True,teeth,15,4.85,0.85,/sensodyne/rapid-whitening-whitening-toothpaste-for-sensitive-teeth-755952/,/sensodyne/8596149002408_01-o__210908.jpg,uk,2024-05-07 22:08:41
-419128,Pronamel Whitening,Sensodyne,5.0,gbp/£,True,teeth,15,4.25,0.75,/sensodyne/pronamel-whitening-whitening-toothpaste-for-sensitive-teeth/,/sensodyne/5999518582021_01-o__230315.jpg,uk,2024-05-07 22:08:41
-16202908,Set Max White Ultra Complete,Colgate,15.2,gbp/£,True,teeth,15,12.92,2.28,/colgate/set-max-white-ultra-complete-set-for-teeth/,/colgate/8590232001224_01-o__230922.jpg,uk,2024-05-07 22:08:41
-16097837,Boys,Pink Elephant,1.0,gbp/£,False,,0,1.0,0.0,/pink-elephant/boys-toothpaste-for-kids/,/pink_elephant/8588006040906_01__230116.jpg,uk,2024-05-07 22:08:41
-16022005,Max White White Crystals,Colgate,3.1,gbp/£,False,,0,3.1,0.0,/colgate/max-white-white-crystals-whitening-toothpaste-with-fluoride/,/colgate/8718951312845_01-o__200403.jpg,uk,2024-05-07 22:08:41
-16231115,Max Fresh Cooling Crystals,Colgate,3.7,gbp/£,False,,0,3.7,0.0,/colgate/max-fresh-cooling-crystals-toothpaste/,/colgate/8718951313675_01-o__240312.jpg,uk,2024-05-07 22:08:41
-16077188,Sensitive Forte,White Glo,6.0,gbp/£,True,teeth,15,5.1,0.9,/white-glo/sensitive-forte-dental-care-set/,/white-glo/9319871000653_01-o__210524.jpg,uk,2024-05-07 22:08:41
-554971,Coffee & Tea Drinkers Formula,White Glo,5.1,gbp/£,False,,0,5.1,0.0,/white-glo/coffee-tea-drinkers-formula-cosmetic-set-ii/,/white-glo/9319871000639_01-o__231109.jpg,uk,2024-05-07 22:08:41
-16125917,White Lux Set,Curasept,15.0,gbp/£,False,,0,15.0,0.0,/curasept/white-lux-set-whitening-kit-for-teeth/,/curasept/8056746071493_01-o__220218.jpg,uk,2024-05-07 22:08:41
-16221590,Bleaching Toothpaste for Smokers,Perl Weiss,4.2,gbp/£,True,teeth,15,3.57,0.63,/perl-weiss/bleaching-toothpaste-for-smokers-whitening-toothpaste-for-smokers/,/perl_weiss/4008890008928_01__240111.jpg,uk,2024-05-07 22:08:41
-537382,White Shock Instant White,BlanX,4.0,gbp/£,False,,0,4.0,0.0,/blanx/white-shock-whitening-toothpaste-against-stains-on-tooth-enamel-with-immediate-effect/,/blanx/8017331051573_01__160413.jpg,uk,2024-05-07 22:08:41
-16145054,Biomed Calcimax,Splat,4.1,gbp/£,False,,0,4.1,0.0,/splat/biomed-calcimax-tooth-enamel-fortifying-toothpaste-with-seaweed-extracts/,/splat/2800015078340_01-o__220908.jpg,uk,2024-05-07 22:08:41
-16109706,Kids 3+ Frozen,Oral B,2.0,gbp/£,False,,0,2.0,0.0,/oral-b/kids-3-frozen-cars-toothpaste-for-children/,/oral-b/8001841296784_01-o__230602.jpg,uk,2024-05-07 22:08:41
-16214778,Original,Truthpaste,7.4,gbp/£,False,,0,7.4,0.0,/truthpaste/original-natural-toothpaste/,/truthpaste/5060655080005_01-o__231127.jpg,uk,2024-05-07 22:08:41
-16141819,Perfect White Extreme White,Beverly Hills Formula,7.9,gbp/£,False,,0,7.9,0.0,/beverly-hills-formula/perfect-white-extreme-white-fluoride-toothpastes/,/beverly-hills-formula/5020105003664_01-o__220818.jpg,uk,2024-05-07 22:08:41
-16181196,Opti-namel Daily Repair,Elmex,5.9,gbp/£,False,,0,5.9,0.0,/elmex/opti-namel-daily-repair-remineralising-toothpaste/,/elmex/8718951554542_01-o__230426.jpg,uk,2024-05-07 22:08:41
-16011435,Whitening Smokers Mint,Marvis,4.6,gbp/£,False,,0,4.6,0.0,/marvis/smokers-whitening-mint-whitening-toothpaste-for-smokers/,/marvis/8004395111817_01-o__200211.jpg,uk,2024-05-07 22:08:41
-15964933,Fresh Mint,Urtekram,4.1,gbp/£,False,,0,4.1,0.0,/urtekram/urtekram-fresh-mint-whitening-toothpaste-without-fluoride/,/urtekram/5765228836095_01-o__190813.jpg,uk,2024-05-07 22:08:41
-16125898,Biosmalto Junior,Curasept,6.1,gbp/£,False,,0,6.1,0.0,/curasept/biosmalto-junior-toothpaste-for-children/,/curasept/8056746072452_01-o__220204.jpg,uk,2024-05-07 22:08:41
-16187461,Daycare Protection Junior Booster,Curasept,5.6,gbp/£,False,,0,5.6,0.0,/curasept/daycare-protection-junior-booster-toothpaste-for-children/,/curasept/8056746073312_01-o__230605.jpg,uk,2024-05-07 22:08:41
-16122231,ADS Regenerating,Curasept,6.4,gbp/£,False,,0,6.4,0.0,/curasept/ads-regenerating-anti-decay-toothpaste-with-regenerative-effect/,/curasept/8056746070243_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16212405,Natural Toothpaste Tablets with Fluoride,Denttabs,5.4,gbp/£,False,,0,5.4,0.0,/denttabs/natural-toothpaste-tablets-with-fluoride-fluoride-toothpaste-in-tablets/,/denttabs/4260066813006_01-o__231115.jpg,uk,2024-05-07 22:08:41
-16122249,ADS Astringent,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ads-astringent-gel-toothpaste-to-treat-bleeding-gums/,/curasept/8056746070304_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16131388,Certified Organic Multifunctional with Hemp,Ecodenta,4.1,gbp/£,False,,0,4.1,0.0,/ecodenta/certified-organic-multifunctional-with-hemp-organic-toothpaste/,/ecodenta/4770001002186_01-o__220613.jpg,uk,2024-05-07 22:08:41
-16215915,Professional Sensitive,Splat,4.6,gbp/£,False,,0,4.6,0.0,/splat/special-organic-sensitive-toothpaste/,/splat/7640168930257_01-o__231128.jpg,uk,2024-05-07 22:08:41
-16212728,Advanced Senitivity,Biorepair,5.1,gbp/£,False,,0,5.1,0.0,/biorepair/advanced-senitivity-sensitive-toothpaste-for-protection-of-teeth-and-gums/,/biorepair/8017331077849_01-o__230906.jpg,uk,2024-05-07 22:08:41
-15992814,Children's Toothpaste Original,Urtekram,3.8,gbp/£,False,,0,3.8,0.0,/urtekram/childrens-toothpaste-original-toothpaste-for-children/,/urtekram/5765228839065_01-o__191016.jpg,uk,2024-05-07 22:08:41
-496176,Max White Optic,Colgate,4.5,gbp/£,False,,0,4.5,0.0,/colgate/max-white-one-optic-whitening-toothpaste-with-immediate-effect/,/colgate/8714789928425_01-o__221128.jpg,uk,2024-05-07 22:08:41
-418104,Intensive Cleaning,Elmex,6.7,gbp/£,False,,0,6.7,0.0,/elmex/intensive-cleaning-toothpaste-for-smooth-and-white-teeth/,/elmex/7610108057924_01-o__221125.jpg,uk,2024-05-07 22:08:41
-15992830,Children's Toothpaste Tutti-Frutti,Urtekram,4.1,gbp/£,False,,0,4.1,0.0,/urtekram/childrens-toothpaste-tutti-frutti-toothpaste-for-children/,/urtekram/5765228837801_01-o__191016.jpg,uk,2024-05-07 22:08:41
-505995,"Gingidex 0,06%",G.U.M,5.2,gbp/£,False,,0,5.2,0.0,/gum/gingidex/,/gum/gumginw_ktps10_01__151102.jpg,uk,2024-05-07 22:08:41
-15964929,Aloe Vera,Urtekram,4.1,gbp/£,False,,0,4.1,0.0,/urtekram/urtekram-strong-mint-organic-toothpaste/,/urtekram/5765228837849_01-o__190813.jpg,uk,2024-05-07 22:08:41
-16143191,Family Extra Fresh,WOOM,1.8,gbp/£,False,,0,1.8,0.0,/woom/family-extra-fresh-refreshing-toothpaste/,/woom/8420075180353_01-o__220830.jpg,uk,2024-05-07 22:08:41
-16226336,Limited Edition Dreamy Osmanthus,Marvis,7.2,gbp/£,False,,0,7.2,0.0,/marvis/limited-edition-dreamy-osmanthus-toothpaste/,/marvis/8004395112821_01-o__240305.jpg,uk,2024-05-07 22:08:41
-545339,NanoCare Whitening,White Pearl,10.2,gbp/£,False,,0,10.2,0.0,/white-pearl/nanocare-whitening-toothpaste-with-silver-nanoparticles-against-enamel-spots/,/white-pearl/whpnaww_ktps10_01__160520.jpg,uk,2024-05-07 22:08:41
-16226325,Limited Edition Sinous Lily,Marvis,7.2,gbp/£,False,,0,7.2,0.0,/marvis/limited-edition-sinous-lily-toothpaste/,/marvis/8004395112814_01-o__240305.jpg,uk,2024-05-07 22:08:41
-16226329,Limited Edition Kissing Rose,Marvis,7.2,gbp/£,False,,0,7.2,0.0,/marvis/limited-edition-kissing-rose-toothpaste/,/marvis/8004395112807_01-o__240305.jpg,uk,2024-05-07 22:08:41
-632969,2 in1,White Glo,7.2,gbp/£,False,,0,7.2,0.0,/white-glo/2-in1-cosmetic-set-ii/,/white-glo/whg2i1w_kset10_02__220624.jpg,uk,2024-05-07 22:08:41
-16148926,Natural White Charcoal Whitening,Beverly Hills Formula,14.4,gbp/£,False,,0,14.4,0.0,/beverly-hills-formula/natural-white-whitening-toothpaste-with-activated-charcoal/,/beverly-hills-formula/5020105003923_01-o__220912.jpg,uk,2024-05-07 22:08:41
-16172349,Natural White Optic Blue,Beverly Hills Formula,7.9,gbp/£,False,,0,7.9,0.0,/beverly-hills-formula/natural-white-optic-blue-whitening-toothpaste/,/beverly-hills-formula/5020105003947_01-o__230222.jpg,uk,2024-05-07 22:08:41
-16172350,Natural White Sensitive,Beverly Hills Formula,9.4,gbp/£,False,,0,9.4,0.0,/beverly-hills-formula/natural-white-sensitive-sensitive-toothpaste/,/beverly-hills-formula/5020105003909_01-o__230222.jpg,uk,2024-05-07 22:08:41
-579226,Perfect White Black Sensitive,Beverly Hills Formula,6.6,gbp/£,False,,0,6.6,0.0,/beverly-hills-formula/perfect-white-black-sensitive-whitening-toothpaste-with-activated-charcoal-for-sensitive-teeth/,/beverly-hills-formula/bevpbsw_ktps10_01__161031.jpg,uk,2024-05-07 22:08:41
-16172354,Total Protection Natural White,Beverly Hills Formula,6.7,gbp/£,False,,0,6.7,0.0,/beverly-hills-formula/total-protection-natural-white-whitening-toothpaste/,/beverly-hills-formula/5020105000052_01-o__230222.jpg,uk,2024-05-07 22:08:41
-16190935,Toothpaste,Baby Anthyllis,4.6,gbp/£,False,,0,4.6,0.0,/baby-anthyllis/toothpaste-toothpaste-for-children/,/baby_anthyllis/8002849910191_01-o__230629.jpg,uk,2024-05-07 22:08:41
-16214650,Oral Care Set,Chicco,8.8,gbp/£,False,,0,8.8,0.0,/chicco/oral-care-set-dental-care-set-for-babies/,/chicco/8058664155798_01__231124.jpg,uk,2024-05-07 22:08:41
-16007143,Kids 3-5 Years,Colgate,2.4,gbp/£,False,,0,2.4,0.0,/colgate/kids-3-5-years-toothpaste-for-children/,/colgate/8718951265738_01-o__200110.jpg,uk,2024-05-07 22:08:41
-16196885,Whitening,Colgate,1.7,gbp/£,False,,0,1.7,0.0,/colgate/whitening-whitening-toothpaste/,/colgate/6920354836091_01-o__230811.jpg,uk,2024-05-07 22:08:41
-16122261,ADS 705,Curasept,5.6,gbp/£,False,,0,5.6,0.0,/curasept/ads-705-gel-toothpaste-to-treat-periodontitis/,/curasept/8056746070076_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16122247,ADS 712,Curasept,5.6,gbp/£,False,,0,5.6,0.0,/curasept/ads-712-toothpaste-against-gum-bleeding-and-periodontal-disease/,/curasept/8056746070069_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16122248,ADS 720,Curasept,5.6,gbp/£,False,,0,5.6,0.0,/curasept/ads-720-toothpaste-against-gum-bleeding-and-periodontal-disease/,/curasept/8056746070052_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16125897,Biosmalto Baby-Kid,Curasept,6.4,gbp/£,False,,0,6.4,0.0,/curasept/biosmalto-baby-kid-toothpaste-for-children-without-fluoride/,/curasept/8056746071189_01-o__220203.jpg,uk,2024-05-07 22:08:41
-16125915,Gold Lux Set,Curasept,15.0,gbp/£,False,,0,15.0,0.0,/curasept/gold-lux-set-whitening-kit-for-teeth/,/curasept/8056746071509_01-o__220218.jpg,uk,2024-05-07 22:08:41
-16117282,Gold Lux Toothpaste,Curasept,13.0,gbp/£,False,,0,13.0,0.0,/curasept/gold-lux-toothpaste-whitening-toothpaste-with-activated-charcoal/,/curasept/8056746072018_01-o__220218.jpg,uk,2024-05-07 22:08:41
-16136440,Toothpaste Gold Advanced Whitening,Dentissimo,10.3,gbp/£,False,,0,10.3,0.0,/dentissimo/toothpaste-gold-advanced-whitening-whitening-toothpaste/,/dentissimo/7640162324298_01-o__220718.jpg,uk,2024-05-07 22:08:41
-16136560,Toothpaste Black,Dentissimo,10.3,gbp/£,False,,0,10.3,0.0,/dentissimo/toothpaste-black-black-whitening-toothpaste/,/dentissimo/7640162324304_01-o__220627.jpg,uk,2024-05-07 22:08:41
-16136441,Toothpaste-Gel Natural with Vitamin B12,Dentissimo,9.6,gbp/£,False,,0,9.6,0.0,/dentissimo/toothpaste-gel-natural-with-vitamin-b12-toothpaste-vegan/,/dentissimo/7640162324328_01-o__220718.jpg,uk,2024-05-07 22:08:41
-16136443,Toothpaste Kids,Dentissimo,5.4,gbp/£,False,,0,5.4,0.0,/dentissimo/toothpaste-kids-toothpaste-for-children/,/dentissimo/7640162322409_01-o__220718.jpg,uk,2024-05-07 22:08:41
-16136439,Toothpaste Kids,Dentissimo,5.4,gbp/£,False,,0,5.4,0.0,/dentissimo/toothpaste-kids-toothpaste-for-children-without-fluoride/,/dentissimo/7640162322393_01-o__220718.jpg,uk,2024-05-07 22:08:41
-16230571,Gum Protection,Ecodenta,5.1,gbp/£,False,,0,5.1,0.0,/ecodenta/gum-protection-toothpaste-with-tea-tree-oil/,/ecodenta/4770001005538_01-o__240313.jpg,uk,2024-05-07 22:08:41
-16191080,Daily rescue pack Serenity,HAAN,19.8,gbp/£,False,,0,19.8,0.0,/haan/daily-rescue-pack-serenity-gift-set-hyva-meininki/,/haan/5060917123518_01-o__230619.jpg,uk,2024-05-07 22:08:41
-16090058,Natural Toothpaste Tablets,The Humble Co.,6.7,gbp/£,False,,0,6.7,0.0,/the-humble-co/natural-toothpaste-tablets-pastilles-without-fluoride/,/humble/7350075691911_01-o__210816.jpg,uk,2024-05-07 22:08:41
-16131020,Natural Toothpaste Coconut & Salt,The Humble Co.,3.4,gbp/£,False,,0,3.4,0.0,/the-humble-co/natural-toothpaste-coconut-salt-natural-toothpaste/,/humble/7350075691577_01-o__211221.jpg,uk,2024-05-07 22:08:41
-16205548,MicroSilver Plus,LR,11.1,gbp/£,False,,0,11.1,0.0,/lr/microsilver-plus-toothpaste/,/lr/2800019046468_01-o__231009.jpg,uk,2024-05-07 22:08:41
-15666557,Activated Charcoal,My Magic Mud,10.8,gbp/£,False,,0,10.8,0.0,/my-magic-mud/activated-charcoal-whitening-toothpaste-with-activated-charcoal/,/my-magic-mud/0868656000115_01-o__210920.jpg,uk,2024-05-07 22:08:41
-16136909,Mastiha,Mediterra,4.8,gbp/£,False,,0,4.8,0.0,/mediterra/mastiha-toothpaste-with-mastic/,/mediterra/5200314371048_01-o__220721.jpg,uk,2024-05-07 22:08:41
-16085535,Biricco,Officina Naturae,4.5,gbp/£,False,,0,4.5,0.0,/officina-naturae/biricco-toothpaste-for-children/,/officina_naturae/8033148531770_01__210722.jpg,uk,2024-05-07 22:08:41
-16170965,Organic Kids 3+ years,Pure Beginnings,8.6,gbp/£,False,,0,8.6,0.0,/pure-beginnings/organic-kids-3-years-toothpaste-for-children/,/pure_beginnings/6009824780284_01-o__230216.jpg,uk,2024-05-07 22:08:41
-16097854,Girls,Pink Elephant,7.8,gbp/£,False,,0,7.8,0.0,/pink-elephant/girls-gift-set-for-kids-pink/,/pink_elephant/8588006040425_01__211015.jpg,uk,2024-05-07 22:08:41
-16103178,Botanique Mint,Himalaya Herbals,6.6,gbp/£,False,,0,6.6,0.0,/himalaya-herbals/botanique-mint-whitening-toothpaste/,/himalaya-herbals/605069200295_01-o__211221.jpg,uk,2024-05-07 22:08:41
-501392,Oral Care Mint Fresh,Himalaya Herbals,3.0,gbp/£,False,,0,3.0,0.0,/himalaya-herbals/oral-care-toothpaste-for-fresh-breath/,/himalaya-herbals/hihorlw_ktps20__151009.jpg,uk,2024-05-07 22:08:41
-501468,Oral Care Complete Care,Himalaya Herbals,3.0,gbp/£,False,,0,3.0,0.0,/himalaya-herbals/oral-care-toothpaste-for-complete-protection-of-teeth/,/himalaya-herbals/hihorlw_ktps30__151008.jpg,uk,2024-05-07 22:08:41
-501005,Oral Care Ayurvedic Dental Cream,Himalaya Herbals,3.0,gbp/£,False,,0,3.0,0.0,/himalaya-herbals/oral-care-ayurvedic-dental-cream-herbal-toothpaste-with-fluoride/,/himalaya-herbals/8901138500306_01-o__220613.jpg,uk,2024-05-07 22:08:41
-467187,Gentle White,Meridol,4.0,gbp/£,False,,0,4.0,0.0,/meridol/gentle-white-toothpaste-against-gum-bleeding-and-periodontal-disease-128777/,/meridol/merdecu_ktps50__150202.jpg,uk,2024-05-07 22:08:41
-16178757,Blossom Tea,Marvis,5.6,gbp/£,False,,0,5.6,0.0,/marvis/blossom-tea-toothpastelimited-edition/,/marvis/8004395112302_01-o__230106.jpg,uk,2024-05-07 22:08:41
-557064,Flavour Collection,Marvis,21.6,gbp/£,False,,0,21.6,0.0,/marvis/flavour-collection-cosmetic-set-i/,/marvis/411059_01-o__211109.jpg,uk,2024-05-07 22:08:41
-16115665,Pink Whitening Toothpaste,My White Secret,6.9,gbp/£,False,,0,6.9,0.0,/my-white-secret/pink-whitening-toothpaste-sensitive-toothpaste/,/my-white-secret/5060548390365_01-o__220105.jpg,uk,2024-05-07 22:08:41
-16193265,Bébé First Teeth Toothpaste,NeBiolina,4.8,gbp/£,False,,0,4.8,0.0,/nebiolina/bebe-first-teeth-toothpaste-toothpaste-for-children/,/nebiolina/8002849917732_01-o__230718.jpg,uk,2024-05-07 22:08:41
-16129197,Nourish Gently Soothing,Sensodyne,6.0,gbp/£,False,,0,6.0,0.0,/sensodyne/nourish-gently-soothing-bioactive-toothpaste-with-fluoride/,/sensodyne/8596149006345_01-o__220427.jpg,uk,2024-05-07 22:08:41
-16156794,24 h Caries Protection,Signal,1.7,gbp/£,False,,0,1.7,0.0,/signal/24-h-caries-protection-anti-decay-toothpaste/,/signal/8710522427323_01-o__221114.jpg,uk,2024-05-07 22:08:41
-16156796,Sport Gel Fresh,Signal,1.7,gbp/£,False,,0,1.7,0.0,/signal/sport-gel-fresh-refreshing-toothpaste/,/signal/8710522427354_01-o__221114.jpg,uk,2024-05-07 22:08:41
-528090,Biocare Wellness,Swissdent,20.4,gbp/£,False,,0,20.4,0.0,/swissdent/biocare/,/swissdent/7640126190853_01-o__160222.jpg,uk,2024-05-07 22:08:41
-16048952,Biocare Natural Whitening and Regenerating,Swissdent,10.1,gbp/£,False,,0,10.1,0.0,/swissdent/biocare-regenerative-toothpaste-with-whitening-effect/,/swissdent/2800018278075_01-o__200824.jpg,uk,2024-05-07 22:08:41
-475713,Extreme Whitening,Swissdent,2.4,gbp/£,False,,0,2.4,0.0,/swissdent/extreme-high-impact-whitening-toothpaste/,/swissdent/swdextw_ktps05__150402.jpg,uk,2024-05-07 22:08:41
-16137554,Max White Ultra Active Foam,Colgate,6.5,gbp/£,False,,0,6.5,0.0,/colgate/max-white-ultra-active-foam-whitening-toothpaste/,/colgate/8718951504752_01-o__240229.jpg,uk,2024-05-07 22:08:41
-16238812,Pure,TePe,4.9,gbp/£,False,,0,4.9,0.0,/tepe/pure-toothpaste/,/tepe/7350121254114_01-o__240419.jpg,uk,2024-05-07 22:08:41
-16134100,Carbon+ Toothpaste,WOOM,5.7,gbp/£,False,,0,5.7,0.0,/woom/carbon-toothpaste-black-whitening-toothpaste/,/woom/8420075180322_01-o__220629.jpg,uk,2024-05-07 22:08:41
-16207425,Fluoride 5000ppm,WOOM,8.6,gbp/£,False,,0,8.6,0.0,/woom/fluoride-5000ppm-fluoride-toothpaste/,/woom/4751033920242_01-o__231019.jpg,uk,2024-05-07 22:08:41
-16137670,Toothpaste Aphrodisiac For Her and Her,You&Oil,12.6,gbp/£,False,,0,12.6,0.0,/youoil/toothpaste-aphrodisiac-for-her-and-her-gift-set/,/youoil/4779035864005_01-o__220609.jpg,uk,2024-05-07 22:08:41
-16133565,Professional Pro-Repair,Oral B,5.2,gbp/£,False,,0,5.2,0.0,/oral-b/professional-pro-repair-toothpaste/,/oral-b/8001841729077_01-o__220701.jpg,uk,2024-05-07 22:08:41
-16087931,Botanique Cinnamon,Himalaya Herbals,10.2,gbp/£,False,,0,10.2,0.0,/himalaya-herbals/botanique-cinnamon-toothpaste-for-complete-protection-of-teeth/,/himalaya-herbals/605069200264_01-o__210811.jpg,uk,2024-05-07 22:08:41
-16087916,Dental Cream Dental Cream,Himalaya Herbals,4.3,gbp/£,False,,0,4.3,0.0,/himalaya-herbals/oral-care-fluoride-free-toothpaste-for-complete-protection-of-teeth/,/himalaya-herbals/4751015926668_01-o__210811.jpg,uk,2024-05-07 22:08:41
-16113696,Eco,Himalaya Herbals,6.6,gbp/£,False,,0,6.6,0.0,/himalaya-herbals/eco-toothpaste/,/himalaya-herbals/8901138816629_01-o__211221.jpg,uk,2024-05-07 22:08:41
-16087939,Botanique Simply mint,Himalaya Herbals,8.7,gbp/£,False,,0,8.7,0.0,/himalaya-herbals/oral-care/,/himalaya-herbals/605069200240_01-o__210811.jpg,uk,2024-05-07 22:08:41
-501526,Oral Care Sparkly White,Himalaya Herbals,3.0,gbp/£,False,,0,3.0,0.0,/himalaya-herbals/oral-care-toothpaste-for-pearly-white-teeth/,/himalaya-herbals/hihorlw_ktps10__151008.jpg,uk,2024-05-07 22:08:41
-16087932,Stain-away,Himalaya Herbals,4.9,gbp/£,False,,0,4.9,0.0,/himalaya-herbals/oral-care-high-impact-whitening-toothpaste/,/himalaya-herbals/6297000713977_01-o__210811.jpg,uk,2024-05-07 22:08:41
-16207623,Whitening,MEDIBLANC,20.5,gbp/£,False,,0,20.5,0.0,/mediblanc/dental-care-dental-care-setfor-pearly-white-teeth-ii/,/mediblanc/8053689492118_01-o__231017.jpg,uk,2024-05-07 22:08:41
-16207624,Whitening Herbal,MEDIBLANC,22.3,gbp/£,False,,0,22.3,0.0,/mediblanc/dental-care-dental-care-setfor-pearly-white-teeth/,/mediblanc/8053689492101_01-o__231017.jpg,uk,2024-05-07 22:08:41
-444317,Crystal Repair and Whitening,Swissdent,16.1,gbp/£,False,,0,16.1,0.0,/swissdent/crystal-repair-and-whitening-remineralising-toothpaste-with-whitening-effect/,/swissdent/7640126190686_01-o__230711.jpg,uk,2024-05-07 22:08:41
-16077060,All Day Care,Toothy®,11.7,gbp/£,False,,0,11.7,0.0,/toothy/all-day-care-whitening-toothpaste/,/toothy/726667490687_01-o__210523.jpg,uk,2024-05-07 22:08:41
-15964924,Strong Mint,Urtekram,4.1,gbp/£,False,,0,4.1,0.0,/urtekram/urtekram-strong-mint-whitening-toothpaste-for-sensitive-teeth/,/urtekram/5765228836170_01-o__190813.jpg,uk,2024-05-07 22:08:41
-644105,NanoCare Whitening,White Pearl,16.2,gbp/£,False,,0,16.2,0.0,/white-pearl/nanocare-whitening/,/white-pearl/8594069332834_02__170922.jpg,uk,2024-05-07 22:08:41
-483436,NanoCare,White Pearl,8.1,gbp/£,False,,0,8.1,0.0,/white-pearl/nanocare-toothpaste/,/white-pearl/whpnanw_ktps10_01__150609.jpg,uk,2024-05-07 22:08:41
-419003,Gentle,Swissdent,21.1,gbp/£,False,,0,21.1,0.0,/swissdent/gentle-toothpaste/,/swissdent/7640126190020_01-o_02__130304.jpg,uk,2024-05-07 22:08:41
+id,name,brand,price,currency,has_discount,promocode,discount_value,price_after_sale,discount_amount,url,img,scraped_at,country
+503548,Caries Protection,Elmex,5.0,gbp/£,True,teeth,15,4.25,0.75,/elmex/caries-protection-anti-decay-toothpaste-with-fluoride/,/elmex/4007965560002_11-o__140311.jpg,2024-05-08 11:05:49,uk
+11616317,Intensive Stain Removal,BlanX,5.2,gbp/£,True,teeth,15,4.42,0.78,/blanx/intensive-stain-removal-whitening-toothpaste/,/blanx/8006320054763_01-o__180221.jpg,2024-05-08 11:05:49,uk
+16157771,Healthy Gums,MEDIBLANC,11.7,gbp/£,True,20promo,20,9.36,2.34,/mediblanc/healthy-gums-gum-protection-toothpaste/,/mediblanc/8059300530559-o__221027.jpg,2024-05-08 11:05:49,uk
+16212393,Total Protective Repair,Biorepair,2.4,gbp/£,False,,0,2.4,0.0,/biorepair/total-protective-repair-reinforcing-toothpaste/,/biorepair/8017331069691_01-o__230906.jpg,2024-05-08 11:05:49,uk
+422826,Whitening,Parodontax,5.0,gbp/£,True,teeth,15,4.25,0.75,/parodontax/whitening-whitening-toothpaste-for-bleeding-gums/,/parodontax/5999518582175_01-o__140428.jpg,2024-05-08 11:05:49,uk
+558590,Gum Protection,Meridol,5.6,gbp/£,False,,0,5.6,0.0,/meridol/meridol-anti-bleeding-toothpaste/,/meridol/4007965560804_01-o__230807.jpg,2024-05-08 11:05:49,uk
+16003593,Perio Plus+ Support 0.09 CHX,Curaprox,7.3,gbp/£,True,teeth,15,6.2,1.1,/curaprox/perio-plus-support-009-chx-toothpaste-against-gum-bleeding-and-periodontal-disease/,/curaprox/7612412427288_01-o__191204.jpg,2024-05-08 11:05:49,uk
+16068251,Whitening,BlanX,3.4,gbp/£,True,teeth,15,2.89,0.51,/blanx/whitening-whitening-toothpaste/,/blanx/8017331051474_01-o__210205.jpg,2024-05-08 11:05:49,uk
+495166,Sensitive,Elmex,4.5,gbp/£,True,teeth,15,3.82,0.68,/elmex/sensitive-paste-for-sensitive-teeth/,/elmex/7610108059249_11-o__150518.jpg,2024-05-08 11:05:49,uk
+16179225,Whitening Herbal,MEDIBLANC,2.6,gbp/£,False,,0,2.6,0.0,/mediblanc/whitening-herbal-herbal-toothpaste-with-whitening-effect/,/mediblanc/8059300538166-o__221027.jpg,2024-05-08 11:05:49,uk
+16009628,Gum & Enamel Repair Fresh White,Oral B,2.9,gbp/£,True,teeth,15,2.46,0.44,/oral-b/gum-enamel-repair-extra-fresh-toothpaste-for-fresh-breath/,/oral-b/8001090794413_01-o__240304.jpg,2024-05-08 11:05:49,uk
+16161766,Whitening,MEDIBLANC,6.8,gbp/£,True,20promo,20,5.44,1.36,/mediblanc/whitening-toothpaste-with-whitening-effect/,/mediblanc/3760275382399-o__221027.jpg,2024-05-08 11:05:49,uk
+16068223,Fast Sensitive Repair,Biorepair,3.6,gbp/£,True,teeth,15,3.06,0.54,/biorepair/fast-sensitive-repair-toothpaste/,/biorepair/8017331048443_01-o__220811.jpg,2024-05-08 11:05:49,uk
+16052011,Caries Protection Kids,Elmex,6.6,gbp/£,False,,0,6.6,0.0,/elmex/caries-protection-kids-toothpaste-for-children/,/elmex/8590232000401_01-o__220203.jpg,2024-05-08 11:05:49,uk
+523108,Whitening,Opalescence,3.5,gbp/£,True,teeth,15,2.98,0.52,/opalescence/original-formula-whitening-toothpaste-with-fluoride/,/opalescence/883205029492_01-o__160127.jpg,2024-05-08 11:05:49,uk
+617752,Junior 6-12 Years,Elmex,6.6,gbp/£,False,,0,6.6,0.0,/elmex/junior-6-12-years-toothpaste-for-children-73188/,/elmex/8714789973142_01-o__230215.jpg,2024-05-08 11:05:49,uk
+15965109,Sensitive Whitening,Elmex,8.3,gbp/£,True,teeth,15,7.06,1.24,/elmex/sensitive-whitening-toothpaste-for-naturally-white-teeth-73519/,/elmex/8590232000210_11-o__190716.jpg,2024-05-08 11:05:49,uk
+15672077,Complete Protection Extra Fresh,Parodontax,5.9,gbp/£,True,teeth,15,5.02,0.88,/parodontax/complete-protection-extra-fresh-fluoride-toothpaste-for-healthy-teeth-and-gums/,/parodontax/5054563040596_01-o__180504.jpg,2024-05-08 11:05:49,uk
+408346,Kids 0-6,Biorepair,2.6,gbp/£,False,,0,2.6,0.0,/biorepair/junior-toothpaste-for-kids/,/biorepair/8017331035634_01-o__130828.jpg,2024-05-08 11:05:49,uk
+16156107,Natural Toothpaste White Fluoride,BEN&ANNA,6.4,gbp/£,True,teeth,15,5.44,0.96,/benanna/natural-toothpaste-white-fluoride-whitening-toothpaste-with-fluoride/,/benanna/4260491220943_01.-o__221101.jpg,2024-05-08 11:05:49,uk
+16088537,Teeth,NUK,5.9,gbp/£,True,20promo,20,4.72,1.18,/nuk/teeth-dental-care-setfor-kids/,/nuk/4008600215769_01__210818.jpg,2024-05-08 11:05:49,uk
+658004,The Mints Jasmin,Marvis,3.0,gbp/£,True,teeth,15,2.55,0.45,/marvis/jasmin-mint-toothpaste/,/marvis/8004395111756_01-o__171120.jpg,2024-05-08 11:05:49,uk
+499436,Classic,Parodontax,3.8,gbp/£,False,,0,3.8,0.0,/parodontax/classic-anti-bleeding-toothpaste-without-fluoride/,/parodontax/4047400392041_01-o__140428.jpg,2024-05-08 11:05:49,uk
+16143787,Ewa Chodakowska Extra Strong Lemon & Mint,beBIO,3.4,gbp/£,True,teeth,15,2.89,0.51,/bebio/ewa-chodakowska-extra-strong-lemon-mint-natural-paste-for-teeth/,/bebio/5908233661362_01-o__220824.jpg,2024-05-08 11:05:49,uk
+15716861,The Mints Aquatic,Marvis,3.9,gbp/£,True,teeth,15,3.32,0.58,/marvis/aquatic-mint-toothpaste/,/marvis/8004395111725_01-o__171120.jpg,2024-05-08 11:05:49,uk
+408337,Pro White,Biorepair,4.0,gbp/£,False,,0,4.0,0.0,/biorepair/whitening-whitening-toothpaste/,/biorepair/brpwhiw_ktps45__130828.jpg,2024-05-08 11:05:49,uk
+625033,Plus Total Protection,Biorepair,4.2,gbp/£,True,teeth,15,3.57,0.63,/biorepair/plus-protect-tooth-enamel-fortifying-toothpaste/,/biorepair/brpprow_ktps45_01__170616.jpg,2024-05-08 11:05:49,uk
+539381,Fluoride,Parodontax,5.0,gbp/£,False,,0,5.0,0.0,/parodontax/fluoride-anti-bleeding-toothpaste/,/parodontax/4047400393048_01-o__221027.jpg,2024-05-08 11:05:49,uk
+15924549,Sensitive,Elmex,6.4,gbp/£,False,,0,6.4,0.0,/elmex/sensitive-plus-cosmetic-set-i/,/elmex/8714789994208_01-o__240223.jpg,2024-05-08 11:05:49,uk
+16188820,Propolis Healthy Gums,Colgate,1.4,gbp/£,False,,0,1.4,0.0,/colgate/propolis-healthy-gums-sensitive-toothpaste/,/colgate/6920354836039_01-o__230510.jpg,2024-05-08 11:05:49,uk
+16068220,Kids 0-6,Biorepair,2.7,gbp/£,False,,0,2.7,0.0,/biorepair/junior-toothpaste-for-children/,/biorepair/8017331069202_01-o__210205.jpg,2024-05-08 11:05:49,uk
+16088833,Gum Protection Toothpaste,Biorepair,4.0,gbp/£,True,teeth,15,3.4,0.6,/biorepair/oral-care-gum-protection-gum-protection-toothpaste/,/biorepair/8017331054192_01-o__210825.jpg,2024-05-08 11:05:49,uk
+455884,Enzycal 1450,Curaprox,5.9,gbp/£,True,teeth,15,5.02,0.88,/curaprox/enzycal-1450-toothpaste/,/curaprox/7612412070002_01-o__141218.jpg,2024-05-08 11:05:49,uk
+565563,Expert Black Whitening,Ecodenta,4.8,gbp/£,True,teeth,15,4.08,0.72,/ecodenta/expert-extra-black-whitening-toothpaste/,/ecodenta/4770001336991_01-o__160825.jpg,2024-05-08 11:05:49,uk
+632686,Junior 6-12,Biorepair,3.1,gbp/£,False,,0,3.1,0.0,/biorepair/junior-toothpaste-for-children-without-fluoride/,/biorepair/8017331054093_01-o__220310.jpg,2024-05-08 11:05:49,uk
+16087892,Certified Organic Charcoal whitening,Ecodenta,4.2,gbp/£,False,,0,4.2,0.0,/ecodenta/certified-organic-anti-plaque-whitening-toothpaste-with-activated-charcoal/,/ecodenta/4770001004333_01-o__210809.jpg,2024-05-08 11:05:49,uk
+16143794,Ewa Chodakowska Sensitive Papaya & Mint,beBIO,3.4,gbp/£,False,,0,3.4,0.0,/bebio/ewa-chodakowska-sensitive-papaya-natural-paste-for-sensitive-teeth/,/bebio/5908233661348_01-o__220824.jpg,2024-05-08 11:05:49,uk
+16114712,Be You,Curaprox,9.9,gbp/£,True,teeth,15,8.42,1.48,/curaprox/be-you-rising-star-regenerative-toothpaste-with-whitening-effect/,/curaprox/7612412429503_01-o__220225.jpg,2024-05-08 11:05:49,uk
+614788,Plus Sensitive Teeth,Biorepair,4.6,gbp/£,True,teeth,15,3.91,0.69,/biorepair/plus-sensitive-tooth-enamel-restoring-toothpaste-for-sensitive-teeth/,/biorepair/brpdsbw_ktps10_01__170410.jpg,2024-05-08 11:05:49,uk
+15661153,Natural Extracts Ultimate Fresh,Colgate,3.4,gbp/£,True,teeth,15,2.89,0.51,/colgate/natural-extract-ultimate-fresh-toothpaste/,/colgate/8718951131644_01-o__221128.jpg,2024-05-08 11:05:49,uk
+16145052,Professional Biocalcium,Splat,4.8,gbp/£,True,teeth,15,4.08,0.72,/splat/professional-biocalcium-bio-active-toothpaste-for-enamel-regeneration-and-gentle-whitening/,/splat/7640168930059_01-o__220908.jpg,2024-05-08 11:05:49,uk
+408336,Advanced Intensive Night,Biorepair,4.7,gbp/£,False,,0,4.7,0.0,/biorepair/intensive-night-repair-night-care/,/biorepair/8017331064092_01-o__130724.jpg,2024-05-08 11:05:49,uk
+15850581,Natural Extracts Charcoal + White,Colgate,2.7,gbp/£,False,,0,2.7,0.0,/colgate/natural-extracts-charcoal-white-whitening-toothpaste-with-activated-charcoal/,/colgate/6920354822421_01-o__220801.jpg,2024-05-08 11:05:49,uk
+16157765,Sensi-Relief,MEDIBLANC,1.8,gbp/£,False,,0,1.8,0.0,/mediblanc/sensi-relief-toothpaste-for-sensitive-teeth/,/mediblanc/3760275382412-o__221027.jpg,2024-05-08 11:05:49,uk
+15970160,Black Forest,Marvis,5.2,gbp/£,True,teeth,15,4.42,0.78,/marvis/marvis-black-forest-toothpaste/,/marvis/8004395111633_01-o__190911.jpg,2024-05-08 11:05:49,uk
+565577,Expert Triple Force,Ecodenta,4.4,gbp/£,True,teeth,15,3.74,0.66,/ecodenta/extra-toothpaste-with-triple-effect/,/ecodenta/4770001331903_01-o__160825.jpg,2024-05-08 11:05:49,uk
+16119909,Caries Abrasion & Erosion,Curasept,7.8,gbp/£,False,,0,7.8,0.0,/curasept/caries-abrasion-erosion-anti-decay-toothpaste/,/curasept/8056746072445_01-o__220203.jpg,2024-05-08 11:05:49,uk
+15998523,Extra Whitening,Sensodyne,8.0,gbp/£,True,teeth,15,6.8,1.2,/sensodyne/extra-whitening-whitening-toothpaste-with-fluoride-for-sensitive-teeth-394207/,/sensodyne/2000009007572_01-o__210908.jpg,2024-05-08 11:05:49,uk
+612486,Extra Fresh,Parodontax,3.7,gbp/£,True,teeth,15,3.14,0.56,/parodontax/extra-fresh-toothpaste-for-bleeding-gums/,/parodontax/3830029294626_01__140428.jpg,2024-05-08 11:05:49,uk
+16131389,Certified Organic Sensitivity Relief,Ecodenta,4.0,gbp/£,False,,0,4.0,0.0,/ecodenta/certified-organic-sensitivity-relief-organic-toothpaste/,/ecodenta/4770001002179_01__220606.jpg,2024-05-08 11:05:49,uk
+16156106,Natural Toothpaste White,BEN&ANNA,6.4,gbp/£,True,teeth,15,5.44,0.96,/benanna/natural-toothpaste-white-whitening-toothpaste/,/benanna/4260491220516_01-o__221101.jpg,2024-05-08 11:05:49,uk
+16139594,Protect 7 Extra Fresh,Blend-a-med,1.3,gbp/£,False,,0,1.3,0.0,/blend-a-med/protect-7-extra-fresh-toothpaste-for-fresh-breath/,/blend-a-med/8001090717757_01-o__230221.jpg,2024-05-08 11:05:49,uk
+15830417,Sensitivity & Gum Whitening,Sensodyne,3.7,gbp/£,True,teeth,15,3.14,0.56,/sensodyne/sensitivity-gum-whitening-whitening-toothpaste-for-protection-of-teeth-and-gums-577855/,/sensodyne/5054563050816_01-o__210908.jpg,2024-05-08 11:05:49,uk
+16127738,Travel Set,Curaprox,9.8,gbp/£,True,teeth,15,8.33,1.47,/curaprox/travel-set-travel-kitfor-teeth-tongue-and-gums/,/curaprox/7612412429879_01-o__220520.jpg,2024-05-08 11:05:49,uk
+16069866,Plus Pro White,Biorepair,4.7,gbp/£,True,teeth,15,4.0,0.7,/biorepair/plus-pro-white-whitening-toothpaste/,/biorepair/8017331055380_01-o__210301.jpg,2024-05-08 11:05:49,uk
+450436,The Mints Classic Strong,Marvis,3.4,gbp/£,True,teeth,15,2.89,0.51,/marvis/classic-strong-mint-toothpaste/,/marvis/8004395110063_01-o__141111.jpg,2024-05-08 11:05:49,uk
+541637,Perfect White Black,Beverly Hills Formula,6.7,gbp/£,True,teeth,15,5.7,1.0,/beverly-hills-formula/perfect-white-black-whitening-toothpaste-with-activated-charcoal-for-fresh-breath/,/beverly-hills-formula/5020105002681_01-o__210917.jpg,2024-05-08 11:05:49,uk
+15909154,The Mints Cinnamon,Marvis,2.9,gbp/£,True,teeth,15,2.46,0.44,/marvis/cinnamon-mint-toothpaste/,/marvis/8004395110414_01-o__150112.jpg,2024-05-08 11:05:49,uk
+16212209,Glo Professional White,White Glo,5.4,gbp/£,True,teeth,15,4.59,0.81,/white-glo/charcoal-whitening-toothpaste/,/white-glo/9319871002152_01-o__231109.jpg,2024-05-08 11:05:49,uk
+15863293,Total Original,Colgate,2.3,gbp/£,False,,0,2.3,0.0,/colgate/total-original-toothpaste/,/colgate/8718951226715_01-o__230529.jpg,2024-05-08 11:05:49,uk
+16068616,Black,BlanX,3.4,gbp/£,False,,0,3.4,0.0,/blanx/black-whitening-toothpaste-with-activated-charcoal/,/blanx/8017331053386_01-o__210211.jpg,2024-05-08 11:05:49,uk
+501887,Max White Expert Original,Colgate,4.4,gbp/£,False,,0,4.4,0.0,/colgate/max-white-expert-white-whitening-toothpaste/,/colgate/7509546064857_01-o__221125.jpg,2024-05-08 11:05:49,uk
+15830416,Sensitivity & Gum,Sensodyne,4.1,gbp/£,True,teeth,15,3.48,0.62,/sensodyne/sensitivity-gum-sensitive-toothpaste-577854/,/sensodyne/5054563050847_01-o__210908.jpg,2024-05-08 11:05:49,uk
+542988,White Now,Signal,4.0,gbp/£,True,teeth,15,3.4,0.6,/signal/white-now-toothpaste-with-whitening-effect/,/signal/8717644461068_01-o__230106.jpg,2024-05-08 11:05:49,uk
+470838,Enzycal 950,Curaprox,5.9,gbp/£,True,teeth,15,5.02,0.88,/curaprox/enzycal-950-toothpaste/,/curaprox/7612412422436_01-o__150224.jpg,2024-05-08 11:05:49,uk
+16068250,White Detox Coconut,BlanX,3.4,gbp/£,False,,0,3.4,0.0,/blanx/white-detox-coconut-whitening-toothpaste/,/blanx/8017331071540_01-o__210205.jpg,2024-05-08 11:05:49,uk
+15863346,Sensitive Professional Repair & Prevent,Elmex,6.9,gbp/£,False,,0,6.9,0.0,/elmex/sensitive-professional-repair-prevent-sensitive-toothpaste-525836/,/elmex/8718951193765_01-o__190409.jpg,2024-05-08 11:05:49,uk
+16077180,Professional Choice,White Glo,0.7,gbp/£,True,teeth,15,0.6,0.1,/white-glo/professional-choice-whitening-toothpaste-for-travelling/,/white-glo/9319871000189_01-o__210524.jpg,2024-05-08 11:05:49,uk
+16116131,Kids 6+,Curaprox,5.4,gbp/£,False,,0,5.4,0.0,/curaprox/kids-6-watermelon-toothpaste-for-children/,/curaprox/7612412429480_01-o__211122.jpg,2024-05-08 11:05:49,uk
+16145060,Biomed Superwhite,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-superwhite-reinforcing-toothpaste-with-coconut-oil/,/splat/2800015078357_01-o__220908.jpg,2024-05-08 11:05:49,uk
+15970145,The Mints Anise,Marvis,2.8,gbp/£,True,teeth,15,2.38,0.42,/marvis/marvis-anise-mint-toothpaste/,/marvis/8004395111879_01-o__190911.jpg,2024-05-08 11:05:49,uk
+479419,Daily White,Signal,1.7,gbp/£,True,teeth,15,1.44,0.26,/signal/daily-white-toothpaste-with-whitening-effect/,/signal/sigdlwu_ktps20__150511.jpg,2024-05-08 11:05:49,uk
+543893,Opti-namel Seal & Strengthen,Elmex,6.5,gbp/£,False,,0,6.5,0.0,/elmex/opti-namel-seal-strengthen-toothpaste-dental-enamel-protection/,/elmex/7610108054824_01-o__230215.jpg,2024-05-08 11:05:49,uk
+543970,Whitening Sensitivity Relief,Opalescence,3.5,gbp/£,True,teeth,15,2.98,0.52,/opalescence/sensitivity-relief-whitening-toothpaste-for-sensitive-teeth/,/opalescence/883205029430_01-o__160513.jpg,2024-05-08 11:05:49,uk
+16068222,Advanced Active Shield,Biorepair,4.7,gbp/£,True,teeth,15,4.0,0.7,/biorepair/advanced-active-shield-toothpaste/,/biorepair/8017331064078_01-o__210205.jpg,2024-05-08 11:05:49,uk
+16080303,Max White Expert Micellar,Colgate,6.5,gbp/£,False,,0,6.5,0.0,/colgate/max-white-expert-micellar-whitening-toothpaste/,/colgate/8718951411043_01-o__221125.jpg,2024-05-08 11:05:49,uk
+16131390,Extra Fresh and Remineralising,Ecodenta,2.5,gbp/£,False,,0,2.5,0.0,/ecodenta/extra-fresh-and-remineralising-remineralising-toothpaste/,/ecodenta/4770001004913_01__220606.jpg,2024-05-08 11:05:49,uk
+16087871,Certified Organic Anti-plaque,Ecodenta,7.1,gbp/£,True,teeth,15,6.04,1.06,/ecodenta/expert-black-whitening-anti-plaque-toothpaste-for-healthy-gums-with-coconut-oil/,/ecodenta/4770001002155_01-o__210809.jpg,2024-05-08 11:05:49,uk
+16212208,Glo Express White,White Glo,4.7,gbp/£,False,,0,4.7,0.0,/white-glo/charcoal/,/white-glo/9319871002770_01-o__231109.jpg,2024-05-08 11:05:49,uk
+15963106,Anti-Caries Professional,Elmex,6.5,gbp/£,True,teeth,15,5.52,0.98,/elmex/anti-caries-professional-anti-decay-toothpaste/,/elmex/8718951279551_01-o__220203.jpg,2024-05-08 11:05:49,uk
+470750,Enzycal Zero,Curaprox,5.9,gbp/£,True,teeth,15,5.02,0.88,/curaprox/enzycal-zero-toothpaste/,/curaprox/7612412422849_01-o__150224.jpg,2024-05-08 11:05:49,uk
+15947266,Green Brilliant Whitening,Ecodenta,3.6,gbp/£,True,teeth,15,3.06,0.54,/ecodenta/green-brilliant-whitening-whitening-toothpaste-for-fresh-breath/,/ecodenta/4770001333808_01-o__170112.jpg,2024-05-08 11:05:49,uk
+16128371,Peribioma Pro,Biorepair,4.7,gbp/£,False,,0,4.7,0.0,/biorepair/peribioma-pro-toothpaste-for-sensitive-teeth/,/biorepair/8017331064115_01-o__220530.jpg,2024-05-08 11:05:49,uk
+15970146,Orange Blossom Bloom,Marvis,5.6,gbp/£,True,teeth,15,4.76,0.84,/marvis/marvis-orange-blossom-bloom-toothpaste/,/marvis/8004395111626_01-o__190911.jpg,2024-05-08 11:05:49,uk
+16069924,Advanced White,Colgate,3.1,gbp/£,True,teeth,15,2.64,0.46,/colgate/advanced-white-charcoal-toothpaste-with-activated-charcoal/,/colgate/8590232000760_01-o__240229.jpg,2024-05-08 11:05:49,uk
+16131391,Super +,Ecodenta,2.2,gbp/£,False,,0,2.2,0.0,/ecodenta/super-natural-toothpaste-for-kids/,/ecodenta/4770001334591_01__220606.jpg,2024-05-08 11:05:49,uk
+511107,Sensitive Professional,Elmex,6.5,gbp/£,False,,0,6.5,0.0,/elmex/sensitive-professional-toothpaste-for-sensitive-teeth-73517/,/elmex/7610108047536_01-o__140526.jpg,2024-05-08 11:05:49,uk
+15672078,Complete Protection Whitening,Parodontax,6.0,gbp/£,False,,0,6.0,0.0,/parodontax/complete-protection-whitening-whitening-toothpaste-with-fluoride/,/parodontax/5054563039095_01-o__180504.jpg,2024-05-08 11:05:49,uk
+16152208,Integral 8 Natural Elements,Signal,2.3,gbp/£,True,teeth,15,1.95,0.35,/signal/integral-8-natural-elements-toothpaste/,/signal/8710447328095_01-o__221019.jpg,2024-05-08 11:05:49,uk
+16022008,Max White Sparkle Diamonds,Colgate,2.0,gbp/£,False,,0,2.0,0.0,/colgate/max-white-sparkle-diamonds-whitening-toothpaste-with-fluoride/,/colgate/8718951314795_01-o__200402.jpg,2024-05-08 11:05:49,uk
+499537,Fluoride,Sensodyne,4.5,gbp/£,False,,0,4.5,0.0,/sensodyne/fluoride-toothpaste-for-sensitive-teeth/,/sensodyne/4047400470350_01-o__140401.jpg,2024-05-08 11:05:49,uk
+614613,Plus Parodontgel,Biorepair,4.6,gbp/£,True,teeth,15,3.91,0.69,/biorepair/plus-parodontal-tooth-enamel-fortifying-toothpaste-to-treat-periodontitis/,/biorepair/brpprgw_ktps15_01__170410.jpg,2024-05-08 11:05:49,uk
+16197078,Triple Action Original Mint,Colgate,1.5,gbp/£,False,,0,1.5,0.0,/colgate/triple-action-duopack-toothpaste/,/colgate/6920354835971_01-o__230810.jpg,2024-05-08 11:05:49,uk
+16195979,Gum Protection Whitening,Meridol,4.9,gbp/£,True,teeth,15,4.16,0.74,/meridol/dental-care-whitening-toothpaste/,/meridol/8718951560352_01-o__230807.jpg,2024-05-08 11:05:49,uk
+16145059,Biomed Sensitive,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-sensitive-bioactive-toothpaste-for-healthy-gums-and-teeth-sensitivity-reduction/,/splat/2800015078371_01-o__220908.jpg,2024-05-08 11:05:49,uk
+448685,White Now Men Super Pure,Signal,3.6,gbp/£,True,teeth,15,3.06,0.54,/signal/white-now-men-super-pure-toothpaste-for-men-with-whitening-effect/,/signal/8710908135835_01-o__230216.jpg,2024-05-08 11:05:49,uk
+418781,Repair & Protect,Sensodyne,4.9,gbp/£,False,,0,4.9,0.0,/sensodyne/repair-protect-toothpaste-for-sensitive-teeth-73385/,/sensodyne/5054563103567_01-o__210908.jpg,2024-05-08 11:05:49,uk
+499839,Natural,Jack N’ Jill,4.9,gbp/£,False,,0,4.9,0.0,/jack-n-jill/natural-natural-toothpaste-for-kids-with-strawberry-flavour/,/jack-n-jill/9312657009017_01-o__230602.jpg,2024-05-08 11:05:49,uk
+560749,Sensitive Professional Gentle Whitening,Elmex,6.5,gbp/£,False,,0,6.5,0.0,/elmex/sensitive-professional-gentle-whitening-whitening-toothpaste-for-sensitive-teeth/,/elmex/8718951070905_11-o__160804.jpg,2024-05-08 11:05:49,uk
+16153990,Enamel Regeneration,Oral B,4.8,gbp/£,True,teeth,15,4.08,0.72,/oral-b/professional-regenerate-enamel-daily-protection-toothpaste-for-tooth-enamel-reinforcement/,/oral-b/8001090247544_01-o__221031.jpg,2024-05-08 11:05:49,uk
+16066151,Expert Black Orange Whitening,Ecodenta,4.1,gbp/£,True,teeth,15,3.48,0.62,/ecodenta/expert-black-orange-whitening-black-whitening-toothpaste-without-fluoride/,/ecodenta/4770001003367_01-o__210105.jpg,2024-05-08 11:05:49,uk
+16214777,Kids Mild Mint,Truthpaste,7.4,gbp/£,False,,0,7.4,0.0,/truthpaste/kids-mild-mint-natural-toothpaste-for-kids-mint/,/truthpaste/5060655080067_01-o__231127.jpg,2024-05-08 11:05:49,uk
+16132520,Max White White Crystals,Colgate,2.1,gbp/£,True,teeth,15,1.78,0.32,/colgate/max-white-white-crystals-whitening-toothpaste/,/colgate/8718951313835_01-o__240229.jpg,2024-05-08 11:05:49,uk
+16125899,Biosmalto Baby-Kid,Curasept,6.3,gbp/£,False,,0,6.3,0.0,/curasept/biosmalto-baby-kid-toothpaste-for-children-with-fluoride/,/curasept/8056746071202_01-o__220203.jpg,2024-05-08 11:05:49,uk
+554971,Coffee & Tea Drinkers Formula,White Glo,5.1,gbp/£,False,,0,5.1,0.0,/white-glo/coffee-tea-drinkers-formula-cosmetic-set-ii/,/white-glo/9319871000639_01-o__231109.jpg,2024-05-08 11:05:49,uk
+658003,The Mints Ginger,Marvis,2.7,gbp/£,True,teeth,15,2.3,0.4,/marvis/ginger-mint-toothpaste/,/marvis/8004395111732_01-o__171120.jpg,2024-05-08 11:05:49,uk
+16110147,Organic Kids Certified Organic Juicy Fruit,Ecodenta,4.5,gbp/£,False,,0,4.5,0.0,/ecodenta/organic-kids-certified-organic-juicy-fruit-toothpaste-for-children/,/ecodenta/4770001001400_01-o__211110.jpg,2024-05-08 11:05:49,uk
+16012428,White Now Detox Coconut,Signal,4.5,gbp/£,True,teeth,15,3.82,0.68,/signal/white-now-detox-coconut-whitening-toothpaste/,/signal/8710604754248_01-o__200217.jpg,2024-05-08 11:05:49,uk
+16136178,Sensitive Plus Complete Protection,Elmex,6.5,gbp/£,True,teeth,15,5.52,0.98,/elmex/sensitive-plus-complete-protection-reinforcing-toothpaste-6058209/,/elmex/8718951501904_01-o__220627.jpg,2024-05-08 11:05:49,uk
+16199756,Pro Expert Healthy Whitening,Oral B,3.2,gbp/£,True,teeth,15,2.72,0.48,/oral-b/pro-expert-healthy-whitening-whitening-toothpaste/,/oral-b/8700216106788_01-o__230904.jpg,2024-05-08 11:05:49,uk
+16166906,Max White Purple Reveal,Colgate,3.4,gbp/£,False,,0,3.4,0.0,/colgate/max-white-purple-reveal-refreshing-toothpaste-6843139/,/colgate/8718951540033_01-o__230130.jpg,2024-05-08 11:05:49,uk
+478662,All In One,Yotuel,17.1,gbp/£,True,teeth,15,14.54,2.56,/yotuel/all-in-one-dental-whitening-cream/,/yotuel/yotaiow_ktps10__150428.jpg,2024-05-08 11:05:49,uk
+16115585,Kids 2+,Curaprox,5.4,gbp/£,False,,0,5.4,0.0,/curaprox/kids-2-strawberry-toothpaste-for-children/,/curaprox/7612412429473_01-o__220225.jpg,2024-05-08 11:05:49,uk
+16125801,Biosmalto Sensitive Teeth,Curasept,7.8,gbp/£,False,,0,7.8,0.0,/curasept/biosmalto-sensitive-teeth-sensitive-toothpaste/,/curasept/8056746072506_01-o__220203.jpg,2024-05-08 11:05:49,uk
+16132907,Toothpaste 1-5 years,Chicco,4.2,gbp/£,False,,0,4.2,0.0,/chicco/toothpaste-1-5-years-toothpaste-for-children/,/chicco/8003670743651_01-o__231113.jpg,2024-05-08 11:05:49,uk
+16124203,Nordic White,BlanX,3.4,gbp/£,False,,0,3.4,0.0,/blanx/nordic-white-whitening-toothpaste/,/blanx/8017331077825_01-o__220401.jpg,2024-05-08 11:05:49,uk
+15947267,Green Wild Strawberry Flavoured,Ecodenta,3.0,gbp/£,False,,0,3.0,0.0,/ecodenta/green-wild-strawberry-flavoured-kids-toothpaste-with-wild-strawberry-flavour-and-carrot-extract/,/ecodenta/4770001331743_01-o__160825.jpg,2024-05-08 11:05:49,uk
+16068640,Max White Charcoal,Colgate,4.1,gbp/£,True,teeth,15,3.48,0.62,/colgate/max-white-charcoal-whitening-toothpaste/,/colgate/8590232000722_01-o__221128.jpg,2024-05-08 11:05:49,uk
+15969177,Flavour Collection,Marvis,17.6,gbp/£,True,teeth,15,14.96,2.64,/marvis/marvis-flavour-collection-cosmetic-set-iii/,/marvis/8004395111008_01-o__190904.jpg,2024-05-08 11:05:49,uk
+16134108,White+ Toothpaste,WOOM,5.7,gbp/£,True,teeth,15,4.85,0.85,/woom/white-toothpaste-whitening-toothpaste/,/woom/8420075180315_01-o__220629.jpg,2024-05-08 11:05:49,uk
+420123,Pronamel Junior,Sensodyne,3.1,gbp/£,False,,0,3.1,0.0,/sensodyne/pro-namel-toothpaste-junior/,/sensodyne/8590335006812_01-o__140401.jpg,2024-05-08 11:05:49,uk
+541634,Perfect White Gold,Beverly Hills Formula,9.3,gbp/£,True,teeth,15,7.91,1.39,/beverly-hills-formula/perfect-white-gold/,/beverly-hills-formula/bevpwgw_ktps10_01__160503.jpg,2024-05-08 11:05:49,uk
+16238814,Daily,TePe,3.9,gbp/£,False,,0,3.9,0.0,/tepe/daily-toothpaste/,/tepe/7350121253391_01-o__240419.jpg,2024-05-08 11:05:49,uk
+16145061,Professional Ultracomplex,Splat,4.8,gbp/£,True,teeth,15,4.08,0.72,/splat/professional-ultracomplex-bio-active-toothpaste-for-complex-care-and-whitening-of-sensitive-teeth/,/splat/7640168930172_01-o__220909.jpg,2024-05-08 11:05:49,uk
+15924541,Caries Protection,Elmex,8.6,gbp/£,True,teeth,15,7.31,1.29,/elmex/caries-protection-cosmetic-set-i/,/elmex/8714789994185_01-o__230109.jpg,2024-05-08 11:05:49,uk
+15656849,Rapid,Sensodyne,5.7,gbp/£,True,teeth,15,4.85,0.85,/sensodyne/rapid-fluoride-toothpastes-for-sensitive-teeth/,/sensodyne/8596149002385_01-o__180406.jpg,2024-05-08 11:05:49,uk
+600376,Black is White,Curaprox,19.1,gbp/£,True,teeth,15,16.24,2.86,/curaprox/black-is-white/,/curaprox/7612412423822_01-o__170127.jpg,2024-05-08 11:05:49,uk
+16189606,Applemint,Brush Baby,3.2,gbp/£,False,,0,3.2,0.0,/brush-baby/applemint-toothpaste-for-children/,/brush_baby/5060178100587_01-o__230613.jpg,2024-05-08 11:05:49,uk
+15864677,Caries Protection Whitening,Elmex,5.9,gbp/£,True,teeth,15,5.02,0.88,/elmex/caries-protection-whitening-whitening-toothpaste-with-fluoride/,/elmex/8718951240858_11-o__190416.jpg,2024-05-08 11:05:49,uk
+503050,Smokers Formula,White Glo,5.5,gbp/£,True,teeth,15,4.68,0.82,/white-glo/smokers-formula-cosmetic-set-i/,/white-glo/whgsmow_kset10_01__151016.jpg,2024-05-08 11:05:49,uk
+16139599,Complete Protect 7 Original,Blend-a-med,1.5,gbp/£,False,,0,1.5,0.0,/blend-a-med/complete-protect-7-original-toothpaste-for-complete-protection-of-teeth/,/blend-a-med/8006540391488_01-o__220816.jpg,2024-05-08 11:05:49,uk
+16007016,Herbal Fresh,Parodontax,3.7,gbp/£,True,teeth,15,3.14,0.56,/parodontax/herbal-fresh-anti-bleeding-toothpaste-764934/,/parodontax/5054563066138_01-o__200109.jpg,2024-05-08 11:05:49,uk
+16147443,Caries Protection Complete Care,Elmex,5.9,gbp/£,True,teeth,15,5.02,0.88,/elmex/caries-protection-complete-care-refreshing-toothpaste-for-complete-protection-of-teeth-6652865/,/elmex/8718951516014_02-o__220929.jpg,2024-05-08 11:05:49,uk
+16142490,Smokers,DentYucral,3.6,gbp/£,False,,0,3.6,0.0,/dentyucral/smokers-whitening-tooth-powder/,/dentyucral/8470002079106_01-o__220818.jpg,2024-05-08 11:05:49,uk
+16145057,Biomed Gum Health,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-gum-health-organic-toothpaste/,/splat/2800015078395_01-o__220908.jpg,2024-05-08 11:05:49,uk
+15989744,Kids,Lavera,5.5,gbp/£,False,,0,5.5,0.0,/lavera/volume-strength-toothpaste-for-children/,/lavera/4021457629220_01-o__191002.jpg,2024-05-08 11:05:49,uk
+16188199,Toothpaste Spearmint,BEN&ANNA,3.7,gbp/£,False,,0,3.7,0.0,/benanna/toothpaste-spearmint-natural-toothpaste-with-fluoride/,/benanna/4260491223050_01-o__230331.jpg,2024-05-08 11:05:49,uk
+15971310,O3X Toothpaste,BlanX,5.7,gbp/£,False,,0,5.7,0.0,/blanx/o3x-oxygen-power-whitening-toothpaste/,/blanx/8017331065891_01-o__190919.jpg,2024-05-08 11:05:49,uk
+16226343,Sensitive Gums Mint,Marvis,7.8,gbp/£,True,teeth,15,6.63,1.17,/marvis/sensitive-gums-mint-sensitive-toothpaste/,/marvis/8004395112425_01-o__240305.jpg,2024-05-08 11:05:49,uk
+16120170,Toothpaste Life's a Beach,HAAN,5.4,gbp/£,False,,0,5.4,0.0,/haan/toothpaste-lifes-a-beach-fluoride-free-toothpaste-refillable/,/haan/5060917120081_01-o__220405.jpg,2024-05-08 11:05:49,uk
+16226460,Perfect White Sensitive,Beverly Hills Formula,5.6,gbp/£,False,,0,5.6,0.0,/beverly-hills-formula/perfect-white-sensitive-whitening-toothpaste/,/beverly-hills-formula/5020105004340_01-o__240423.jpg,2024-05-08 11:05:49,uk
+479410,Micro-Granules,Signal,2.4,gbp/£,False,,0,2.4,0.0,/signal/micro-granules-toothpaste/,/signal/sigmrcu_ktps10__150511.jpg,2024-05-08 11:05:49,uk
+16139591,Extra White & Fresh,Blend-a-med,2.1,gbp/£,False,,0,2.1,0.0,/blend-a-med/extra-white-fresh-refreshing-toothpaste/,/blend-a-med/8006540391525_01-o__220816.jpg,2024-05-08 11:05:49,uk
+16012425,White Now Detox Charcoal,Signal,4.1,gbp/£,True,teeth,15,3.48,0.62,/signal/white-now-detox-charcoal-whitening-toothpaste-with-activated-charcoal/,/signal/8710604754200_01-o__200217.jpg,2024-05-08 11:05:49,uk
+86801,Dental Care,Weleda,5.1,gbp/£,True,teeth,15,4.34,0.76,/weleda/dental-care-toothpaste/,/weleda/4001638098014_01-o__211012.jpg,2024-05-08 11:05:49,uk
+16052612,Parodont Expert,Meridol,14.9,gbp/£,True,teeth,15,12.66,2.24,/meridol/parodont-expert-toothpaste-against-gum-bleeding-and-periodontal-disease-297934/,/meridol/8590232000494_01-o__230807.jpg,2024-05-08 11:05:49,uk
+15947272,Green Tartar Eliminating,Ecodenta,2.4,gbp/£,False,,0,2.4,0.0,/ecodenta/green-tartar-eliminating-refreshing-toothpaste-against-plaque/,/ecodenta/4770001333815_01-o__170112.jpg,2024-05-08 11:05:49,uk
+496010,Max White One,Colgate,4.5,gbp/£,True,teeth,15,3.82,0.68,/colgate/max-white-one-whitening-toothpaste/,/colgate/8714789881188_01-o__221128.jpg,2024-05-08 11:05:49,uk
+15744649,Be You Express Yourself,Curaprox,14.4,gbp/£,True,teeth,15,12.24,2.16,/curaprox/be-you-express-yourself-cosmetic-set-i/,/curaprox/7612412425673_02-o__180918.jpg,2024-05-08 11:05:49,uk
+16166905,Max White Limited Edition,Colgate,2.8,gbp/£,False,,0,2.8,0.0,/colgate/max-white-limited-edition-refreshing-toothpaste-limited-edition/,/colgate/8718951372498_01-o__230130.jpg,2024-05-08 11:05:49,uk
+16011679,Kids 3+ Years,Colgate,2.0,gbp/£,False,,0,2.0,0.0,/colgate/kids-3-years-toothpaste-for-children-aged-3-6-years-with-fluoride/,/colgate/8718951321434_01-o__200212.jpg,2024-05-08 11:05:49,uk
+16122283,Black Lux,Curasept,13.0,gbp/£,False,,0,13.0,0.0,/curasept/black-lux-black-whitening-toothpaste-with-whitening-effect/,/curasept/8056746071998_01-o__220218.jpg,2024-05-08 11:05:49,uk
+16136940,Optima,Apis Natural Cosmetics,3.9,gbp/£,False,,0,3.9,0.0,/apis-natural-cosmetics/optima-toothpaste-with-dead-sea-minerals/,/apis_natural_cosmetics/5901810041113_01-o__230906.jpg,2024-05-08 11:05:49,uk
+16141120,Gentle Combo Pack,Swissdent,8.9,gbp/£,False,,0,8.9,0.0,/swissdent/gentle-combo-pack-set-for-perfectly-clean-teeth-mint/,/swissdent/7640126890043_01-o__220829.jpg,2024-05-08 11:05:49,uk
+16156104,Natural Toothpaste Black,BEN&ANNA,5.5,gbp/£,True,teeth,15,4.68,0.82,/benanna/natural-toothpaste-black-toothpaste-with-activated-charcoal/,/benanna/4260491220509_01-o__221101.jpg,2024-05-08 11:05:49,uk
+418818,Extreme Promo Kit,Swissdent,23.6,gbp/£,True,teeth,15,20.06,3.54,/swissdent/extreme-promo-kit-cosmetic-set-v/,/swissdent/7640126190150_01-o__200123.jpg,2024-05-08 11:05:49,uk
+16107194,The Mints Amarelli Licorice,Marvis,3.6,gbp/£,True,teeth,15,3.06,0.54,/marvis/amarelli-licorice-toothpaste/,/marvis/8004395111343_01-o__211122.jpg,2024-05-08 11:05:49,uk
+16103885,Coconut Oil Shine,White Glo,5.6,gbp/£,True,teeth,15,4.76,0.84,/white-glo/coconut-oil-shine-whitening-toothpaste-with-brush/,/white-glo/9319871001131_01-o__211129.jpg,2024-05-08 11:05:49,uk
+87044,Dental Care,Weleda,5.0,gbp/£,True,teeth,15,4.25,0.75,/weleda/dental-care-toothpaste-with-sea-salt/,/weleda/4001638098090_01-o__230809.jpg,2024-05-08 11:05:49,uk
+16077153,Travel Kit,White Glo,2.4,gbp/£,False,,0,2.4,0.0,/white-glo/travel-kit-travel-set-bluefor-teeth/,/white-glo/9319871000356_01-o__220624.jpg,2024-05-08 11:05:49,uk
+531182,Pronamel Daily Protection,Sensodyne,4.4,gbp/£,True,teeth,15,3.74,0.66,/sensodyne/pro-namel-toothpaste-dental-enamel-protecting/,/sensodyne/5999518572138_01-o__221027.jpg,2024-05-08 11:05:49,uk
+15863296,Total Whitening,Colgate,3.4,gbp/£,False,,0,3.4,0.0,/colgate/total-whitening-whitening-toothpaste-584257/,/colgate/8718951226807_01-o__221125.jpg,2024-05-08 11:05:49,uk
+16133562,Professional Sensitivity & Gum Calm Gentle Whitening,Oral B,3.8,gbp/£,True,teeth,15,3.23,0.57,/oral-b/professional-sensitivity-gum-calm-gentle-whitening-whitening-toothpaste/,/oral-b/8001841520285_01-o__220701.jpg,2024-05-08 11:05:49,uk
+16087872,Sensitive Whitening,Ecodenta,4.0,gbp/£,True,teeth,15,3.4,0.6,/ecodenta/expert-black-whitening-whitening-toothpaste-for-sensitive-teeth/,/ecodenta/4770001003206_01-o__210809.jpg,2024-05-08 11:05:49,uk
+16125893,ADS 350,Curasept,9.6,gbp/£,False,,0,9.6,0.0,/curasept/ads-350-dental-gel-to-treat-periodontitis/,/curasept/8056746070274_01-o__220218.jpg,2024-05-08 11:05:49,uk
+418774,Emergency Kit Red,Swissdent,20.2,gbp/£,False,,0,20.2,0.0,/swissdent/emergency-kit-red-cosmetic-set-i/,/swissdent/7640126190181_01-o__121112.jpg,2024-05-08 11:05:49,uk
+15970161,Sweet & Sour Rhubarb,Marvis,6.5,gbp/£,True,teeth,15,5.52,0.98,/marvis/marvis-sweet-sour-rhubarb-toothpaste/,/marvis/8004395111640_01-o__190911.jpg,2024-05-08 11:05:49,uk
+418779,Repair & Protect Whitening,Sensodyne,5.5,gbp/£,False,,0,5.5,0.0,/sensodyne/repair-protect-whitening-whitening-toothpaste-for-sensitive-teeth/,/sensodyne/5054563103680_01-o__210908.jpg,2024-05-08 11:05:49,uk
+16088635,Natural Toothpaste Kids,The Humble Co.,9.5,gbp/£,False,,0,9.5,0.0,/humble/natural-toothpaste-kids-natural-toothpaste-for-kids-with-strawberry-flavour/,/humble/7350075693229_01-o__210816.jpg,2024-05-08 11:05:49,uk
+16148563,Gingival Set,Vitis,11.8,gbp/£,False,,0,11.8,0.0,/vitis/gingival-gift-set/,/vitis/2800010517943_01-o__220926.jpg,2024-05-08 11:05:49,uk
+419128,Pronamel Whitening,Sensodyne,5.0,gbp/£,True,teeth,15,4.25,0.75,/sensodyne/pronamel-whitening-whitening-toothpaste-for-sensitive-teeth/,/sensodyne/5999518582021_01-o__230315.jpg,2024-05-08 11:05:49,uk
+16120168,Toothpaste Good On Ya,HAAN,6.1,gbp/£,False,,0,6.1,0.0,/haan/toothpaste-good-on-ya-fluoride-free-toothpaste-refillable/,/haan/5060917120074_01-o__220405.jpg,2024-05-08 11:05:49,uk
+16181193,Advanced White Volcanic Ash and Baking Soda,Colgate,2.8,gbp/£,False,,0,2.8,0.0,/colgate/advanced-white-volcanic-ash-and-baking-soda-organic-toothpaste/,/colgate/8718951555488_01-o__230426.jpg,2024-05-08 11:05:49,uk
+16115806,Complete Care,Meridol,6.5,gbp/£,False,,0,6.5,0.0,/meridol/complete-care-sensitive-toothpaste/,/meridol/8718951478527_01-o__230807.jpg,2024-05-08 11:05:49,uk
+16077132,Diamond Series,White Glo,16.0,gbp/£,True,teeth,15,13.6,2.4,/white-glo/diamond-series-teeth-whitening-kit/,/white-glo/9319871000790_01-o__210524.jpg,2024-05-08 11:05:49,uk
+16187460,Prevent,Curasept,6.4,gbp/£,False,,0,6.4,0.0,/curasept/prevent-toothpaste/,/curasept/8056746071899_01-o__230606.jpg,2024-05-08 11:05:49,uk
+16212047,Professional Active,Splat,3.4,gbp/£,False,,0,3.4,0.0,/splat/professional-active-refreshing-toothpaste/,/splat/7640168930011_01-o__231101.jpg,2024-05-08 11:05:49,uk
+539371,Ultra Clean,Parodontax,4.0,gbp/£,True,teeth,15,3.4,0.6,/parodontax/ultra-clean-toothpaste-against-gum-bleeding-and-periodontal-disease/,/parodontax/5054563011251_01-o__160422.jpg,2024-05-08 11:05:49,uk
+16145062,Professional White Plus,Splat,4.8,gbp/£,True,teeth,15,4.08,0.72,/splat/professional-white-plus-bio-active-toothpaste-for-gentle-teeth-whitening-and-enamel-protection/,/splat/7640168930134_01-o__220908.jpg,2024-05-08 11:05:49,uk
+16139587,Lasting Freshness,Blend-a-med,1.7,gbp/£,False,,0,1.7,0.0,/blend-a-med/lasting-freshness-refreshing-toothpaste/,/blend-a-med/8006540391365_01-o__220816.jpg,2024-05-08 11:05:49,uk
+473373,Desensitizing Enamel-Repair Shock Treatment,Biorepair,8.1,gbp/£,True,teeth,15,6.88,1.22,/biorepair/desensibility-and-enamel-repair-treatment-cosmetic-set-i/,/biorepair/brpderw_kset10__150318.jpg,2024-05-08 11:05:49,uk
+16186853,Daycare Protection Booster Frozen Mint,Curasept,6.2,gbp/£,False,,0,6.2,0.0,/curasept/daycare-protection-booster-frozen-mint-gel-toothpaste/,/curasept/8056746073282_01-o__230511.jpg,2024-05-08 11:05:49,uk
+16139602,3D White Arctic Fresh,Blend-a-med,1.7,gbp/£,True,teeth,15,1.44,0.26,/blend-a-med/3d-white-arctic-fresh-whitening-toothpaste/,/blend-a-med/8006540793039_01-o__230221.jpg,2024-05-08 11:05:49,uk
+16163734,Sensitive CBD,Ecodenta,3.2,gbp/£,False,,0,3.2,0.0,/ecodenta/sensitive-cbd-bioactive-toothpaste-with-cbd/,/ecodenta/4770001005811_01-o__230105.jpg,2024-05-08 11:05:49,uk
+16237092,Total Original XL,Colgate,4.4,gbp/£,False,,0,4.4,0.0,/colgate/total-original-xl-toothpaste-for-complete-tooth-protection/,/colgate/8714789710020_01-o__240404.jpg,2024-05-08 11:05:49,uk
+16185632,White Now Gold,Signal,4.1,gbp/£,True,teeth,15,3.48,0.62,/signal/white-now-gold-toothpaste/,/signal/8720181327155_01-o__230411.jpg,2024-05-08 11:05:49,uk
+16129193,Gum And Sens Original,Parodontax,6.0,gbp/£,True,teeth,15,5.1,0.9,/parodontax/gum-and-sens-original-complex-protection-toothpaste-for-fresh-breath/,/parodontax/5054563120410_01-o__220427.jpg,2024-05-08 11:05:49,uk
+16214776,Kids Sweet Orange,Truthpaste,7.4,gbp/£,False,,0,7.4,0.0,/truthpaste/kids-sweet-orange-natural-toothpaste-for-kids/,/truthpaste/5060655080043_01-o__231127.jpg,2024-05-08 11:05:49,uk
+16216315,Limited Edition Black is White,Curaprox,14.5,gbp/£,True,teeth,15,12.32,2.18,/curaprox/limited-edition-black-is-white-travel-setfor-teeth-tongue-and-gums/,/curaprox/7612412430332_01__231211.jpg,2024-05-08 11:05:49,uk
+86972,Dental Care,Weleda,5.1,gbp/£,True,teeth,15,4.34,0.76,/weleda/dental-care-toothpaste-to-treat-bleeding-gums/,/weleda/4001638098083_01-o__211012.jpg,2024-05-08 11:05:49,uk
+16195996,Max White Ultra Multi Protect,Colgate,6.5,gbp/£,True,teeth,15,5.52,0.98,/colgate/max-white-ultra-multi-protect-whitening-toothpaste/,/colgate/8718951563544_01-o__230630.jpg,2024-05-08 11:05:49,uk
+16129203,Nourish Healthy White,Sensodyne,6.0,gbp/£,False,,0,6.0,0.0,/sensodyne/nourish-healthy-white-bioactive-toothpaste-with-fluoride/,/sensodyne/5054563120175_01-o__220601.jpg,2024-05-08 11:05:49,uk
+16221592,Beauty,Perl Weiss,4.2,gbp/£,True,teeth,15,3.57,0.63,/perl-weiss/beauty-whitening-toothpaste/,/perl_weiss/4008890009413_01__240111.jpg,2024-05-08 11:05:49,uk
+15959155,Flavour Collection Classic,Marvis,9.6,gbp/£,True,teeth,15,8.16,1.44,/marvis/marvis-flavour-collection-cosmetic-set-ii/,/marvis/8004395110490_01-o__190716.jpg,2024-05-08 11:05:49,uk
+16184294,Toothpaste Good On Ya,HAAN,5.8,gbp/£,False,,0,5.8,0.0,/haan/toothpaste-good-on-ya-fluoride-toothpaste-refillable/,/haan/5060669781066_01-o__230515.jpg,2024-05-08 11:05:49,uk
+16071710,Complete Care,Lavera,4.8,gbp/£,False,,0,4.8,0.0,/lavera/complete-care-mint-toothpaste/,/lavera/4021457629183_01-o__210325.jpg,2024-05-08 11:05:49,uk
+16146137,Complete Protection Whitening,Sensodyne,6.0,gbp/£,False,,0,6.0,0.0,/sensodyne/complete-protection-whitening-whitening-toothpaste-5023271/,/sensodyne/5054563119698_01-o__220920.jpg,2024-05-08 11:05:49,uk
+16214399,Baby Shark,Corsair,2.0,gbp/£,False,,0,2.0,0.0,/corsair/baby-shark-toothpaste-for-children/,/corsair/5013692251235_01__231002.jpg,2024-05-08 11:05:49,uk
+505999,Ortho,G.U.M,5.5,gbp/£,True,teeth,15,4.68,0.82,/gum/ortho-toothpaste-user-fixed-braces/,/gum/gumortw_ktps40_01__151102.jpg,2024-05-08 11:05:49,uk
+16141122,Crystal Combo Pack,Swissdent,15.1,gbp/£,True,teeth,15,12.84,2.26,/swissdent/crystal-dental-care-set/,/swissdent/7640126890050_01-o__220829.jpg,2024-05-08 11:05:49,uk
+16073220,Toothpaste,L.O.L. Surprise,2.3,gbp/£,False,,0,2.3,0.0,/ep-line/lol-toothpaste-for-children-with-strawberry-flavour/,/ep-line/8412428014040_01-o__210413.jpg,2024-05-08 11:05:49,uk
+16145058,Professional Medical Herbs,Splat,4.6,gbp/£,True,teeth,15,3.91,0.69,/splat/professional-medical-herbs-bio-active-toothpaste-for-protection-of-teeth-and-gums/,/splat/7640168930097_01-o__220908.jpg,2024-05-08 11:05:49,uk
+16137555,Max White Ultra Freshness Pearls,Colgate,6.5,gbp/£,True,teeth,15,5.52,0.98,/colgate/max-white-ultra-freshness-pearls-whitening-toothpaste/,/colgate/8718951505100_01-o__240229.jpg,2024-05-08 11:05:49,uk
+610178,Dental Care,Weleda,4.4,gbp/£,False,,0,4.4,0.0,/weleda/dental-care/,/weleda/4001638081863_01-o__121109.jpg,2024-05-08 11:05:49,uk
+15947269,Green Multifunctional,Ecodenta,3.2,gbp/£,False,,0,3.2,0.0,/ecodenta/green-multifunctional-toothpaste-for-complete-protection-of-teeth/,/ecodenta/4770001335314_01-o__170112.jpg,2024-05-08 11:05:49,uk
+16016239,Rapid Whitening,Sensodyne,5.7,gbp/£,True,teeth,15,4.85,0.85,/sensodyne/rapid-whitening-whitening-toothpaste-for-sensitive-teeth-755952/,/sensodyne/8596149002408_01-o__210908.jpg,2024-05-08 11:05:49,uk
+16121175,ADS Protective,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ads-protective-anti-plaque-toothpaste-for-healthy-gums/,/curasept/8056746070250_01-o__220203.jpg,2024-05-08 11:05:49,uk
+15947271,Green Sensitivity Relief,Ecodenta,3.1,gbp/£,False,,0,3.1,0.0,/ecodenta/green-sensitivity-relief-sensitive-toothpaste/,/ecodenta/4770001333884_01-o__170112.jpg,2024-05-08 11:05:49,uk
+622022,Royal Tooth Serum,Soaphoria,7.3,gbp/£,False,,0,7.3,0.0,/soaphoria/royal-tooth-serum-dental-serum-with-activated-charcoal/,/soaphoria/8586017854178_01-o__240415.jpg,2024-05-08 11:05:49,uk
+612614,Activital Q10,G.U.M,7.4,gbp/£,True,teeth,15,6.29,1.11,/gum/activital-q10-complex-protection-toothpaste-against-bad-breath/,/gum/gumacqw_ktps10_01__170328.jpg,2024-05-08 11:05:49,uk
+16197047,Naturals Mix,Colgate,8.1,gbp/£,True,teeth,15,6.88,1.22,/colgate/naturals-mix-natural-toothpaste/,/colgate/8590232001217_01-o__230814.jpg,2024-05-08 11:05:49,uk
+16069001,Anti Caries Anti Carries,Sensodyne,3.8,gbp/£,True,teeth,15,3.23,0.57,/sensodyne/anti-caries-toothpaste-against-dental-caries/,/sensodyne/5054563096029_01-o__221027.jpg,2024-05-08 11:05:49,uk
+16231115,Max Fresh Cooling Crystals,Colgate,3.7,gbp/£,False,,0,3.7,0.0,/colgate/max-fresh-cooling-crystals-toothpaste/,/colgate/8718951313675_01-o__240312.jpg,2024-05-08 11:05:49,uk
+16210720,Mickey Toothpaste,Disney,2.6,gbp/£,False,,0,2.6,0.0,/disney/mickey-toothpaste-toothpaste-for-children/,/disney/8056234640361_01-o__231108.jpg,2024-05-08 11:05:49,uk
+16221590,Bleaching Toothpaste for Smokers,Perl Weiss,4.2,gbp/£,True,teeth,15,3.57,0.63,/perl-weiss/bleaching-toothpaste-for-smokers-whitening-toothpaste-for-smokers/,/perl_weiss/4008890008928_01__240111.jpg,2024-05-08 11:05:49,uk
+16156105,Natural Toothpaste Sensitive,BEN&ANNA,6.4,gbp/£,True,teeth,15,5.44,0.96,/benanna/natural-toothpaste-sensitive-sensitive-toothpaste/,/benanna/4260491220523_01-o__221101.jpg,2024-05-08 11:05:49,uk
+16214868,Charcoal,Truthpaste,7.4,gbp/£,False,,0,7.4,0.0,/truthpaste/charcoal-natural-toothpaste/,/truthpaste/5060655080128_01-o__231127.jpg,2024-05-08 11:05:49,uk
+577245,Natural,Jack N’ Jill,4.9,gbp/£,False,,0,4.9,0.0,/jack-n-jill/natural/,/jack-n-jill/9312657008027_01-o__230602.jpg,2024-05-08 11:05:49,uk
+16129195,Gum And Sens Whitening,Parodontax,6.0,gbp/£,False,,0,6.0,0.0,/parodontax/gum-and-sens-whitening-whitening-toothpaste-for-teeth-5023272/,/parodontax/5054563120434_01-o__220427.jpg,2024-05-08 11:05:49,uk
+16196474,Natural Extracts Aloe Vera,Colgate,3.4,gbp/£,False,,0,3.4,0.0,/colgate/natural-extracts-aloe-vera-herbal-toothpaste/,/colgate/6920354835834_01-o__230630.jpg,2024-05-08 11:05:49,uk
+534474,Advanced White,Colgate,2.1,gbp/£,False,,0,2.1,0.0,/colgate/advanced-white-whitening-toothpaste-against-stains-on-tooth-enamel/,/colgate/8718951312173_01-o__240229.jpg,2024-05-08 11:05:49,uk
+16237692,Aligner,Curaprox,19.2,gbp/£,False,,0,19.2,0.0,/curaprox/aligner-nourishing-protective-foam/,/curaprox/7612412431353_01-o__240411.jpg,2024-05-08 11:05:49,uk
+405731,SensiVital,G.U.M,6.6,gbp/£,True,teeth,15,5.61,0.99,/gum/sensivital-toothpaste-for-sensitive-teeth/,/gum/gumsevu_ktps10__131107.jpg,2024-05-08 11:05:49,uk
+16137904,Eco Toothpaste,Woobamboo,4.5,gbp/£,False,,0,4.5,0.0,/woobamboo/eco-toothpaste-toothpaste-for-children/,/woobamboo/860002270500_01-o__220727.jpg,2024-05-08 11:05:49,uk
+16186665,White Now Time Correct,Signal,4.1,gbp/£,True,teeth,15,3.48,0.62,/signal/white-now-time-correct-toothpaste/,/signal/8720181327186_01-o__230503.jpg,2024-05-08 11:05:49,uk
+472307,Hydral,G.U.M,8.8,gbp/£,True,teeth,15,7.48,1.32,/gum/hydral-moisturizing-gel-on-the-teeth-tongue-and-gums/,/gum/gumhydu_ktps10__150309.jpg,2024-05-08 11:05:49,uk
+418253,Repair & Protect Extra Fresh,Sensodyne,5.4,gbp/£,True,teeth,15,4.59,0.81,/sensodyne/repair-protect-extra-fresh-toothpaste-for-protection-of-teeth-and-gums/,/sensodyne/5054563103482_01-o__210908.jpg,2024-05-08 11:05:49,uk
+491158,Oral Care Toothpaste,Chicco,3.5,gbp/£,False,,0,3.5,0.0,/chicco/oral-care-toothpaste-for-children-12m/,/chicco/cicorad_ktps10_01__150803.jpg,2024-05-08 11:05:49,uk
+16142868,Biocare Combo Pack,Swissdent,10.5,gbp/£,False,,0,10.5,0.0,/swissdent/biocare-combo-pack-dental-care-set/,/swissdent/7640126890067_01-o__220829.jpg,2024-05-08 11:05:49,uk
+16230823,Up White Supreme Whitening,Perl Weiss,5.0,gbp/£,True,15promo,15,4.25,0.75,/perl-weiss/up-white-supreme-whitening-whitening-toothpaste/,/perl_weiss/4008890009482_01__240304.jpg,2024-05-08 11:05:49,uk
+16145056,Biomed Citrus Fresh,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-citrus-fresh-gum-protection-toothpaste/,/splat/2800015078364_01-o__220908.jpg,2024-05-08 11:05:49,uk
+467339,Max White Luminous,Colgate,4.5,gbp/£,True,teeth,15,3.82,0.68,/colgate/max-white-luminous-toothpaste-for-pearly-white-teeth/,/colgate/8714789867274_01-o__221128.jpg,2024-05-08 11:05:49,uk
+16199575,Pro Expert Deep Clean,Oral B,3.1,gbp/£,False,,0,3.1,0.0,/oral-b/pro-expert-deep-clean-refreshing-toothpaste/,/oral-b/8700216106733_01-o__230904.jpg,2024-05-08 11:05:49,uk
+16145055,Biomed Charcoal,Splat,4.1,gbp/£,True,teeth,15,3.48,0.62,/splat/biomed-charcoal-whitening-toothpaste-with-activated-charcoal/,/splat/2800015078388_01-o__220908.jpg,2024-05-08 11:05:49,uk
+16133833,Herbal Fresh Trio,Sensodyne,10.4,gbp/£,True,teeth,15,8.84,1.56,/sensodyne/herbal-fresh-trio-fluoride-toothpastes-3-pcs/,/sensodyne/2000028905279_01-o__221004.jpg,2024-05-08 11:05:49,uk
+16090803,Supreme,iWhite,8.3,gbp/£,True,teeth,15,7.06,1.24,/iwhite/supreme-whitening-toothpaste/,/iwhite/5425012534674_01-o__210823.jpg,2024-05-08 11:05:49,uk
+16109368,KIDS Orange,MEDIBLANC,6.6,gbp/£,True,20promo,20,5.28,1.32,/mediblanc/kids-orange-toothpaste-for-children-2186097/,/mediblanc/8059300533130_01-o__220114.jpg,2024-05-08 11:05:49,uk
+16188203,Toothpaste White,BEN&ANNA,3.8,gbp/£,False,,0,3.8,0.0,/benanna/toothpaste-white-natural-toothpaste-with-fluoride/,/benanna/4260491223029_01-o__230331.jpg,2024-05-08 11:05:49,uk
+16223806,Dentifricio,Naturaverde,3.4,gbp/£,False,,0,3.4,0.0,/naturaverde/dentifricio-whitening-toothpaste/,/naturaverde/8029241123820_01-o__240125.jpg,2024-05-08 11:05:49,uk
+16134102,Junior Bubblegum,WOOM,4.1,gbp/£,False,,0,4.1,0.0,/woom/junior-bubblegum-toothpaste-for-children/,/woom/4751033920112_01-o__220629.jpg,2024-05-08 11:05:49,uk
+530302,Herbal Original,Colgate,1.7,gbp/£,False,,0,1.7,0.0,/colgate/herbal-original-herbal-toothpaste/,/colgate/clghrow_ktps10_01__160306.jpg,2024-05-08 11:05:49,uk
+16135415,Always Smiling 12m+,Chicco,12.3,gbp/£,False,,0,12.3,0.0,/chicco/always-smiling-12m-dental-care-set-bluefor-kids/,/chicco/8058664022663_01__220712.jpg,2024-05-08 11:05:49,uk
+474133,Cannadent Alkaline toothpaste,Cannaderm,8.5,gbp/£,False,,0,8.5,0.0,/cannaderm/cannadent/,/cannaderm/cndcanw_ktps10_01__150325.jpg,2024-05-08 11:05:49,uk
+542995,Fluor,Eva,3.9,gbp/£,False,,0,3.9,0.0,/eva/fluor-whitening-tooth-powder-3-in-1/,/eva/6223001385363_01-o__211115.jpg,2024-05-08 11:05:49,uk
+16140856,Natural Elements Integral 8 Camomile,Signal,2.8,gbp/£,False,,0,2.8,0.0,/signal/natural-elements-integral-8-camomile-toothpaste/,/signal/8720181230585_01-o__220812.jpg,2024-05-08 11:05:49,uk
+16093180,Toothpaste,Jack N’ Jill,5.7,gbp/£,False,,0,5.7,0.0,/jack-n-jill/toothpaste-natural-toothpaste-for-kids/,/jack-n-jill/9312657011096_01__210924.jpg,2024-05-08 11:05:49,uk
+16221593,White & Gloss,Perl Weiss,5.2,gbp/£,True,15promo,15,4.42,0.78,/perl-weiss/white-gloss-whitening-toothpaste/,/perl_weiss/4008890009314_01__240111.jpg,2024-05-08 11:05:49,uk
+16133569,Professional Gum Intensive Care & Bacteria Guard,Oral B,4.2,gbp/£,True,teeth,15,3.57,0.63,/oral-b/professional-gum-intensive-care-bacteria-guard-herbal-toothpaste/,/oral-b/8001841182674_01-o__220701.jpg,2024-05-08 11:05:49,uk
+16129199,Natural White,Sensodyne,5.0,gbp/£,True,teeth,15,4.25,0.75,/sensodyne/natural-white-natural-toothpaste-with-fluoride/,/sensodyne/5054563121226_01-o__220601.jpg,2024-05-08 11:05:49,uk
+513271,Black is White,Curaprox,22.1,gbp/£,True,teeth,15,18.78,3.32,/curaprox/black-is-white-cosmetic-set-i/,/curaprox/7612412423686_01-o__151208.jpg,2024-05-08 11:05:49,uk
+16190607,Gift Sets The core four - Serenity,HAAN,26.2,gbp/£,True,15promo,15,22.27,3.93,/haan/gift-sets-the-core-four-serenity-gift-set/,/haan/5060917123532_01-o__230619.jpg,2024-05-08 11:05:49,uk
+16145053,Special Blackwood,Splat,8.2,gbp/£,True,teeth,15,6.97,1.23,/splat/special-blackwood-whitening-toothpaste/,/splat/7640168930288_01-o__220908.jpg,2024-05-08 11:05:49,uk
+16212437,Brush Teeth Tablets Kids with Fluoride,Denttabs,5.4,gbp/£,False,,0,5.4,0.0,/denttabs/brush-teeth-tablets-kids-with-fluoride-fluoride-toothpaste-in-tablets/,/denttabs/4260066813365_01-o__231115.jpg,2024-05-08 11:05:49,uk
+16115403,Santoin s účinkem při paradontóze,Walmark,5.7,gbp/£,True,15promo,15,4.85,0.85,/walmark/santoin-s-ucinkem-pri-paradontoze-toothpaste/,/walmark/8596024018081_01-o__220304.jpg,2024-05-08 11:05:49,uk
+502965,Night & Day,White Glo,5.5,gbp/£,False,,0,5.5,0.0,/white-glo/night-day-cosmetic-set-i/,/white-glo/9319871000226_01-o__220624.jpg,2024-05-08 11:05:49,uk
+16238817,Pure,TePe,4.9,gbp/£,False,,0,4.9,0.0,/tepe/pure-toothpaste-mint/,/tepe/7350121253933_01-o__240419.jpg,2024-05-08 11:05:49,uk
+16111308,White Now Sensitive,Signal,4.1,gbp/£,True,teeth,15,3.48,0.62,/signal/white-now-sensitive-whitening-toothpaste-for-sensitive-teeth/,/signal/8720181196157_01-o__220128.jpg,2024-05-08 11:05:49,uk
+16143190,Family Complex,WOOM,3.1,gbp/£,False,,0,3.1,0.0,/woom/family-complex-toothpaste/,/woom/8420075180360_01-o__220830.jpg,2024-05-08 11:05:49,uk
+478627,Pharma B5,Yotuel,10.1,gbp/£,False,,0,10.1,0.0,/yotuel/pharma-b5-whitening-toothpaste/,/yotuel/yotpb5w_ktps10__150428.jpg,2024-05-08 11:05:49,uk
+16122232,ADS Soothing,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ads-soothing-soothing-toothpaste-with-gel-texture/,/curasept/8056746070236_01-o__220203.jpg,2024-05-08 11:05:49,uk
+16011684,Triple Action Xtra White,Colgate,2.2,gbp/£,False,,0,2.2,0.0,/colgate/triple-action-xtra-white-whitening-toothpaste-with-fluoride/,/colgate/8718951294721_01-o__200212.jpg,2024-05-08 11:05:49,uk
+16184719,Toothpaste Dolce Vita,HAAN,5.8,gbp/£,False,,0,5.8,0.0,/haan/toothpaste-dolce-vita-fluoride-toothpastes-with-prebiotics/,/haan/5060669781349_01-o__230515.jpg,2024-05-08 11:05:49,uk
+16231100,Max White Bye Bye Stains,Colgate,3.9,gbp/£,False,,0,3.9,0.0,/colgate/max-white-bye-bye-stains-toothpaste/,/colgate/8718951610521_01-o__240404.jpg,2024-05-08 11:05:49,uk
+16079855,Integral 8 Actions,Signal,1.9,gbp/£,False,,0,1.9,0.0,/signal/integral-8-toothpaste/,/signal/8720181117640_01-o__210611.jpg,2024-05-08 11:05:49,uk
+16190616,Gift Sets Great Joyful,HAAN,26.2,gbp/£,True,15promo,15,22.27,3.93,/haan/gift-sets-great-aquamarine-gift-set-hyva-meininki/,/haan/5060917123549_01-o__230619.jpg,2024-05-08 11:05:49,uk
+472994,Kids,Signal,2.5,gbp/£,False,,0,2.5,0.0,/signal/kids-toothpaste-for-kids/,/signal/8712561103077_01-o__221115.jpg,2024-05-08 11:05:49,uk
+16221587,Expert,Perl Weiss,5.2,gbp/£,True,15promo,15,4.42,0.78,/perl-weiss/expert-whitening-toothpaste/,/perl_weiss/4008890009437_01__240111.jpg,2024-05-08 11:05:49,uk
+15850566,Total Active Fresh,Colgate,3.1,gbp/£,False,,0,3.1,0.0,/colgate/total-active-fresh-toothpaste-for-complete-protection-of-teeth/,/colgate/8718951226838_01-o__220801.jpg,2024-05-08 11:05:49,uk
+16194257,PAP Coconut Whitening,White Pearl,7.2,gbp/£,True,teeth,15,6.12,1.08,/white-pearl/pap-coconut-whitening-whitening-toothpaste/,/white-pearl/8594069333299_01-o__230725.jpg,2024-05-08 11:05:49,uk
+16087859,Colour Surprise,Ecodenta,5.9,gbp/£,False,,0,5.9,0.0,/ecodenta/expert-black-whitening-toothpaste-for-children-against-dental-caries/,/ecodenta/4770001002490_01-o__210809.jpg,2024-05-08 11:05:49,uk
+16142487,Antiplaca,DentYucral,4.1,gbp/£,True,teeth,15,3.48,0.62,/dentyucral/antiplaca-whitening-tooth-powder/,/dentyucral/8470002079021_01-o__220818.jpg,2024-05-08 11:05:49,uk
+16134101,Junior Cola,WOOM,4.3,gbp/£,False,,0,4.3,0.0,/woom/junior-cola-toothpaste-for-children/,/woom/4751033920150_01-o__220629.jpg,2024-05-08 11:05:49,uk
+16226450,Glitter Gold&Black,Beverly Hills Formula,5.6,gbp/£,False,,0,5.6,0.0,/beverly-hills-formula/glitter-goldblack-whitening-toothpaste-vegan/,/beverly-hills-formula/5020105004326_01-o__240423.jpg,2024-05-08 11:05:49,uk
+16033538,Max Clean Mineral Scrub,Colgate,2.8,gbp/£,True,teeth,15,2.38,0.42,/colgate/max-clean-mineral-scrub-gel-toothpaste-for-fresh-breath/,/colgate/8718951327085_01-o__200602.jpg,2024-05-08 11:05:49,uk
+16212207,Glo Charcoal,White Glo,4.5,gbp/£,False,,0,4.5,0.0,/white-glo/charcoal-deep-stain-remover-whitening-toothpaste-with-activated-charcoal/,/white-glo/9319871002169_01-o__231109.jpg,2024-05-08 11:05:49,uk
+16212431,Natural Toothpaste Tablets without Fluoride,Denttabs,5.4,gbp/£,False,,0,5.4,0.0,/denttabs/natural-toothpaste-tablets-without-fluoride-fluoride-free-toothpaste-in-tablets/,/denttabs/4260066813105_01-o__231115.jpg,2024-05-08 11:05:49,uk
+16142712,Instant White,White Glo,5.4,gbp/£,False,,0,5.4,0.0,/white-glo/instant-white-dental-care-set/,/white-glo/93198714001407_01-o__220818.jpg,2024-05-08 11:05:49,uk
+426305,Caries Protection,Elmex,5.9,gbp/£,True,teeth,15,5.02,0.88,/elmex/caries-protection-toothpaste-without-menthol/,/elmex/4007965015557_01-o__221128.jpg,2024-05-08 11:05:49,uk
+16009360,Whitening,Lavera,5.8,gbp/£,False,,0,5.8,0.0,/lavera/whitening-whitening-toothpaste/,/lavera/4021457629213_01-o__200129.jpg,2024-05-08 11:05:49,uk
+16227446,The Mints Jasmin,Marvis,10.1,gbp/£,False,,0,10.1,0.0,/marvis/the-mints-jasmin-set-for-teeth/,/marvis/8004395112258_01-o__240318.jpg,2024-05-08 11:05:49,uk
+16134106,Sensitive+ Toothpaste,WOOM,5.7,gbp/£,True,teeth,15,4.85,0.85,/woom/sensitive-toothpaste-sensitive-toothpaste/,/woom/4751033920235_01-o__220629.jpg,2024-05-08 11:05:49,uk
+11633504,Professional White Range,Beverly Hills Formula,12.2,gbp/£,False,,0,12.2,0.0,/beverly-hills-formula/professional-white-range-whitening-toothpaste-with-fluoride/,/beverly-hills-formula/5020105003138_01-o__180326.jpg,2024-05-08 11:05:49,uk
+16102531,GTS2066+WT3500 Exclusive Set,Dr. Mayer,84.1,gbp/£,False,,0,84.1,0.0,/dr-mayer/bundle-gift-set/,/dr_mayer/8591205717791_01__211124.jpg,2024-05-08 11:05:49,uk
+472351,Hydral,G.U.M,7.5,gbp/£,False,,0,7.5,0.0,/gum/hydral-toothpaste/,/gum/gumhydu_ktps20__150309.jpg,2024-05-08 11:05:49,uk
+483436,NanoCare,White Pearl,8.1,gbp/£,True,teeth,15,6.88,1.22,/white-pearl/nanocare-toothpaste/,/white-pearl/whpnanw_ktps10_01__150609.jpg,2024-05-08 11:05:49,uk
+16119806,EcoBio Dentifricio,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ecobio-dentifricio-organic-toothpaste-without-fluoride/,/curasept/8056746071547_01-o__220203.jpg,2024-05-08 11:05:49,uk
+16213105,Inter Oral Hygiene Gift Set,EP Line,9.9,gbp/£,False,,0,9.9,0.0,/ep-line/inter-oral-hygiene-gift-set-gift-setfor-children/,/ep-line/8029241132006_01__231120.jpg,2024-05-08 11:05:49,uk
+16208484,Toothpaste Smooth Mint,My White Secret,7.0,gbp/£,False,,0,7.0,0.0,/my-white-secret/toothpaste-smooth-mint-toothpaste/,/my-white-secret/5060548390549_01-o__230913.jpg,2024-05-08 11:05:49,uk
+610705,Black is White,Curaprox,6.9,gbp/£,True,teeth,15,5.86,1.04,/curaprox/black-is-white-cosmetic-set-ii/,/curaprox/7612412424614_01-o__170314.jpg,2024-05-08 11:05:49,uk
+16088638,Natural Toothpaste Fresh Mint,The Humble Co.,9.3,gbp/£,False,,0,9.3,0.0,/humble/natural-toothpaste-organic-toothpaste/,/humble/7350075693205_01-o__210816.jpg,2024-05-08 11:05:49,uk
+16102024,Girls,Pink Elephant,1.0,gbp/£,False,,0,1.0,0.0,/pink-elephant/girls-toothpaste-for-kids/,/pink_elephant/8588006040913_01__230116.jpg,2024-05-08 11:05:49,uk
+16188197,Toothpaste Cinnamon Orange,BEN&ANNA,3.7,gbp/£,False,,0,3.7,0.0,/benanna/toothpaste-cinnamon-orange-natural-toothpaste/,/benanna/4260491223067_01-o__230331.jpg,2024-05-08 11:05:49,uk
+16137200,Spiderman Travel Kit,Marvel,3.5,gbp/£,False,,0,3.5,0.0,/marvel/spiderman-travel-kit-dental-care-set-for-kids/,/marvel/8032979436902_01__220725.jpg,2024-05-08 11:05:49,uk
+16022005,Max White White Crystals,Colgate,3.1,gbp/£,False,,0,3.1,0.0,/colgate/max-white-white-crystals-whitening-toothpaste-with-fluoride/,/colgate/8718951312845_01-o__200403.jpg,2024-05-08 11:05:49,uk
+16189648,Dinosaur,Brush Baby,3.2,gbp/£,False,,0,3.2,0.0,/brush-baby/dinosaur-toothpaste-for-children-from-36-months/,/brush_baby/5060178100464_01-o__230613.jpg,2024-05-08 11:05:49,uk
+16187465,Micellar,White Glo,6.0,gbp/£,False,,0,6.0,0.0,/white-glo/micellar-dental-care-set/,/white-glo/9319871001391_01-o__230606.jpg,2024-05-08 11:05:49,uk
+16188195,Toothpaste Coco Mania,BEN&ANNA,3.8,gbp/£,False,,0,3.8,0.0,/benanna/toothpaste-coco-mania-natural-toothpaste/,/benanna/4260491223043_01-o__230331.jpg,2024-05-08 11:05:49,uk
+16109369,KIDS Raspberry,MEDIBLANC,6.6,gbp/£,True,20promo,20,5.28,1.32,/mediblanc/kids-rapsberry-toothpaste-for-children/,/mediblanc/8059300533123_01-o__220114.jpg,2024-05-08 11:05:49,uk
+542877,Menthol,Eva,3.4,gbp/£,False,,0,3.4,0.0,/eva/menthol-whitening-tooth-powder-3-in-1/,/eva/6223001385356_01-o__211115.jpg,2024-05-08 11:05:49,uk
+16097837,Boys,Pink Elephant,1.0,gbp/£,False,,0,1.0,0.0,/pink-elephant/boys-toothpaste-for-kids/,/pink_elephant/8588006040906_01__230116.jpg,2024-05-08 11:05:49,uk
+16191073,Gift Sets Great Aquamarine,HAAN,19.8,gbp/£,False,,0,19.8,0.0,/haan/gift-sets-great-aquamarine-gift-set-6877842/,/haan/5060917123525_01-o__230619.jpg,2024-05-08 11:05:49,uk
+16148485,Set Splat Duo,Splat,10.7,gbp/£,False,,0,10.7,0.0,/splat/set-duo-setfor-teeth/,/splat/7640168937140_01__220927.jpg,2024-05-08 11:05:49,uk
+16132904,Toothpaste 6-24 months,Chicco,4.2,gbp/£,False,,0,4.2,0.0,/chicco/toothpaste-6-24-months-toothpaste-for-children/,/chicco/8003670743637_01-o__220624.jpg,2024-05-08 11:05:49,uk
+16077188,Sensitive Forte,White Glo,6.0,gbp/£,True,teeth,15,5.1,0.9,/white-glo/sensitive-forte-dental-care-set/,/white-glo/9319871000653_01-o__210524.jpg,2024-05-08 11:05:49,uk
+16088621,Natural Toothpaste Charcoal,The Humble Co.,7.6,gbp/£,False,,0,7.6,0.0,/humble/natural-toothpaste-charcoal-organic-toothpaste/,/humble/7350075693212_01-o__210816.jpg,2024-05-08 11:05:49,uk
+16144267,Travel Kit,Minions,3.3,gbp/£,False,,0,3.3,0.0,/minions/travel-kit-dental-care-set-3yfor-kids/,/minions/8032979437992_01-o__220902.jpg,2024-05-08 11:05:49,uk
+16090057,Natural Toothpaste Tablets,The Humble Co.,6.9,gbp/£,False,,0,6.9,0.0,/the-humble-co/pastilles/,/humble/7350075691904_01-o__210816.jpg,2024-05-08 11:05:49,uk
+16148927,Unicorn Sparkle 7+,Beverly Hills Formula,6.5,gbp/£,False,,0,6.5,0.0,/beverly-hills-formula/unicorn-sparkle-7-toothpaste-for-children/,/beverly-hills-formula/5020105004098_01-o__220912.jpg,2024-05-08 11:05:49,uk
+16151046,System PAP Whitening,White Pearl,54.0,gbp/£,True,teeth,15,45.9,8.1,/white-pearl/system-pap-whitening-whitening-gel/,/white-pearl/8594069333213_01-o__221116.jpg,2024-05-08 11:05:49,uk
+16208482,Toothpaste Coconut Whip,My White Secret,6.7,gbp/£,True,teeth,15,5.7,1.0,/my-white-secret/toothpaste-coconut-whip-toothpaste/,/my-white-secret/5060548390556_01-o__230913.jpg,2024-05-08 11:05:49,uk
+16142462,Professional Enamel Regeneration,Oral B,4.6,gbp/£,True,teeth,15,3.91,0.69,/oral-b/professional-regenerate-enamel-gentle-whitening-whitening-toothpaste/,/oral-b/8001090247582_01-o__220817.jpg,2024-05-08 11:05:49,uk
+598843,Junior 6+,G.U.M,3.4,gbp/£,False,,0,3.4,0.0,/gum/junior-tooth-gel-for-kids/,/gum/070942304160_01-o__220905.jpg,2024-05-08 11:05:49,uk
+16159033,Gift Sets Great Coral,HAAN,34.2,gbp/£,True,15promo,15,29.07,5.13,/haan/gift-sets-great-coral-gift-set/,/haan/5060669781004_01-o__221122.jpg,2024-05-08 11:05:49,uk
+534205,Herbal Fresh,Signal,1.7,gbp/£,True,teeth,15,1.44,0.26,/signal/herbal-fresh-toothpaste/,/signal/sighrfu_ktps05__150511.jpg,2024-05-08 11:05:49,uk
+15726086,Toothpaste Classic Mint,My White Secret,10.4,gbp/£,True,teeth,15,8.84,1.56,/my-white-secret/toothpaste-cosmetic-set-i/,/my-white-secret/5060548390020_01-ox__180821.jpg,2024-05-08 11:05:49,uk
+16194259,CBD Aloe Vera,White Pearl,7.2,gbp/£,False,,0,7.2,0.0,/white-pearl/cbd-aloe-vera-toothpaste/,/white-pearl/8594069333312_01-o__230725.jpg,2024-05-08 11:05:49,uk
+16124326,Kids,Masha & The Bear,2.4,gbp/£,False,,0,2.4,0.0,/masha-the-bear/kids-toothpaste-for-children-with-strawberry-flavour/,/masha_the_bear/8029241134000_01__220428.jpg,2024-05-08 11:05:49,uk
+16139600,Charcoal,Blend-a-med,2.5,gbp/£,False,,0,2.5,0.0,/blend-a-med/charcoal-toothpaste-with-activated-charcoal/,/blend-a-med/8001841825519_01-o__220816.jpg,2024-05-08 11:05:49,uk
+16230822,Up White Advanced Whitening,Perl Weiss,5.0,gbp/£,True,15promo,15,4.25,0.75,/perl-weiss/up-white-advanced-whitening-whitening-toothpaste/,/perl_weiss/4008890009512_01__240304.jpg,2024-05-08 11:05:49,uk
+16214577,Toothpaste Mild Mint,Chicco,3.5,gbp/£,False,,0,3.5,0.0,/chicco/toothpaste-mild-mint-toothpaste-for-children-with-fluoride/,/chicco/8058664138708_01__231124.jpg,2024-05-08 11:05:49,uk
+16206264,Carbon+ Set,WOOM,14.8,gbp/£,False,,0,14.8,0.0,/woom/carbon-set-gift-setfor-teeth/,/woom/4751033921102_01__221118.jpg,2024-05-08 11:05:49,uk
+16143192,Family Sensitive,WOOM,3.2,gbp/£,False,,0,3.2,0.0,/woom/family-sensitive-sensitive-toothpaste/,/woom/8420075180377_01-o__220830.jpg,2024-05-08 11:05:49,uk
+16077186,Advantage Cavity Protection,White Glo,3.4,gbp/£,False,,0,3.4,0.0,/white-glo/advantage-whitening-toothpaste/,/white-glo/9319871001117_01-o__210524.jpg,2024-05-08 11:05:49,uk
+16199763,Pro Expert Professional Protection,Oral B,4.7,gbp/£,True,teeth,15,4.0,0.7,/oral-b/pro-expert-professional-protection-gum-protection-toothpaste/,/oral-b/8700216106863_01-o__230904.jpg,2024-05-08 11:05:49,uk
+542935,Clove,Eva,4.0,gbp/£,True,teeth,15,3.4,0.6,/eva/cloves-whitening-tooth-powder-3-in-1/,/eva/6223001385349_01-o__211115.jpg,2024-05-08 11:05:49,uk
+16102973,Natural,Jack N’ Jill,6.7,gbp/£,False,,0,6.7,0.0,/jack-n-jill/natural-dental-care-setfor-kids/,/jack-n-jill/9312657011027_01-o__230602.jpg,2024-05-08 11:05:49,uk
+16077980,Launcher Set,Toothy®,56.6,gbp/£,True,teeth,15,48.11,8.49,/toothy/launcher-set-teeth-whitening-kit/,/toothy/726667490779_01-o__210528.jpg,2024-05-08 11:05:49,uk
+16237101,Total Active Fresh XL,Colgate,4.4,gbp/£,False,,0,4.4,0.0,/colgate/total-active-fresh-xl-toothpaste-for-fresh-breath/,/colgate/8714789710624_01-o__240404.jpg,2024-05-08 11:05:49,uk
+16102548,Hemp Seed Oil,White Glo,5.4,gbp/£,True,teeth,15,4.59,0.81,/white-glo/hemp-seed-oil-whitening-toothpaste-with-brush/,/white-glo/9319871001711_01-o__211129.jpg,2024-05-08 11:05:49,uk
+16184441,Toothpaste Hyvä Meinink,HAAN,6.5,gbp/£,False,,0,6.5,0.0,/haan/toothpaste-hyva-meinink-whitening-toothpaste-with-fluoride-with-peppermint/,/haan/5060669781042_01-o__230515.jpg,2024-05-08 11:05:49,uk
+16241524,ADS DNA 705,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ads-dna-705-gel-toothpaste/,/curasept/8056746073503_01-o__240503.jpg,2024-05-08 11:05:49,uk
+16194255,CBD Charcoal Whitening,White Pearl,7.1,gbp/£,False,,0,7.1,0.0,/white-pearl/cbd-charcoal-whitening-whitening-toothpaste-with-activated-charcoal-with-cbd/,/white-pearl/8594069333336_01-o__230725.jpg,2024-05-08 11:05:49,uk
+16137919,Eco Toothpaste,Woobamboo,2.2,gbp/£,False,,0,2.2,0.0,/woobamboo/eco-toothpaste-toothpaste/,/woobamboo/860364000791_01-o__220727.jpg,2024-05-08 11:05:49,uk
+16194256,PAP Carbon Whitening,White Pearl,7.2,gbp/£,True,teeth,15,6.12,1.08,/white-pearl/pap-carbon-whitening-whitening-toothpaste/,/white-pearl/8594069333275_01-o__230725.jpg,2024-05-08 11:05:49,uk
+16142642,Gift Sets Great Aquamarine,HAAN,33.5,gbp/£,False,,0,33.5,0.0,/haan/gift-sets-great-aquamarine-gift-set/,/haan/5060669780908_01-o__220819.jpg,2024-05-08 11:05:49,uk
+16151693,Herbal Toothpaste,NANOO,8.3,gbp/£,False,,0,8.3,0.0,/nanoo/herbal-toothpaste-herbal-toothpaste-with-sea-salt/,/nanoo/08594211010207_01-o__221013.jpg,2024-05-08 11:05:49,uk
+16077189,Total Mouth Detox,White Glo,5.8,gbp/£,True,teeth,15,4.93,0.87,/white-glo/total-mouth-detox-teeth-whitening-kit/,/white-glo/9319871001025_01-o__210524.jpg,2024-05-08 11:05:49,uk
+16189735,Natural Strawberry,Brush Baby,4.5,gbp/£,False,,0,4.5,0.0,/brush-baby/natural-strawberry-toothpaste-for-children-with-strawberry-flavour/,/brush_baby/5060178102918_01-o__230613.jpg,2024-05-08 11:05:49,uk
+16143773,Toothpaste Powder,My White Secret,9.0,gbp/£,False,,0,9.0,0.0,/my-white-secret/toothpaste-powder-toothpaste-powder/,/my-white-secret/5060548390457_01-o__220829.jpg,2024-05-08 11:05:49,uk
+16073224,Paw Patrol Toothpaste,Nickelodeon,3.1,gbp/£,False,,0,3.1,0.0,/ep-line/paw-patrol-toothpaste-for-children-with-strawberry-flavour/,/ep-line/8412428011124_01-o__210413.jpg,2024-05-08 11:05:49,uk
+478595,Classic,Yotuel,9.7,gbp/£,True,teeth,15,8.24,1.46,/yotuel/classic-whitening-toothpaste/,/yotuel/yotclsw_ktps10__150428.jpg,2024-05-08 11:05:49,uk
+16173097,Junior Caries Protection,Elmex,4.4,gbp/£,False,,0,4.4,0.0,/elmex/junior-caries-protection-toothpaste-for-children/,/elmex/4007965505904_01-o__230302.jpg,2024-05-08 11:05:49,uk
+86898,Dental Care,Weleda,4.3,gbp/£,True,teeth,15,3.66,0.64,/weleda/dental-care-dental-gel/,/weleda/4001638086554_01-o__230809.jpg,2024-05-08 11:05:49,uk
+16173759,Medium,Vitis,9.3,gbp/£,False,,0,9.3,0.0,/vitis/medium-toothbrush-mini-toothpaste/,/vitis/8427426006591_01-o__230202.jpg,2024-05-08 11:05:49,uk
+16098315,Juventus,EP Line,14.4,gbp/£,False,,0,14.4,0.0,/ep-line/juventus-gift-set/,/ep-line/8029241128917_01-o__211014.jpg,2024-05-08 11:05:49,uk
+16087854,Exceptional Whitening,Ecodenta,10.9,gbp/£,True,teeth,15,9.26,1.64,/ecodenta/exceptional-whitening-whitening-toothpaste/,/ecodenta/4770001337103_01-o__210809.jpg,2024-05-08 11:05:49,uk
+16184190,Naturaverde Oral Care Set,Be a Unicorn,11.8,gbp/£,False,,0,11.8,0.0,/be-a-unicorn/naturaverde-oral-care-set-gift-setfor-kids/,/be_a_unicorn/8029241134130_01-o__230517.jpg,2024-05-08 11:05:49,uk
+16188836,Gingival Pro,WOOM,6.0,gbp/£,True,teeth,15,5.1,0.9,/woom/gingival-pro-reinforcing-toothpaste/,/woom/4751033921089_01-o__230504.jpg,2024-05-08 11:05:49,uk
+16125917,White Lux Set,Curasept,15.0,gbp/£,False,,0,15.0,0.0,/curasept/white-lux-set-whitening-kit-for-teeth/,/curasept/8056746071493_01-o__220218.jpg,2024-05-08 11:05:49,uk
+16160459,Paw Patrol Travel Kit,Nickelodeon,3.4,gbp/£,False,,0,3.4,0.0,/nickelodeon/paw-patrol-travel-kit-dental-care-set-for-kids/,/nickelodeon/8032979439019_01-o__221206.jpg,2024-05-08 11:05:49,uk
+16139595,3D White Cool Water,Blend-a-med,1.7,gbp/£,True,teeth,15,1.44,0.26,/blend-a-med/3d-white-cool-water-whitening-toothpaste/,/blend-a-med/8006540793138_01-o__230221.jpg,2024-05-08 11:05:49,uk
+16214576,Toothpaste Fruit Mix,Chicco,3.0,gbp/£,False,,0,3.0,0.0,/chicco/toothpaste-fruit-mix-toothpaste-for-children-with-fluoride/,/chicco/8058664138715_01__231124.jpg,2024-05-08 11:05:49,uk
+483972,Smile Aloe Vera,White Pearl,3.4,gbp/£,False,,0,3.4,0.0,/white-pearl/smile-aloe-vera-toothpaste-for-healthy-teeth-and-gums/,/white-pearl/whpalow_ktps10_01__150611.jpg,2024-05-08 11:05:49,uk
+16213106,Oral Care Set,Peppa Pig,11.1,gbp/£,False,,0,11.1,0.0,/peppa-pig/oral-care-set-gift-setfor-children/,/peppa_pig/8029241136820_01__231120.jpg,2024-05-08 11:05:49,uk
+16097860,Boys,Pink Elephant,5.2,gbp/£,False,,0,5.2,0.0,/pink-elephant/boys-gift-set-for-kids-green/,/pink_elephant/8588006040418_01__211015.jpg,2024-05-08 11:05:49,uk
+16139593,Protect 7 Crystal White,Blend-a-med,1.5,gbp/£,False,,0,1.5,0.0,/blend-a-med/protect-7-crystal-white-toothpaste-for-complete-protection-of-teeth/,/blend-a-med/8006540390917_01-o__220816.jpg,2024-05-08 11:05:49,uk
+479551,Deep Fresh,Signal,2.5,gbp/£,False,,0,2.5,0.0,/signal/deep-fresh-toothpaste-for-fresh-breath/,/signal/8717163093481_01-o__230306.jpg,2024-05-08 11:05:49,uk
+16214578,Travel Set,Chicco,10.6,gbp/£,False,,0,10.6,0.0,/chicco/travel-set-dental-care-set/,/chicco/8058664121229_01__231124.jpg,2024-05-08 11:05:49,uk
+16080292,Total Charcoal,Colgate,2.7,gbp/£,False,,0,2.7,0.0,/colgate/total-charcoal-whitening-toothpaste-with-activated-charcoal/,/colgate/6920354829406_01-o__221125.jpg,2024-05-08 11:05:49,uk
+15964935,Mint & Green Tea,Urtekram,4.1,gbp/£,True,teeth,15,3.48,0.62,/urtekram/urtekram-mint-green-tea-mint-toothpaste-with-green-tea/,/urtekram/5765228837832_01-o__190813.jpg,2024-05-08 11:05:49,uk
+16212438,Brush Teeth Tablets Kids without Fluoride,Denttabs,5.4,gbp/£,False,,0,5.4,0.0,/denttabs/brush-teeth-tablets-kids-without-fluoride-fluoride-free-toothpaste-in-tablets/,/denttabs/4260066813433_01-o__231115.jpg,2024-05-08 11:05:49,uk
+16199573,Pro Expert Advanced,Oral B,4.1,gbp/£,True,teeth,15,3.48,0.62,/oral-b/pro-expert-advanced-toothpaste-against-tooth-decay/,/oral-b/8700216106702_01-o__230904.jpg,2024-05-08 11:05:49,uk
+16162535,Dental Care White Time Set,MEDIBLANC,19.9,gbp/£,True,20promo,20,15.92,3.98,/mediblanc/dental-care-white-time-set-dental-care-setfor-pearly-white-teeth/,/mediblanc/3760275382894_01__221220.jpg,2024-05-08 11:05:49,uk
+491099,Oral Care,Chicco,3.0,gbp/£,False,,0,3.0,0.0,/chicco/oral-care-gum-massage-gel-for-babies-4m/,/chicco/8003670913771_01__210623.jpg,2024-05-08 11:05:49,uk
+542989,Meswak,Eva,3.7,gbp/£,True,teeth,15,3.14,0.56,/eva/meswak-whitening-tooth-powder-3-in-1/,/eva/6223001385370_01-o__211115.jpg,2024-05-08 11:05:49,uk
+16115804,Gum Protection Fresh Breath,Meridol,4.1,gbp/£,False,,0,4.1,0.0,/meridol/dental-care-toothpaste-for-fresh-breath/,/meridol/8718951455528_01-o__230807.jpg,2024-05-08 11:05:49,uk
+16144265,Travel Dental Set,Minions,5.8,gbp/£,False,,0,5.8,0.0,/minions/travel-dental-set-dental-care-set-3yfor-kids/,/minions/8032979437633_01-o__220902.jpg,2024-05-08 11:05:49,uk
+16145063,Special Extreme White,Splat,8.2,gbp/£,True,teeth,15,6.97,1.23,/splat/special-extreme-white-whitening-toothpaste/,/splat/7640168930271_01-o__220908.jpg,2024-05-08 11:05:49,uk
+596289,Advanced Clean,Sensodyne,4.8,gbp/£,False,,0,4.8,0.0,/sensodyne/advanced-clean-fluoride-toothpastes-for-complete-protection-of-teeth/,/sensodyne/5054563014757_01-o__170106.jpg,2024-05-08 11:05:49,uk
+16125905,Black Lux Set,Curasept,15.0,gbp/£,False,,0,15.0,0.0,/curasept/black-lux-set-whitening-kit-for-teeth/,/curasept/8056746071486_01-o__220218.jpg,2024-05-08 11:05:49,uk
+16189655,Tutti Frutti,Brush Baby,4.6,gbp/£,False,,0,4.6,0.0,/brush-baby/tutti-frutti-toothpaste-for-children-from-36-months/,/brush_baby/5060178100143_01-o__230613.jpg,2024-05-08 11:05:49,uk
+647251,3D White Luxe Perfection,Blend-a-med,4.1,gbp/£,True,teeth,15,3.48,0.62,/blend-a-med/3d-white-luxe-perfection-whitening-toothpaste-against-stains-on-tooth-enamel/,/blend-a-med/4084500743847_01-o__240426.jpg,2024-05-08 11:05:49,uk
+16133044,Oral Care Set,Barbie,4.0,gbp/£,False,,0,4.0,0.0,/barbie/oral-care-set-dental-care-setfor-kids/,/barbie/8029241131450_01__220627.jpg,2024-05-08 11:05:49,uk
+16087878,Certified Organic Whitening,Ecodenta,4.7,gbp/£,False,,0,4.7,0.0,/ecodenta/certified-organic-anti-plaque-whitening-toothpaste/,/ecodenta/4770001002162_01-o__210809.jpg,2024-05-08 11:05:49,uk
+16188202,Toothpaste Black,BEN&ANNA,3.8,gbp/£,False,,0,3.8,0.0,/benanna/toothpaste-black-natural-toothpaste-with-activated-charcoal/,/benanna/4260491223012_01-o__230331.jpg,2024-05-08 11:05:49,uk
+16077178,Charcoal,White Glo,1.0,gbp/£,False,,0,1.0,0.0,/white-glo/charcoal-whitening-toothpaste-with-activated-charcoal-for-travelling/,/white-glo/9319871000974_01-o__210524.jpg,2024-05-08 11:05:49,uk
+16189710,Rocket,Brush Baby,4.9,gbp/£,False,,0,4.9,0.0,/brush-baby/rocket-toothpaste-for-children-blueberry/,/brush_baby/5060178102437_01-o__230613.jpg,2024-05-08 11:05:49,uk
+16140714,3D White Delicate White,Blend-a-med,1.7,gbp/£,False,,0,1.7,0.0,/blend-a-med/3d-white-delicate-white-whitening-toothpaste/,/blend-a-med/8006540793183_01-o__230221.jpg,2024-05-08 11:05:49,uk
+405566,Original White,G.U.M,6.3,gbp/£,True,teeth,15,5.36,0.94,/gum/original-white-whitening-toothpaste/,/gum/gumorwu_ktps10__131106.jpg,2024-05-08 11:05:49,uk
+16170972,Organic Baby 0-3 years,Pure Beginnings,8.0,gbp/£,False,,0,8.0,0.0,/pure-beginnings/organic-baby-0-3-years-toothpaste-for-babies-and-kids/,/pure_beginnings/6009824780154_01-o__230216.jpg,2024-05-08 11:05:49,uk
+16215117,Teeth Whitening Foam,My White Secret,10.6,gbp/£,True,teeth,15,9.01,1.59,/my-white-secret/teeth-whitening-foam-foam-corrector-for-whitening-teeth/,/my-white-secret/5060548390563_01-o__231128.jpg,2024-05-08 11:05:49,uk
+16120166,Toothpaste Apple a Day,HAAN,6.1,gbp/£,False,,0,6.1,0.0,/haan/toothpaste-apple-a-day-fluoride-free-toothpaste-refillable/,/haan/5060917120067_01-o__220405.jpg,2024-05-08 11:05:49,uk
+16153839,Crystal Travel Tube,Swissdent,3.2,gbp/£,False,,0,3.2,0.0,/swissdent/crystal-travel-tube-remineralising-toothpaste-with-whitening-effect/,/swissdent/7640126190716_01-o__221027.jpg,2024-05-08 11:05:49,uk
+16134103,Kids Peach,WOOM,3.6,gbp/£,False,,0,3.6,0.0,/woom/kids-peach-toothpaste-for-children/,/woom/4751033920105_01-o__220629.jpg,2024-05-08 11:05:49,uk
+16072515,Max White Clay,Colgate,3.4,gbp/£,False,,0,3.4,0.0,/colgate/max-white-clay-whitening-toothpaste/,/colgate/8718951380103_01-o__221125.jpg,2024-05-08 11:05:49,uk
+16115801,Total Junior,Colgate,2.5,gbp/£,False,,0,2.5,0.0,/colgate/total-junior-toothpaste-for-deep-teeth-and-mouth-cleaning-for-kids/,/colgate/8718951433120_01-o__221125.jpg,2024-05-08 11:05:49,uk
+16103884,Whitening & Tartar Control,White Glo,5.3,gbp/£,True,teeth,15,4.5,0.8,/white-glo/whitening-tartar-control-whitening-toothpaste-with-brush/,/white-glo/9319871001452_01-o__211129.jpg,2024-05-08 11:05:49,uk
+16134107,Total+ Toothpaste,WOOM,5.7,gbp/£,False,,0,5.7,0.0,/woom/total-toothpaste-reinforcing-toothpaste/,/woom/8420075180308_01-o__220629.jpg,2024-05-08 11:05:49,uk
+16188201,Toothpaste Wild Berry,BEN&ANNA,3.9,gbp/£,False,,0,3.9,0.0,/benanna/toothpaste-wild-berry-natural-toothpaste/,/benanna/4260491223036_01-o__230331.jpg,2024-05-08 11:05:49,uk
+16132517,Max Fresh Cooling Crystals,Colgate,2.8,gbp/£,True,teeth,15,2.38,0.42,/colgate/max-fresh-cooling-crystals-whitening-toothpaste/,/colgate/8718951313255_01-o__220524.jpg,2024-05-08 11:05:49,uk
+16186864,Daycare Protection Booster Herbal,Curasept,6.2,gbp/£,False,,0,6.2,0.0,/curasept/daycare-protection-booster-herbal-gel-toothpaste/,/curasept/8056746073299_01-o__230511.jpg,2024-05-08 11:05:49,uk
+16144266,Toothpaste,Minions,2.3,gbp/£,False,,0,2.3,0.0,/minions/toothpaste-toothpaste-for-children/,/minions/8032979437657_01-o__220902.jpg,2024-05-08 11:05:49,uk
+16132524,Total Detox,Colgate,3.1,gbp/£,True,teeth,15,2.64,0.46,/colgate/total-detox-toothpaste/,/colgate/8718951480070_01-o__220524.jpg,2024-05-08 11:05:49,uk
+16237093,Total Whitening XL,Colgate,4.4,gbp/£,False,,0,4.4,0.0,/colgate/total-whitening-xl-whitening-toothpaste/,/colgate/8714789710358_01-o__240404.jpg,2024-05-08 11:05:49,uk
+16214628,Always Smiling Blue,Chicco,12.4,gbp/£,False,,0,12.4,0.0,/chicco/always-smiling-blue-dental-care-set-12-mfor-children/,/chicco/8058664047383_01__231124.jpg,2024-05-08 11:05:49,uk
+16143193,Family Whitening,WOOM,3.3,gbp/£,False,,0,3.3,0.0,/woom/family-whitening-whitening-toothpaste/,/woom/8420075180346_01-o__220830.jpg,2024-05-08 11:05:49,uk
+16186856,Daycare Protection Booster Fruit Sensation,Curasept,6.2,gbp/£,False,,0,6.2,0.0,/curasept/daycare-protection-booster-fruit-sensation-gel-toothpaste/,/curasept/8056746073305_01-o__230511.jpg,2024-05-08 11:05:49,uk
+16187453,Probiotic,White Glo,5.1,gbp/£,False,,0,5.1,0.0,/white-glo/probiotic-dental-care-set/,/white-glo/9319871001506_00-o__230606.jpg,2024-05-08 11:05:49,uk
+16134105,Natural+ Toothpaste,WOOM,4.5,gbp/£,False,,0,4.5,0.0,/woom/natural-toothpaste-toothpaste-with-peppermint/,/woom/8420075180339_01-o__220629.jpg,2024-05-08 11:05:49,uk
+16115011,White Lux Toothpaste,Curasept,13.0,gbp/£,False,,0,13.0,0.0,/curasept/white-lux-whitening-toothpaste-with-activated-charcoal/,/curasept/8056746072001_01-o__220218.jpg,2024-05-08 11:05:49,uk
+434534,Dental Care,Sea of Spa,15.4,gbp/£,False,,0,15.4,0.0,/sea-of-spa/dental-care-toothpaste-with-minerals-from-the-dead-sea/,/sea-of-spa/sosdcau_ktps10_01__140724.jpg,2024-05-08 11:05:49,uk
+16134104,Herbal+ Toothpaste,WOOM,4.9,gbp/£,False,,0,4.9,0.0,/woom/herbal-toothbrush-herbal-toothpaste/,/woom/4751033920228_01-o__220629.jpg,2024-05-08 11:05:49,uk
+16221588,White & Charcoal,Perl Weiss,5.9,gbp/£,True,teeth,15,5.02,0.88,/perl-weiss/white-charcoal-whitening-toothpaste/,/perl_weiss/4008890009154_01__240111.jpg,2024-05-08 11:05:49,uk
+15960493,NanoCare Kids,White Pearl,4.7,gbp/£,False,,0,4.7,0.0,/white-pearl/white-pearl-nanocare-kids-toothpaste-for-children/,/white-pearl/8594069332964_01-o__190710.jpg,2024-05-08 11:05:49,uk
+16223651,Dentifricio,Naturaverde,3.4,gbp/£,False,,0,3.4,0.0,/naturaverde/dentifricio-refreshing-toothpaste/,/naturaverde/8029241122533_01-o__240130.jpg,2024-05-08 11:05:49,uk
+499486,Complete 7 + White,Blend-a-med,3.4,gbp/£,False,,0,3.4,0.0,/blend-a-med/complete-7-white-toothpaste-for-complete-protection-of-teeth/,/blend-a-med/blecpww_ktps10_01__150925.jpg,2024-05-08 11:05:49,uk
+16139589,3D White Luxe Perfection Intense,Blend-a-med,3.5,gbp/£,False,,0,3.5,0.0,/blend-a-med/3d-white-luxe-perfection-intense-toothpaste/,/blend-a-med/8001841142814_01-o__220816.jpg,2024-05-08 11:05:49,uk
+16053813,Smile Beauty Care Gift Pack,My White Secret,34.9,gbp/£,False,,0,34.9,0.0,/my-white-secret/smile-beauty-care-dental-care-setfor-radiant-smile/,/my-white-secret/5060548390082_07__200903.jpg,2024-05-08 11:05:49,uk
+16213096,AC Milan Oral Hygiene Gift Set,EP Line,9.5,gbp/£,False,,0,9.5,0.0,/ep-line/ac-milan-oral-hygiene-gift-set-gift-setfor-children/,/ep-line/8029241131962_01__231120.jpg,2024-05-08 11:05:49,uk
+16141123,Extreme Travel Set,Swissdent,9.8,gbp/£,True,teeth,15,8.33,1.47,/swissdent/extreme-travel-set-dental-care-set/,/swissdent/7640126190334_01-o__220830.jpg,2024-05-08 11:05:49,uk
+16109706,Kids 3+ Frozen,Oral B,2.0,gbp/£,False,,0,2.0,0.0,/oral-b/kids-3-frozen-cars-toothpaste-for-children/,/oral-b/8001841296784_01-o__230602.jpg,2024-05-08 11:05:49,uk
+537382,White Shock Instant White,BlanX,4.0,gbp/£,False,,0,4.0,0.0,/blanx/white-shock-whitening-toothpaste-against-stains-on-tooth-enamel-with-immediate-effect/,/blanx/8017331051573_01__160413.jpg,2024-05-08 11:05:49,uk
+16007143,Kids 3-5 Years,Colgate,2.4,gbp/£,False,,0,2.4,0.0,/colgate/kids-3-5-years-toothpaste-for-children/,/colgate/8718951265738_01-o__200110.jpg,2024-05-08 11:05:49,uk
+16223830,Bava Di Lumaca,Naturaverde,3.4,gbp/£,False,,0,3.4,0.0,/naturaverde/bava-di-lumaca-sensitive-toothpaste/,/naturaverde/8029241123813_01-o__240130.jpg,2024-05-08 11:05:49,uk
+16145054,Biomed Calcimax,Splat,4.1,gbp/£,False,,0,4.1,0.0,/splat/biomed-calcimax-tooth-enamel-fortifying-toothpaste-with-seaweed-extracts/,/splat/2800015078340_01-o__220908.jpg,2024-05-08 11:05:49,uk
+16187461,Daycare Protection Junior Booster,Curasept,5.6,gbp/£,False,,0,5.6,0.0,/curasept/daycare-protection-junior-booster-toothpaste-for-children/,/curasept/8056746073312_01-o__230605.jpg,2024-05-08 11:05:49,uk
+16181196,Opti-namel Daily Repair,Elmex,5.9,gbp/£,False,,0,5.9,0.0,/elmex/opti-namel-daily-repair-remineralising-toothpaste/,/elmex/8718951554542_01-o__230426.jpg,2024-05-08 11:05:49,uk
+16172354,Total Protection Natural White,Beverly Hills Formula,6.7,gbp/£,False,,0,6.7,0.0,/beverly-hills-formula/total-protection-natural-white-whitening-toothpaste/,/beverly-hills-formula/5020105000052_01-o__230222.jpg,2024-05-08 11:05:49,uk
+16212405,Natural Toothpaste Tablets with Fluoride,Denttabs,5.4,gbp/£,False,,0,5.4,0.0,/denttabs/natural-toothpaste-tablets-with-fluoride-fluoride-toothpaste-in-tablets/,/denttabs/4260066813006_01-o__231115.jpg,2024-05-08 11:05:49,uk
+16011435,Whitening Smokers Mint,Marvis,4.6,gbp/£,False,,0,4.6,0.0,/marvis/smokers-whitening-mint-whitening-toothpaste-for-smokers/,/marvis/8004395111817_01-o__200211.jpg,2024-05-08 11:05:49,uk
+16117282,Gold Lux Toothpaste,Curasept,13.0,gbp/£,False,,0,13.0,0.0,/curasept/gold-lux-toothpaste-whitening-toothpaste-with-activated-charcoal/,/curasept/8056746072018_01-o__220218.jpg,2024-05-08 11:05:49,uk
+16214778,Original,Truthpaste,7.4,gbp/£,False,,0,7.4,0.0,/truthpaste/original-natural-toothpaste/,/truthpaste/5060655080005_01-o__231127.jpg,2024-05-08 11:05:49,uk
+16129202,Nourish Gently Soothing,Sensodyne,6.0,gbp/£,False,,0,6.0,0.0,/sensodyne/nourish-gently-soothing-bioactive-toothpaste-with-fluoride/,/sensodyne/5054563120199_01-o__220523.jpg,2024-05-08 11:05:49,uk
+16207425,Fluoride 5000ppm,WOOM,8.6,gbp/£,False,,0,8.6,0.0,/woom/fluoride-5000ppm-fluoride-toothpaste/,/woom/4751033920242_01-o__231019.jpg,2024-05-08 11:05:49,uk
+16212728,Advanced Senitivity,Biorepair,5.1,gbp/£,False,,0,5.1,0.0,/biorepair/advanced-senitivity-sensitive-toothpaste-for-protection-of-teeth-and-gums/,/biorepair/8017331077849_01-o__230906.jpg,2024-05-08 11:05:49,uk
+16141819,Perfect White Extreme White,Beverly Hills Formula,7.9,gbp/£,False,,0,7.9,0.0,/beverly-hills-formula/perfect-white-extreme-white-fluoride-toothpastes/,/beverly-hills-formula/5020105003664_01-o__220818.jpg,2024-05-08 11:05:49,uk
+16133565,Professional Pro-Repair,Oral B,5.2,gbp/£,False,,0,5.2,0.0,/oral-b/professional-pro-repair-toothpaste/,/oral-b/8001841729077_01-o__220701.jpg,2024-05-08 11:05:49,uk
+16125898,Biosmalto Junior,Curasept,6.1,gbp/£,False,,0,6.1,0.0,/curasept/biosmalto-junior-toothpaste-for-children/,/curasept/8056746072452_01-o__220204.jpg,2024-05-08 11:05:49,uk
+16202908,Set Max White Ultra Complete,Colgate,15.2,gbp/£,True,teeth,15,12.92,2.28,/colgate/set-max-white-ultra-complete-set-for-teeth/,/colgate/8590232001224_01-o__230922.jpg,2024-05-08 11:05:49,uk
+16156796,Sport Gel Fresh,Signal,1.7,gbp/£,False,,0,1.7,0.0,/signal/sport-gel-fresh-refreshing-toothpaste/,/signal/8710522427354_01-o__221114.jpg,2024-05-08 11:05:49,uk
+16148926,Natural White Charcoal Whitening,Beverly Hills Formula,14.4,gbp/£,False,,0,14.4,0.0,/beverly-hills-formula/natural-white-whitening-toothpaste-with-activated-charcoal/,/beverly-hills-formula/5020105003923_01-o__220912.jpg,2024-05-08 11:05:49,uk
+16172350,Natural White Sensitive,Beverly Hills Formula,9.4,gbp/£,False,,0,9.4,0.0,/beverly-hills-formula/natural-white-sensitive-sensitive-toothpaste/,/beverly-hills-formula/5020105003909_01-o__230222.jpg,2024-05-08 11:05:49,uk
+501526,Oral Care Sparkly White,Himalaya Herbals,3.0,gbp/£,False,,0,3.0,0.0,/himalaya-herbals/oral-care-toothpaste-for-pearly-white-teeth/,/himalaya-herbals/hihorlw_ktps10__151008.jpg,2024-05-08 11:05:49,uk
+16122249,ADS Astringent,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ads-astringent-gel-toothpaste-to-treat-bleeding-gums/,/curasept/8056746070304_01-o__220203.jpg,2024-05-08 11:05:49,uk
+644105,NanoCare Whitening,White Pearl,16.2,gbp/£,False,,0,16.2,0.0,/white-pearl/nanocare-whitening/,/white-pearl/8594069332834_02__170922.jpg,2024-05-08 11:05:49,uk
+16226325,Limited Edition Sinous Lily,Marvis,7.2,gbp/£,False,,0,7.2,0.0,/marvis/limited-edition-sinous-lily-toothpaste/,/marvis/8004395112814_01-o__240305.jpg,2024-05-08 11:05:49,uk
+16136440,Toothpaste Gold Advanced Whitening,Dentissimo,10.3,gbp/£,False,,0,10.3,0.0,/dentissimo/toothpaste-gold-advanced-whitening-whitening-toothpaste/,/dentissimo/7640162324298_01-o__220718.jpg,2024-05-08 11:05:49,uk
+16226329,Limited Edition Kissing Rose,Marvis,7.2,gbp/£,True,teeth,15,6.12,1.08,/marvis/limited-edition-kissing-rose-toothpaste/,/marvis/8004395112807_01-o__240305.jpg,2024-05-08 11:05:49,uk
+15964933,Fresh Mint,Urtekram,4.1,gbp/£,False,,0,4.1,0.0,/urtekram/urtekram-fresh-mint-whitening-toothpaste-without-fluoride/,/urtekram/5765228836095_01-o__190813.jpg,2024-05-08 11:05:49,uk
+16122247,ADS 712,Curasept,5.6,gbp/£,False,,0,5.6,0.0,/curasept/ads-712-toothpaste-against-gum-bleeding-and-periodontal-disease/,/curasept/8056746070069_01-o__220203.jpg,2024-05-08 11:05:49,uk
+16215915,Professional Sensitive,Splat,4.6,gbp/£,False,,0,4.6,0.0,/splat/special-organic-sensitive-toothpaste/,/splat/7640168930257_01-o__231128.jpg,2024-05-08 11:05:49,uk
+16136909,Mastiha,Mediterra,4.8,gbp/£,False,,0,4.8,0.0,/mediterra/mastiha-toothpaste-with-mastic/,/mediterra/5200314371048_01-o__220721.jpg,2024-05-08 11:05:49,uk
+15666557,Activated Charcoal,My Magic Mud,10.8,gbp/£,False,,0,10.8,0.0,/my-magic-mud/activated-charcoal-whitening-toothpaste-with-activated-charcoal/,/my-magic-mud/0868656000115_01-o__210920.jpg,2024-05-08 11:05:49,uk
+16122261,ADS 705,Curasept,5.6,gbp/£,False,,0,5.6,0.0,/curasept/ads-705-gel-toothpaste-to-treat-periodontitis/,/curasept/8056746070076_01-o__220203.jpg,2024-05-08 11:05:49,uk
+16172349,Natural White Optic Blue,Beverly Hills Formula,7.9,gbp/£,False,,0,7.9,0.0,/beverly-hills-formula/natural-white-optic-blue-whitening-toothpaste/,/beverly-hills-formula/5020105003947_01-o__230222.jpg,2024-05-08 11:05:49,uk
+16122231,ADS Regenerating,Curasept,6.4,gbp/£,False,,0,6.4,0.0,/curasept/ads-regenerating-anti-decay-toothpaste-with-regenerative-effect/,/curasept/8056746070243_01-o__220203.jpg,2024-05-08 11:05:49,uk
+16190935,Toothpaste,Baby Anthyllis,4.6,gbp/£,False,,0,4.6,0.0,/baby-anthyllis/toothpaste-toothpaste-for-children/,/baby_anthyllis/8002849910191_01-o__230629.jpg,2024-05-08 11:05:49,uk
+528090,Biocare Wellness,Swissdent,20.4,gbp/£,False,,0,20.4,0.0,/swissdent/biocare/,/swissdent/7640126190853_01-o__160222.jpg,2024-05-08 11:05:49,uk
+16178757,Blossom Tea,Marvis,5.6,gbp/£,False,,0,5.6,0.0,/marvis/blossom-tea-toothpastelimited-edition/,/marvis/8004395112302_01-o__230106.jpg,2024-05-08 11:05:49,uk
+16097854,Girls,Pink Elephant,7.8,gbp/£,False,,0,7.8,0.0,/pink-elephant/girls-gift-set-for-kids-pink/,/pink_elephant/8588006040425_01__211015.jpg,2024-05-08 11:05:49,uk
+16115665,Pink Whitening Toothpaste,My White Secret,6.9,gbp/£,False,,0,6.9,0.0,/my-white-secret/pink-whitening-toothpaste-sensitive-toothpaste/,/my-white-secret/5060548390365_01-o__220105.jpg,2024-05-08 11:05:49,uk
+16214650,Oral Care Set,Chicco,8.8,gbp/£,False,,0,8.8,0.0,/chicco/oral-care-set-dental-care-set-for-babies/,/chicco/8058664155798_01__231124.jpg,2024-05-08 11:05:49,uk
+16205548,MicroSilver Plus,LR,11.1,gbp/£,False,,0,11.1,0.0,/lr/microsilver-plus-toothpaste/,/lr/2800019046468_01-o__231009.jpg,2024-05-08 11:05:49,uk
+557064,Flavour Collection,Marvis,21.6,gbp/£,False,,0,21.6,0.0,/marvis/flavour-collection-cosmetic-set-i/,/marvis/411059_01-o__211109.jpg,2024-05-08 11:05:49,uk
+496176,Max White Optic,Colgate,4.5,gbp/£,False,,0,4.5,0.0,/colgate/max-white-one-optic-whitening-toothpaste-with-immediate-effect/,/colgate/8714789928425_01-o__221128.jpg,2024-05-08 11:05:49,uk
+16191080,Daily rescue pack Serenity,HAAN,19.8,gbp/£,False,,0,19.8,0.0,/haan/daily-rescue-pack-serenity-gift-set-hyva-meininki/,/haan/5060917123518_01-o__230619.jpg,2024-05-08 11:05:49,uk
+418104,Intensive Cleaning,Elmex,6.7,gbp/£,False,,0,6.7,0.0,/elmex/intensive-cleaning-toothpaste-for-smooth-and-white-teeth/,/elmex/7610108057924_01-o__221125.jpg,2024-05-08 11:05:49,uk
+467187,Gentle White,Meridol,4.0,gbp/£,False,,0,4.0,0.0,/meridol/gentle-white-toothpaste-against-gum-bleeding-and-periodontal-disease-128777/,/meridol/merdecu_ktps50__150202.jpg,2024-05-08 11:05:49,uk
+16156794,24 h Caries Protection,Signal,1.7,gbp/£,False,,0,1.7,0.0,/signal/24-h-caries-protection-anti-decay-toothpaste/,/signal/8710522427323_01-o__221114.jpg,2024-05-08 11:05:49,uk
+632969,2 in1,White Glo,7.2,gbp/£,False,,0,7.2,0.0,/white-glo/2-in1-cosmetic-set-ii/,/white-glo/whg2i1w_kset10_02__220624.jpg,2024-05-08 11:05:49,uk
+15992814,Children's Toothpaste Original,Urtekram,3.8,gbp/£,False,,0,3.8,0.0,/urtekram/childrens-toothpaste-original-toothpaste-for-children/,/urtekram/5765228839065_01-o__191016.jpg,2024-05-08 11:05:49,uk
+16226336,Limited Edition Dreamy Osmanthus,Marvis,7.2,gbp/£,False,,0,7.2,0.0,/marvis/limited-edition-dreamy-osmanthus-toothpaste/,/marvis/8004395112821_01-o__240305.jpg,2024-05-08 11:05:49,uk
+16103178,Botanique Mint,Himalaya Herbals,6.6,gbp/£,False,,0,6.6,0.0,/himalaya-herbals/botanique-mint-whitening-toothpaste/,/himalaya-herbals/605069200295_01-o__211221.jpg,2024-05-08 11:05:49,uk
+16131388,Certified Organic Multifunctional with Hemp,Ecodenta,4.1,gbp/£,False,,0,4.1,0.0,/ecodenta/certified-organic-multifunctional-with-hemp-organic-toothpaste/,/ecodenta/4770001002186_01-o__220613.jpg,2024-05-08 11:05:49,uk
+16207623,Whitening,MEDIBLANC,20.5,gbp/£,False,,0,20.5,0.0,/mediblanc/dental-care-dental-care-setfor-pearly-white-teeth-ii/,/mediblanc/8053689492118_01-o__231017.jpg,2024-05-08 11:05:49,uk
+15964929,Aloe Vera,Urtekram,4.1,gbp/£,False,,0,4.1,0.0,/urtekram/urtekram-strong-mint-organic-toothpaste/,/urtekram/5765228837849_01-o__190813.jpg,2024-05-08 11:05:49,uk
+16125915,Gold Lux Set,Curasept,15.0,gbp/£,False,,0,15.0,0.0,/curasept/gold-lux-set-whitening-kit-for-teeth/,/curasept/8056746071509_01-o__220218.jpg,2024-05-08 11:05:49,uk
+15992830,Children's Toothpaste Tutti-Frutti,Urtekram,4.1,gbp/£,False,,0,4.1,0.0,/urtekram/childrens-toothpaste-tutti-frutti-toothpaste-for-children/,/urtekram/5765228837801_01-o__191016.jpg,2024-05-08 11:05:49,uk
+16238812,Pure,TePe,4.9,gbp/£,False,,0,4.9,0.0,/tepe/pure-toothpaste/,/tepe/7350121254114_01-o__240419.jpg,2024-05-08 11:05:49,uk
+419003,Gentle,Swissdent,21.1,gbp/£,False,,0,21.1,0.0,/swissdent/gentle-toothpaste/,/swissdent/7640126190020_01-o_02__130304.jpg,2024-05-08 11:05:49,uk
+16230571,Gum Protection,Ecodenta,5.1,gbp/£,False,,0,5.1,0.0,/ecodenta/gum-protection-toothpaste-with-tea-tree-oil/,/ecodenta/4770001005538_01-o__240313.jpg,2024-05-08 11:05:49,uk
+16143191,Family Extra Fresh,WOOM,1.8,gbp/£,False,,0,1.8,0.0,/woom/family-extra-fresh-refreshing-toothpaste/,/woom/8420075180353_01-o__220830.jpg,2024-05-08 11:05:49,uk
+16137554,Max White Ultra Active Foam,Colgate,6.5,gbp/£,False,,0,6.5,0.0,/colgate/max-white-ultra-active-foam-whitening-toothpaste/,/colgate/8718951504752_01-o__240229.jpg,2024-05-08 11:05:49,uk
+16087080,Biricco,Officina Naturae,4.5,gbp/£,False,,0,4.5,0.0,/officina-naturae/biricco-toothpaste-for-children/,/officina_naturae/8033148531787_01__210722.jpg,2024-05-08 11:05:49,uk
+475713,Extreme Whitening,Swissdent,2.4,gbp/£,False,,0,2.4,0.0,/swissdent/extreme-high-impact-whitening-toothpaste/,/swissdent/swdextw_ktps05__150402.jpg,2024-05-08 11:05:49,uk
+16087932,Stain-away,Himalaya Herbals,4.9,gbp/£,False,,0,4.9,0.0,/himalaya-herbals/oral-care-high-impact-whitening-toothpaste/,/himalaya-herbals/6297000713977_01-o__210811.jpg,2024-05-08 11:05:49,uk
+16122248,ADS 720,Curasept,5.6,gbp/£,False,,0,5.6,0.0,/curasept/ads-720-toothpaste-against-gum-bleeding-and-periodontal-disease/,/curasept/8056746070052_01-o__220203.jpg,2024-05-08 11:05:49,uk
+16131020,Natural Toothpaste Coconut & Salt,The Humble Co.,3.4,gbp/£,False,,0,3.4,0.0,/the-humble-co/natural-toothpaste-coconut-salt-natural-toothpaste/,/humble/7350075691577_01-o__211221.jpg,2024-05-08 11:05:49,uk
+545339,NanoCare Whitening,White Pearl,10.2,gbp/£,False,,0,10.2,0.0,/white-pearl/nanocare-whitening-toothpaste-with-silver-nanoparticles-against-enamel-spots/,/white-pearl/whpnaww_ktps10_01__160520.jpg,2024-05-08 11:05:49,uk
+505995,"Gingidex 0,06%",G.U.M,5.2,gbp/£,False,,0,5.2,0.0,/gum/gingidex/,/gum/gumginw_ktps10_01__151102.jpg,2024-05-08 11:05:49,uk
+16113696,Eco,Himalaya Herbals,6.6,gbp/£,False,,0,6.6,0.0,/himalaya-herbals/eco-toothpaste/,/himalaya-herbals/8901138816629_01-o__211221.jpg,2024-05-08 11:05:49,uk
+444317,Crystal Repair and Whitening,Swissdent,16.1,gbp/£,False,,0,16.1,0.0,/swissdent/crystal-repair-and-whitening-remineralising-toothpaste-with-whitening-effect/,/swissdent/7640126190686_01-o__230711.jpg,2024-05-08 11:05:49,uk
+16136443,Toothpaste Kids,Dentissimo,5.4,gbp/£,False,,0,5.4,0.0,/dentissimo/toothpaste-kids-toothpaste-for-children/,/dentissimo/7640162322409_01-o__220718.jpg,2024-05-08 11:05:49,uk
+16134100,Carbon+ Toothpaste,WOOM,5.7,gbp/£,False,,0,5.7,0.0,/woom/carbon-toothpaste-black-whitening-toothpaste/,/woom/8420075180322_01-o__220629.jpg,2024-05-08 11:05:49,uk
+15964924,Strong Mint,Urtekram,4.1,gbp/£,False,,0,4.1,0.0,/urtekram/urtekram-strong-mint-whitening-toothpaste-for-sensitive-teeth/,/urtekram/5765228836170_01-o__190813.jpg,2024-05-08 11:05:49,uk
+501392,Oral Care Mint Fresh,Himalaya Herbals,3.0,gbp/£,False,,0,3.0,0.0,/himalaya-herbals/oral-care-toothpaste-for-fresh-breath/,/himalaya-herbals/hihorlw_ktps20__151009.jpg,2024-05-08 11:05:49,uk
+16207624,Whitening Herbal,MEDIBLANC,22.3,gbp/£,False,,0,22.3,0.0,/mediblanc/dental-care-dental-care-setfor-pearly-white-teeth/,/mediblanc/8053689492101_01-o__231017.jpg,2024-05-08 11:05:49,uk
+16136441,Toothpaste-Gel Natural with Vitamin B12,Dentissimo,9.6,gbp/£,False,,0,9.6,0.0,/dentissimo/toothpaste-gel-natural-with-vitamin-b12-toothpaste-vegan/,/dentissimo/7640162324328_01-o__220718.jpg,2024-05-08 11:05:49,uk
+16137670,Toothpaste Aphrodisiac For Her and Her,You&Oil,12.6,gbp/£,False,,0,12.6,0.0,/youoil/toothpaste-aphrodisiac-for-her-and-her-gift-set/,/youoil/4779035864005_01-o__220609.jpg,2024-05-08 11:05:49,uk
+16125897,Biosmalto Baby-Kid,Curasept,6.4,gbp/£,False,,0,6.4,0.0,/curasept/biosmalto-baby-kid-toothpaste-for-children-without-fluoride/,/curasept/8056746071189_01-o__220203.jpg,2024-05-08 11:05:49,uk
+501005,Oral Care Ayurvedic Dental Cream,Himalaya Herbals,3.0,gbp/£,False,,0,3.0,0.0,/himalaya-herbals/oral-care-ayurvedic-dental-cream-herbal-toothpaste-with-fluoride/,/himalaya-herbals/8901138500306_01-o__220613.jpg,2024-05-08 11:05:49,uk
+16136560,Toothpaste Black,Dentissimo,10.3,gbp/£,False,,0,10.3,0.0,/dentissimo/toothpaste-black-black-whitening-toothpaste/,/dentissimo/7640162324304_01-o__220627.jpg,2024-05-08 11:05:49,uk
+16136439,Toothpaste Kids,Dentissimo,5.4,gbp/£,False,,0,5.4,0.0,/dentissimo/toothpaste-kids-toothpaste-for-children-without-fluoride/,/dentissimo/7640162322393_01-o__220718.jpg,2024-05-08 11:05:49,uk
+16087931,Botanique Cinnamon,Himalaya Herbals,10.2,gbp/£,False,,0,10.2,0.0,/himalaya-herbals/botanique-cinnamon-toothpaste-for-complete-protection-of-teeth/,/himalaya-herbals/605069200264_01-o__210811.jpg,2024-05-08 11:05:49,uk
+16087939,Botanique Simply mint,Himalaya Herbals,8.7,gbp/£,False,,0,8.7,0.0,/himalaya-herbals/oral-care/,/himalaya-herbals/605069200240_01-o__210811.jpg,2024-05-08 11:05:49,uk
+16193265,Bébé First Teeth Toothpaste,NeBiolina,4.8,gbp/£,False,,0,4.8,0.0,/nebiolina/bebe-first-teeth-toothpaste-toothpaste-for-children/,/nebiolina/8002849917732_01-o__230718.jpg,2024-05-08 11:05:49,uk
+579226,Perfect White Black Sensitive,Beverly Hills Formula,6.6,gbp/£,False,,0,6.6,0.0,/beverly-hills-formula/perfect-white-black-sensitive-whitening-toothpaste-with-activated-charcoal-for-sensitive-teeth/,/beverly-hills-formula/bevpbsw_ktps10_01__161031.jpg,2024-05-08 11:05:49,uk
+16087916,Dental Cream Dental Cream,Himalaya Herbals,4.3,gbp/£,False,,0,4.3,0.0,/himalaya-herbals/oral-care-fluoride-free-toothpaste-for-complete-protection-of-teeth/,/himalaya-herbals/4751015926668_01-o__210811.jpg,2024-05-08 11:05:49,uk
+16170965,Organic Kids 3+ years,Pure Beginnings,8.6,gbp/£,False,,0,8.6,0.0,/pure-beginnings/organic-kids-3-years-toothpaste-for-children/,/pure_beginnings/6009824780284_01-o__230216.jpg,2024-05-08 11:05:49,uk
+16077060,All Day Care,Toothy®,11.7,gbp/£,False,,0,11.7,0.0,/toothy/all-day-care-whitening-toothpaste/,/toothy/726667490687_01-o__210523.jpg,2024-05-08 11:05:49,uk
+501468,Oral Care Complete Care,Himalaya Herbals,3.0,gbp/£,False,,0,3.0,0.0,/himalaya-herbals/oral-care-toothpaste-for-complete-protection-of-teeth/,/himalaya-herbals/hihorlw_ktps30__151008.jpg,2024-05-08 11:05:49,uk
+16090058,Natural Toothpaste Tablets,The Humble Co.,6.7,gbp/£,False,,0,6.7,0.0,/the-humble-co/natural-toothpaste-tablets-pastilles-without-fluoride/,/humble/7350075691911_01-o__210816.jpg,2024-05-08 11:05:49,uk
+16241525,ADS DNA 720,Curasept,6.2,gbp/£,False,,0,6.2,0.0,/curasept/ads-dna-720-gel-toothpaste/,/curasept/8056746073411_01-o__240503.jpg,2024-05-08 11:05:49,uk
+16241400,Teething,Brush Baby,3.5,gbp/£,False,,0,3.5,0.0,/brush-baby/teething-toothpaste/,/brush_baby/5060178100679_01-o__240326.jpg,2024-05-08 11:05:49,uk
+16233954,ADS DNA 712,Curasept,5.9,gbp/£,False,,0,5.9,0.0,/curasept/ads-dna-712-gel-toothpaste/,/curasept/8056746073497_01-o__240503.jpg,2024-05-08 11:05:49,uk
+16197076,Cavity Protection Fresh Mint,Colgate,1.7,gbp/£,False,,0,1.7,0.0,/colgate/cavity-protection-toothpaste-with-fluoride/,/colgate/6920354836176_01-o__230811.jpg,2024-05-08 11:05:49,uk
+16148486,Biomed Biocomplex Trio,Splat,12.2,gbp/£,True,teeth,15,10.37,1.83,/splat/set-trio-setfor-teeth/,/splat/7640168937133_01__220927.jpg,2024-05-08 11:05:49,uk
+16077171,Professional Choice,White Glo,5.7,gbp/£,True,teeth,15,4.85,0.85,/white-glo/professional-choice-dental-care-set/,/white-glo/9319871000615_01-o__210524.jpg,2024-05-08 11:05:49,uk
+16109367,JUNIOR Mint fresh,MEDIBLANC,6.6,gbp/£,True,20promo,20,5.28,1.32,/mediblanc/junior-mint-fresh-toothpaste-for-children/,/mediblanc/8059300533147_01-o__220114.jpg,2024-05-08 11:05:49,uk
+16077195,Charcoal,White Glo,5.4,gbp/£,False,,0,5.4,0.0,/white-glo/charcoal-dental-care-set/,/white-glo/9319871001070_01-o__210524.jpg,2024-05-08 11:05:49,uk
+601023,3D White,Blend-a-med,1.4,gbp/£,False,,0,1.4,0.0,/blend-a-med/3d-white-toothpaste-with-whitening-effect/,/blend-a-med/ble3dww_ktps05_01__170130.jpg,2024-05-08 11:05:49,uk
+16109068,Whitening Mint,Marvis,3.9,gbp/£,True,teeth,15,3.32,0.58,/marvis/whitening-mint-toothpaste-with-whitening-effect/,/marvis/8004395111312_01-o__211122.jpg,2024-05-08 11:05:49,uk
+530306,Herbal White,Colgate,1.5,gbp/£,False,,0,1.5,0.0,/colgate/herbal-white-herbal-toothpaste-with-whitening-effect/,/colgate/8714789098838_01-o__240229.jpg,2024-05-08 11:05:49,uk
